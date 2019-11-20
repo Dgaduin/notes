@@ -5,7 +5,6 @@ const child = require('child_process');
 const replace = require('replace-in-file');
 const copyfiles = require('copyfiles');
 const rimraf = require("rimraf");
-rimraf("/some/directory", function () { console.log("done"); });
 
 const readDir = promisify(fs.readdir);
 const createDir = promisify(fs.mkdir);
@@ -15,16 +14,19 @@ const writeFile = promisify(fs.writeFile);
 const copy = promisify(copyfiles);
 const exec = promisify(child.exec);
 
-const testFolder = './staging/';
+const docs = './docs';
+const staging = './staging';
+const assets = './assets';
+const template = './template';
+const dist = './dist';
 
 const replaceOptions = {
-    files: './staging/*.md',
+    files: `${staging}/*.md`,
     from: [
         /\[\[(.+)\]\]/g, // match zettle links and converts them to static local links
         /#([^\s]+)/g], // finds tags and points them to a search url for tags
-    to: ['[$1](./$1)', '[$&](tag-search/$1)'],
+    to: ['[$1](./$1.html)', '[$&](tag-search/$1)'],
 }
-
 
 const headerRegex = /^#+ (.+)/;
 const findFirstHeader = (fileContent, filename) => {
@@ -33,58 +35,62 @@ const findFirstHeader = (fileContent, filename) => {
 };
 
 const clearAll = async () => Promise.all([
-    deleteDir('./static'),
-    deleteDir('./staging')
+    deleteDir(dist),
+    deleteDir(staging)
 ]);
 
-const clearStaging = () => deleteDir('./staging');
-
 const stage = () => Promise.all([
-    copy(['./docs/*.md', './staging',], true),
-    createDir('staging'),
-    createDir('static')
+    createDir(staging),
+    createDir(dist),
+    copy([`${docs}/*.md`, staging,], true),
 ]);
 
 const extractMetadata = async () => {
-    const files = await readDir(testFolder);
+    const files = await readDir(staging);
 
     const notes = await Promise.all(files.map(async file => {
-        const filePath = `${testFolder}${file}`;
+        const filePath = `${staging}/${file}`;
         return data = readFile(filePath, 'utf8')
             .then(data => ({
                 header: findFirstHeader(data, file.slice(0, -3)),
-                name: file.slice(0, -3)
+                name: file.slice(0, -3),
+                author: "Atanas Pashkov"
             }));
     }));
+    await writeFile(`${dist}/metdata.json`, JSON.stringify({ notes }));
     return { notes };
 };
 
 const renderSidebar = async (data) => {
-    const output = Mustache.render(await readFile('./assets/sidebar.mustache', 'utf8'), data);
-    await writeFile('./staging/sidebar.html', output);
+    const output = Mustache.render(await readFile(`${template}/sidebar.mustache`, 'utf8'), data);
+    await writeFile(`${staging}/sidebar.html`, output);
     return data;
 }
 
-const generateHtml = async (data) => {
+const generateNotes = async (data) => {
     const commands = data.notes.map(async (note) => {
-        const command = `pandoc -c ./pandoc.css --template ./assets/pandoc.html  -s ./staging/${note.name}.md -o ./static/${note.name}.html -A ./staging/sidebar.html --metadata pagetitle="${note.header}"`;
-        console.log(command);
-        return exec(command)
-            .then(({ stdout, stderr }) => {
-                stdout || console.log('stdout:', stdout);
-                stderr || console.log('stderr:', stderr);
-            });
+        const command = `pandoc -c ./style.css --template ${template}/pandoc.html -s ${staging}/${note.name}.md -o ${dist}/${note.name}.html -A ${staging}/sidebar.html --metadata pagetitle="${note.header}" --metadata author="${note.author}"`;
+        return exec(command);
     });
+
     return await Promise.all(commands);
 }
 
-const copyAssets = () => copy(['./assets/pandoc.css', './static',], true);
+const generateIndex = async () => {
+    const command = `pandoc -c ./style.css --template ${template}/pandoc.html -s ${template}/index.html -o ${dist}/index.html -A ${staging}/sidebar.html --metadata pagetitle="Notes"`;
+    return exec(command);
+}
+
+const copyAssets = () => copy([`${assets}/*`, dist,], true);
+
+const clearStaging = () => deleteDir(staging);
 
 clearAll()
     .then(stage)
     .then(() => replace(replaceOptions))
     .then(extractMetadata)
     .then(renderSidebar)
-    .then(generateHtml)
+    .then(generateNotes)
+    .then(generateIndex)
     .then(copyAssets)
     .then(clearStaging);
