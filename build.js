@@ -14,7 +14,7 @@ const writeFile = promisify(fs.writeFile);
 const copy = promisify(copyfiles);
 const exec = promisify(child.exec);
 
-const docs = './docs';
+const notes = './notes';
 const staging = './staging';
 const assets = './assets';
 const template = './template';
@@ -24,7 +24,7 @@ const replaceOptions = {
     files: `${staging}/*.md`,
     from: [
         /\[\[(.+)\]\]/g, // match zettle links and converts them to static local links
-        /#([^\s]+)/g], // finds tags and points them to a search url for tags
+        /#([^\s#]+)/g], // finds tags and points them to a search url for tags
     to: ['[$1](./$1.html)', '[$&](tag-search/$1)'],
 }
 
@@ -42,7 +42,7 @@ const clearAll = async () => Promise.all([
 const stage = () => Promise.all([
     createDir(staging),
     createDir(dist),
-    copy([`${docs}/*.md`, staging,], true),
+    copy([`${notes}/*.md`, staging,], true),
 ]);
 
 const extractMetadata = async () => {
