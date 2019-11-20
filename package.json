@@ -1,13 +1,10 @@
 {
     "name": "app-name",
     "version": "0.1.0",
-    "scripts": {
-        "test-replace": "npx replace-in-file --configFile replace-config.js --dry",
-        "replace": "npx replace-in-file --configFile replace-config.js",
-        "stage": "npx copyfiles -f \"docs/*.md\" \"staging\" "
-    },
     "devDependencies": {
         "replace-in-file": "4.2.0",
-        "copyfiles": "2.1.1"
+        "copyfiles": "2.1.1",
+        "mustache": "3.1.0",
+        "rimraf": "3.0.0"
     }
 }
