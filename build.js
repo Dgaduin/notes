@@ -1,5 +1,5 @@
 const fs = require('fs');
-const Mustache = require('Mustache');
+const Mustache = require('mustache');
 const { promisify } = require('util');
 const child = require('child_process');
 const replace = require('replace-in-file');
