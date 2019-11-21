@@ -1,8 +1,12 @@
-<div id="sidebar">
-    <h2>Site name</h2>
+<nav id="sidebar">
+    <header>
+        <h2>Site name</h2>
+    </header>
     <ul>
     {{#notes}}
-    <li><a href="./{{name}}.html">{{header}}</a></li>
+        <li>
+            <a href="./{{name}}.html">{{header}}</a>
+        </li>
     {{/notes}}
     </ul>
-</div>
+</nav>

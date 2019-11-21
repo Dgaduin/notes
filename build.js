@@ -69,7 +69,7 @@ const renderSidebar = async (data) => {
 
 const generateNotes = async (data) => {
     const commands = data.notes.map(async (note) => {
-        const command = `pandoc -c ./style.css --template ${template}/pandoc.html -s ${staging}/${note.name}.md -o ${dist}/${note.name}.html -A ${staging}/sidebar.html --metadata pagetitle="${note.header}" --metadata author="${note.author}"`;
+        const command = `pandoc --template ${template}/pandoc.html -s ${staging}/${note.name}.md -o ${dist}/${note.name}.html -A ${staging}/sidebar.html --metadata pagetitle="${note.header}" --metadata author="${note.author}"`;
         return exec(command);
     });
 
@@ -77,7 +77,7 @@ const generateNotes = async (data) => {
 }
 
 const generateIndex = async () => {
-    const command = `pandoc -c ./style.css --template ${template}/pandoc.html -s ${template}/index.html -o ${dist}/index.html -A ${staging}/sidebar.html --metadata pagetitle="Notes"`;
+    const command = `pandoc --template ${template}/pandoc.html -s ${template}/index.html -o ${dist}/index.html -A ${staging}/sidebar.html --metadata pagetitle="Notes"`;
     return exec(command);
 }
 

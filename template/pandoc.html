@@ -45,6 +45,8 @@
         $highlighting-css$
     </style>
     $endif$
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/normalize.css" />
     $for(css)$
     <link rel="stylesheet" href="$css$" />
     $endfor$
@@ -82,9 +84,9 @@
         $table-of-contents$
     </nav>
     $endif$
-    <div id="main">
+    <article id="main">
         $body$
-    </div>
+    </article>
     $for(include-after)$
     $include-after$
     $endfor$
