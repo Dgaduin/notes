@@ -5,6 +5,7 @@ const child = require('child_process');
 const replace = require('replace-in-file');
 const copyfiles = require('copyfiles');
 const rimraf = require("rimraf");
+const FlexSearch = require("flexsearch");
 
 const readDir = promisify(fs.readdir);
 const createDir = promisify(fs.mkdir);
@@ -54,6 +55,7 @@ const extractMetadata = async () => {
             .then(data => ({
                 header: findFirstHeader(data, file.slice(0, -3)),
                 name: file.slice(0, -3),
+                link: `/${file.slice(0, -3)}.html`,
                 author: "Atanas Pashkov"
             }));
     }));
@@ -76,7 +78,7 @@ const generateNotes = async (data) => {
     return await Promise.all(commands);
 }
 
-const generateIndex = async () => {
+const generatePageIndex = async () => {
     const command = `pandoc --template ${template}/pandoc.html -s ${template}/index.html -o ${dist}/index.html -A ${staging}/sidebar.html --metadata pagetitle="Notes"`;
     return exec(command);
 }
@@ -85,12 +87,25 @@ const copyAssets = () => copy([`${assets}/*`, dist,], true);
 
 const clearStaging = () => deleteDir(staging);
 
+const generateSeachIndex = async () => {
+    const index = new FlexSearch();
+    const files = fs.readdirSync(notes);
+    files.forEach(file => {
+        const filePath = `${staging}/${file}`;
+        const text = fs.readFileSync(filePath, 'utf8');
+        index.add(file.slice(0, -3), text);
+    });
+    await writeFile(`${dist}/searchIndex.json`, index.export());
+}
+
+
 clearAll()
     .then(stage)
     .then(() => replace(replaceOptions))
     .then(extractMetadata)
     .then(renderSidebar)
     .then(generateNotes)
-    .then(generateIndex)
+    .then(generatePageIndex)
+    .then(generateSeachIndex)
     .then(copyAssets)
     .then(clearStaging);
