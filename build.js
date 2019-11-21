@@ -1,5 +1,4 @@
 const fs = require('fs');
-const Mustache = require('mustache');
 const { promisify } = require('util');
 const child = require('child_process');
 const replace = require('replace-in-file');
@@ -59,19 +58,13 @@ const extractMetadata = async () => {
                 author: "Atanas Pashkov"
             }));
     }));
-    await writeFile(`${dist}/metdata.json`, JSON.stringify({ notes }));
+    await writeFile(`${dist}/metadata.json`, JSON.stringify({ notes }));
     return { notes };
 };
 
-const renderSidebar = async (data) => {
-    const output = Mustache.render(await readFile(`${template}/sidebar.mustache`, 'utf8'), data);
-    await writeFile(`${staging}/sidebar.html`, output);
-    return data;
-}
-
 const generateNotes = async (data) => {
     const commands = data.notes.map(async (note) => {
-        const command = `pandoc --template ${template}/pandoc.html -s ${staging}/${note.name}.md -o ${dist}/${note.name}.html -A ${staging}/sidebar.html --metadata pagetitle="${note.header}" --metadata author="${note.author}"`;
+        const command = `pandoc ${staging}/${note.name}.md -o ${dist}/${note.name}.html --metadata pagetitle="${note.header}" --metadata author="${note.author}"`;
         return exec(command);
     });
 
@@ -79,7 +72,7 @@ const generateNotes = async (data) => {
 }
 
 const generatePageIndex = async () => {
-    const command = `pandoc --template ${template}/pandoc.html -s ${template}/index.html -o ${dist}/index.html -A ${staging}/sidebar.html --metadata pagetitle="Notes"`;
+    const command = `pandoc --template ${template}/pandoc.html -s ${template}/index.html -o ${dist}/index.html --metadata pagetitle="Notes"`;
     return exec(command);
 }
 
@@ -103,7 +96,6 @@ clearAll()
     .then(stage)
     .then(() => replace(replaceOptions))
     .then(extractMetadata)
-    .then(renderSidebar)
     .then(generateNotes)
     .then(generatePageIndex)
     .then(generateSeachIndex)
