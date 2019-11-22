@@ -26,7 +26,7 @@ const Home = () => html`<article id="main"><h1>This is a test</h1></article>`
 
 class Note extends Component {
     shouldComponentUpdate(nextProps) {
-        return nextProps.id != this.props.id;
+        return nextProps.id == this.props.id;
     }
 
     async setHtml(id) {
