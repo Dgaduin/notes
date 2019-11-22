@@ -71,11 +71,6 @@ const generateNotes = async (data) => {
     return await Promise.all(commands);
 }
 
-const generatePageIndex = async () => {
-    const command = `pandoc --template ${template}/pandoc.html -s ${template}/index.html -o ${dist}/index.html --metadata pagetitle="Notes"`;
-    return exec(command);
-}
-
 const copyAssets = () => copy([`${assets}/*`, dist,], true);
 
 const clearStaging = () => deleteDir(staging);
@@ -97,7 +92,6 @@ clearAll()
     .then(() => replace(replaceOptions))
     .then(extractMetadata)
     .then(generateNotes)
-    .then(generatePageIndex)
     .then(generateSeachIndex)
     .then(copyAssets)
     .then(clearStaging);
