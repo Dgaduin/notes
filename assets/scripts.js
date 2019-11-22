@@ -1,4 +1,6 @@
-import { html, render } from 'https://unpkg.com/htm/preact/standalone.module.js';
+import { html, render, Component } from 'https://unpkg.com/htm/preact/standalone.module.js';
+import Router from 'https://unpkg.com/preact-router?module';
+import AsyncRoute from 'https://unpkg.com/preact-async-route?module'
 
 const fetchMetadata = async () => {
     const url = '/metadata.json';
@@ -9,19 +11,46 @@ const fetchMetadata = async () => {
 
 const renderSidebar = ({ metadata }) =>
     metadata.notes.map(note => {
-        const { link, header } = note;
+        const { name, header } = note;
         return html`
         <li>
-            <a href="${link}">${header}</a>
+            <a href="${name}">${header}</a>
         </li>`;
     });
 
+const Home = () => html`<article id="main"><h1>This is a test</h1></article>`
+
+class Note extends Component {
+    constructor(props) {
+        super();
+        console.log(this.props, props, this.state)
+        this.state = { html: "" };
+    }
+
+    async componentDidMount(props) {
+        console.log(this.props, props, this.state)
+        const html = fetch(`/${props.id}`.html)
+            .then(res => res.text())
+        this.setState({ html });
+    }
+    render() {
+        const internalProps = {
+            dangerouslySetInnerHTML: this.state.html
+        };
+        return html`<article id="main" ...${internalProps}></article>`;
+    }
+}
 
 const App = (metadata) => {
     console.log(metadata);
     const notes = renderSidebar(metadata);
+    const asyncProps = {
+        path: "/note/:val"
+    };
+    const homeProps = {
+    }
     return html`
-    <div id="root">
+    <div id="root">    
         <nav id="sidebar">
             <header>
                 <h2>Notes</h2>
@@ -30,8 +59,11 @@ const App = (metadata) => {
                 ${notes}
             </ul>
         </nav>
-        <article id="main">
-        </article>
+        <${Router}>
+                <${Note} ...${asyncProps}/>                    
+                <${Home} ...${homeProps} default/> 
+        </${Router}>
+        
     </div>
     `;
 };
