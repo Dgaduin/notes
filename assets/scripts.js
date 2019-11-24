@@ -42,7 +42,17 @@ const Home = () =>
             <h1>Welcome</h1>
             <p>These are my notes</p>
             <p>Source and build steps can be found at <a href="https://github.com/Dgaduin/note-scripts">GitHub</a></P>
-            [![Netlify Status](https://api.netlify.com/api/v1/badges/6f89ced0-c355-4594-b38b-23615e7716e2/deploy-status)](https://app.netlify.com/sites/notes-dgaduin/deploys)
+            <p>
+                <a 
+                    href="https://app.netlify.com/sites/notes-dgaduin/deploys" 
+                    rel="nofollow">
+                        <img 
+                            src="https://camo.githubusercontent.com/a060d3a8d7d75179c23fb1d0da8958a4221046f7/68747470733a2f2f6170692e6e65746c6966792e636f6d2f6170692f76312f6261646765732f36663839636564302d633335352d343539342d623338622d3233363135653737313665322f6465706c6f792d737461747573" 
+                            alt="Netlify Status" 
+                            data-canonical-src="https://api.netlify.com/api/v1/badges/6f89ced0-c355-4594-b38b-23615e7716e2/deploy-status" 
+                            style="max-width:100%;">
+                </a>
+            </p>
         </article>`;
 
 class Note extends Component {
