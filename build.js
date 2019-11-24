@@ -78,11 +78,13 @@ const clearStaging = () => deleteDir(staging);
 const generateSeachIndex = async () => {
     const index = new FlexSearch();
     const files = fs.readdirSync(notes);
-    files.forEach(file => {
-        const filePath = `${staging}/${file}`;
-        const text = fs.readFileSync(filePath, 'utf8');
-        index.add(file.slice(0, -3), text);
-    });
+    files
+        .filter(file => file[0] != '.')
+        .forEach(file => {
+            const filePath = `${staging}/${file}`;
+            const text = fs.readFileSync(filePath, 'utf8');
+            index.add(file.slice(0, -3), text);
+        });
     await writeFile(`${dist}/searchIndex.json`, index.export());
 }
 
