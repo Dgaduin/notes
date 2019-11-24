@@ -5,15 +5,13 @@ import Router from 'https://unpkg.com/preact-router?module';
 const { createHashHistory } = History;
 const html = htm.bind(h);
 
-var process = { env: { NODE_ENV: "production" } };
-
 const fetchMetadata = async () => {
     const url = '/metadata.json';
     const data = await (await fetch(url)).json();
     return data;
 }
 
-const renderSidebar = ({ metadata }) =>
+const NotesCollection = ({ metadata }) =>
     metadata.notes.map(note => {
         const { name, header } = note;
         return html`
@@ -22,13 +20,32 @@ const renderSidebar = ({ metadata }) =>
         </li>`;
     });
 
-const Home = () => html`<article id="main"><h1>This is a test</h1></article>`
+const Sidebar = ({ metadata }) => {
+    return html`
+        <nav id="sidebar">
+            <header>
+                <h2>
+                    <a href="/">
+                        Notes
+                    </a>
+                </h2>
+            </header>
+            <ul>
+                <${NotesCollection} ...${{ metadata }}/>
+            </ul>
+        </nav> `;
+}
+
+const Home = () =>
+    html`
+        <article id="main">
+            <h1>Welcome</h1>
+            <p>These are my notes</p>
+            <p>Source and build steps can be found at <a href="https://github.com/Dgaduin/note-scripts">GitHub</a></P>
+            [![Netlify Status](https://api.netlify.com/api/v1/badges/6f89ced0-c355-4594-b38b-23615e7716e2/deploy-status)](https://app.netlify.com/sites/notes-dgaduin/deploys)
+        </article>`;
 
 class Note extends Component {
-    shouldComponentUpdate(nextProps) {
-        return nextProps.id == this.props.id;
-    }
-
     async setHtml(id) {
         const html = await fetch(`/${id}.html`).then(res => res.text());
         this.setState({ html });
@@ -38,8 +55,9 @@ class Note extends Component {
         this.setHtml(this.props.id);
     }
 
-    async componentDidUpdate() {
-        this.setHtml(this.props.id);
+    async componentDidUpdate(nextProps) {
+        if (nextProps.id != this.props.id)
+            this.setHtml(this.props.id);
     }
 
     render() {
@@ -47,67 +65,28 @@ class Note extends Component {
             dangerouslySetInnerHTML: { __html: this.state.html }
         };
 
-        return html`<article id="main" ...${internalProps}></article>`;
+        return html`<article id="main" ...${internalProps} />`;
     }
 }
 
 const App = (metadata) => {
-    const notes = renderSidebar(metadata);
-    const asyncProps = {
-        path: "/note/:id",
-    };
     const routerProps = { history: createHashHistory() };
+
     return html`
     <div id="root">            
         <${Router} ...${routerProps}>
-            <${Home} ...${{ default: true, path: "/" }}/> 
-            <${Note} ...${asyncProps}/>              
+            <${Home} ...${{ default: true, path: "/" }} /> 
+            <${Note} ...${{ path: "/note/:id" }} />              
         <//>     
-        <nav id="sidebar">
-            <header>
-                <h2><a href="/">Notes</a></h2>
-            </header>
-            <ul>
-                ${notes}
-            </ul>
-        </nav>   
+        <${Sidebar} ...${metadata}/>
     </div>
     `;
 };
 
 
 fetchMetadata()
-    .then((x) => {
+    .then((metadata) => {
         render(
-            html`<${App} ...${{ metadata: x }} />`,
+            html`<${App} ...${{ metadata }} />`,
             document.body)
     });
-
-// const renderHtml = async (route) => {
-//     console.log(route);
-//     const text = await (await fetch(route)).text();
-//     return html(text);
-// };
-
-// render(
-//     html`
-//     <${await renderHtml(location.pathname)} />    
-//     `,
-//     document.getElementById('main')
-// );
-
-
-// const Route = {
-//     //'/': React.lazy(() => import('./routes/home/index.js')),
-//     '/': () => html`<h2>Home </h2>`,
-//     '*': () => html`<h2>Not Found</h2>`
-// }
-
-// ReactDOM.render(
-//     html`
-//     <${React.Suspense} fallback=${html`<div></div>`}>
-//     <${Route[location.pathname] || Route['*']} />
-//     <//>
-//     `,
-//     document.getElementById('test')
-// );
