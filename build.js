@@ -48,16 +48,19 @@ const stage = () => Promise.all([
 const extractMetadata = async () => {
     const files = await readDir(staging);
 
-    const notes = await Promise.all(files.map(async file => {
-        const filePath = `${staging}/${file}`;
-        return data = readFile(filePath, 'utf8')
-            .then(data => ({
-                header: findFirstHeader(data, file.slice(0, -3)),
-                name: file.slice(0, -3),
-                link: `/#/note/${file.slice(0, -3)}`,
-                author: "Atanas Pashkov"
+    const notes = await Promise.all(
+        files
+            .reverse()
+            .map(async file => {
+                const filePath = `${staging}/${file}`;
+                return data = readFile(filePath, 'utf8')
+                    .then(data => ({
+                        header: findFirstHeader(data, file.slice(0, -3)),
+                        name: file.slice(0, -3),
+                        link: `/#/note/${file.slice(0, -3)}`,
+                        author: "Atanas Pashkov"
+                    }));
             }));
-    }));
     await writeFile(`${dist}/metadata.json`, JSON.stringify({ notes }));
     return { notes };
 };
