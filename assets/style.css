@@ -56,7 +56,7 @@
 
 @media (min-width: 40em) {
   #main {
-    width: calc(80vw - 30 px);
+    width: calc(80vw - 30px);
     max-width: 725px;
     margin-left: 20vw;
   }
