@@ -35,19 +35,19 @@ class Note extends Component {
     }
 
     render() {
-        let html = this.state.html;
+        let page = this.state.html;
         if (this.props.query) {
             const keyword = query;
-            const content = html;
+            const content = page;
 
             const sanitizedKeyword = keyword.replace(/\W/g, '');
 
             const regexForContent = new RegExp(sanitizedKeyword, 'gi');
 
-            content = content.replace(regexForContent, '<mark>$&</mark>');
+            page = content.replace(regexForContent, '<mark>$&</mark>');
         }
         const internalProps = {
-            dangerouslySetInnerHTML: { __html: html }
+            dangerouslySetInnerHTML: { __html: page }
         };
 
         return html`<article id="main" ...${internalProps} /> `;
