@@ -35,8 +35,19 @@ class Note extends Component {
     }
 
     render() {
+        let html = this.state.html;
+        if (this.props.query) {
+            const keyword = query;
+            const content = html;
+
+            const sanitizedKeyword = keyword.replace(/\W/g, '');
+
+            const regexForContent = new RegExp(sanitizedKeyword, 'gi');
+
+            content = content.replace(regexForContent, '<mark>$&</mark>');
+        }
         const internalProps = {
-            dangerouslySetInnerHTML: { __html: this.state.html }
+            dangerouslySetInnerHTML: { __html: html }
         };
 
         return html`<article id="main" ...${internalProps} /> `;
@@ -50,13 +61,13 @@ class SearchResults extends Component {
     }
 
     async componentDidMount() {
-        const results = await index.search(this.props.query);
+        const results = await index.search({ query: this.props.query, suggest: true });
         this.setState({ results });
     }
 
     async componentDidUpdate(nextProps) {
         if (nextProps.query != this.props.query) {
-            const results = await index.search(this.props.query);
+            const results = await index.search({ query: this.props.query, suggest: true });
             this.setState({ results });
         }
     }
@@ -66,7 +77,7 @@ class SearchResults extends Component {
             const note = metadata.notes.find(x => x.name == result)
             return html`
             <div lass="searchResult">
-                <a href="/note/${result}">${note.header}</a>
+                <a href="/note/${result}/${this.props.query}">${note.header}</a>
             </div>`;
         });
         return html`
@@ -122,7 +133,7 @@ const App = (metadata) => {
         <div id="root" >
         <${Router} ...${routerProps} >
             <${Home} ...${{ default: true, path: "/" }} /> 
-            <${Note} ...${{ path: "/note/:id" }} />
+            <${Note} ...${{ path: "/note/:id/:query?" }} />
             <${SearchResults} ...${{ path: "/search/:query" }} />              
         <//>     
     <${Sidebar} ...${metadata} />

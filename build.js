@@ -25,7 +25,7 @@ const replaceOptions = {
     from: [
         /\[\[(.+)\]\] (.+)/g, // match zettle links and converts them to static local links
         /[^/]#([^\s#]+)/g], // finds tags and points them to a search url for tags
-    to: ['[$2](./#/note/$1)', '[$&](search/$1)'],
+    to: ['[$2](./#/note/$1)', '[$&](./#/search/$1)'],
 }
 
 const headerRegex = /^#+ (.+)/;
