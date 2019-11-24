@@ -91,7 +91,7 @@ body {
   margin: 0;
   padding: 0;
   border: none;
-  height: 100%;
+  height: calc(100% - 30px);
 }
 
 /* Nunito Sans for the font */
