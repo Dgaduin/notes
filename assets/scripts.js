@@ -42,7 +42,7 @@ class Note extends Component {
 
             const sanitizedKeyword = keyword.replace(/\W/g, '');
 
-            const regexForContent = new RegExp(`(${sanitizedKeyword})(?<![^\"][^\>])`, 'gi');
+            const regexForContent = new RegExp(`(${sanitizedKeyword})(?!\"\>)`, 'gi');
 
             page = content.replace(regexForContent, '<mark>$&</mark>');
         }
