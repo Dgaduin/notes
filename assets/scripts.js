@@ -37,7 +37,7 @@ class Note extends Component {
     render() {
         let page = this.state.html;
         if (this.props.query) {
-            const keyword = query;
+            const keyword = this.props.query;
             const content = page;
 
             const sanitizedKeyword = keyword.replace(/\W/g, '');
