@@ -23,9 +23,9 @@ const dist = './dist';
 const replaceOptions = {
     files: `${staging}/*.md`,
     from: [
-        /\[\[(.+)\]\]/g, // match zettle links and converts them to static local links
-        /#([^\s#]+)/g], // finds tags and points them to a search url for tags
-    to: ['[$1](./$1.html)', '[$&](tag-search/$1)'],
+        /\[\[(.+)\]\] (.+)/g, // match zettle links and converts them to static local links
+        /[^/]#([^\s#]+)/g], // finds tags and points them to a search url for tags
+    to: ['[$2](./#/note/$1)', '[$&](tag-search/$1)'],
 }
 
 const headerRegex = /^#+ (.+)/;
@@ -54,7 +54,7 @@ const extractMetadata = async () => {
             .then(data => ({
                 header: findFirstHeader(data, file.slice(0, -3)),
                 name: file.slice(0, -3),
-                link: `/${file.slice(0, -3)}.html`,
+                link: `/#/note/${file.slice(0, -3)}`,
                 author: "Atanas Pashkov"
             }));
     }));
