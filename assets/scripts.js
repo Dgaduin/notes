@@ -36,7 +36,7 @@ class Note extends Component {
 
     render() {
         let page = this.state.html;
-        if (this.props.query) {
+        if (this.props.query && page) {
             const keyword = this.props.query;
             const content = page;
 
