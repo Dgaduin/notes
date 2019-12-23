@@ -1,0 +1,6 @@
+# Main steps
+
+#pin
+
+Clipped from: https://news.ycombinator.com/item?id=21481487
+closely related to the "get it working, get it quick, get it pretty" process of experienced devs doing new stuff.
