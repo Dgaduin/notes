@@ -107,6 +107,7 @@ const generateSearchIndex = async (notesCollection) => {
   console.log('Finished generating search index\n');
 };
 
+const copyHeadersFile = () => copy(['./_headers', dist], true);
 
 clearAll()
   .then(stage)
@@ -114,4 +115,5 @@ clearAll()
   .then(readAndExtractMetadata)
   .then(generateNotes)
   .then(generateSearchIndex)
+  .then(copyHeadersFile)
   .then(clearStaging);
