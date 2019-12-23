@@ -32,14 +32,15 @@ const clearAll = async () => Promise.all([
   (console.log('\tClearing staging folder\n'), deleteDir(staging)),
 ]);
 
-const stage = () => Promise.all([
-  (console.log('Creating directories'), console.log('\tCreating staging folder'), createDir(staging)),
-  (console.log('\tCreating distribution folder'), createDir(dist)),
-  (console.log('\tCreating distribution/notes folder'), createDir(`${dist}/notes`)),
-  (console.log('\tCreating distribution/images folder'), createDir(`${dist}/images`)),
-  (console.log('\tCopying notes to staging folder\n'), copy([`${notes}/*.md`, staging], true)),
-  (console.log('\tCopying images to distribution folder\n'), copy([`${notes}/images/*.*`, `${dist}/images`], true)),
-]);
+const stage = async () => {
+  await Promise.all([
+    (console.log('Creating directories'), console.log('\tCreating staging folder'), createDir(staging)),
+    (console.log('\tCreating distribution folder'), createDir(dist)),
+    (console.log('\tCreating distribution/notes folder'), createDir(`${dist}/notes`)),
+    (console.log('\tCreating distribution/images folder'), createDir(`${dist}/images`))]);
+  await (console.log('\tCopying notes to staging folder\n'), copy([`${notes}/*.md`, staging], true));
+  await (console.log('\tCopying images to distribution folder\n'), copy([`${notes}/images/*.*`, `${dist}/images`], true));
+};
 
 const readAndExtractMetadata = async () => {
   console.log('Extracting metadata');
