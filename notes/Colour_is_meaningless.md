@@ -6,7 +6,7 @@ keywords:
    - design
 ---
 
-# Colour is meaningless
+# Colour is meaningless[^1]
 
 The only things you can communicate with colour are:
 
@@ -19,4 +19,4 @@ The only things you can communicate with colour are:
 
 ----
 
-[Source](https://medium.com/radical-ux/nine-nasty-ux-truths-83b30ea94355)
+[^1]: [Radical UX](https://medium.com/radical-ux/nine-nasty-ux-truths-83b30ea94355)
