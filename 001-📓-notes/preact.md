@@ -1,0 +1,34 @@
+# Preact
+#js #rendering #preact
+
+Preact is a minimal functional renderer, similar to React, but smaller and more concise.
+
+The core imports are `import { h, render, Component } from 'preact';`
+
+- `h` is the JSX parser
+- `render` is the initial render function, which builds the VDOM tree
+- `Component` is the class-type component
+
+E.g.
+
+```JSX
+class Clock extends Component {
+ render() {
+  let time = new Date();
+  return <time datetime={time.toISOString()}>{ time.toLocaleTimeString() }</time>;
+ }
+}
+
+// render an instance of Clock into <body>:
+render(<Clock />, document.body);
+```
+
+---
+
+[[preact_lifecycles|Lifecycle hooks]]
+
+[[preact_router|Routes]
+
+[[htm|An alternative JSX-like syntax parser, good for no-build sites]]
+
+[Official Docs](https://github.com/preactjs/preact)

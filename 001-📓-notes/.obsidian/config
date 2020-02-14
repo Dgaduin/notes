@@ -1,0 +1,26 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Tag pane": true,
+    "Page preview": true,
+    "Starred": true,
+    "Custom CSS": true
+  },
+  "promptDelete": false,
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "spellcheckDictionary": [
+    "Boyscouting"
+  ],
+  "alwaysUpdateLinks": true
+}

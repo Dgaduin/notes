@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "125a41859a8c6f07",
+    "type": "split",
+    "children": [
+      {
+        "id": "4273a3111fef70af",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "campagins/ftgf/sessions/session-01.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "279300de128dba1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ba5dae1e87b8120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1802fb3ebac3a4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "80b8168e9b7c97c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a996aa5ca8afd87",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2715bd5de4c496e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53c1c98f6f3e74c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "272cce08dfa22057",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f587b3493fa57914",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "campagins/ftgf/sessions/session-01.md",
+    "campagins/ftgf/for_the_golden_fleece.md",
+    "campagins/ftgf/species/dahab_species.md",
+    "campagins/ftgf/sessions/session-02.md",
+    "campagins/ftgf/entities/the_argo.md"
+  ]
+}

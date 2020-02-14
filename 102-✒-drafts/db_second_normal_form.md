@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/second-normal-form-2nf/

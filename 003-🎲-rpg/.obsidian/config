@@ -1,0 +1,29 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Page preview": true,
+    "Tag pane": true,
+    "Starred": true,
+    "Custom CSS": true
+  },
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "spellcheckDictionary": [
+    "Paninsectium",
+    "Aiola",
+    "Ryyun"
+  ]
+}

@@ -1,0 +1,3 @@
+# ARES
+
+ARES (or Automated regulation engine system) are a group of very specialized synaptic based trading oversight AI, whose role is to make sure there is no cheating when it comes trading of fictional goods in the range of a few sectors. They have the only known FTL comm systems, but any attempts to reverse engineer have been met with very armed resistance. There is suspicion they were initially designed by the [[the_dahab_empire|Dahab Empire]], but they have been around for at least 6000 years, so no one is sure.

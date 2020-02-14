@@ -1,0 +1,5 @@
+# Synanthrope
+
+#rpg
+
+Synanthrope is a member of a species of wild animals and plants of various kinds that live near, and benefit from, an association with humans and the somewhat artificial habitats that humans create around them. Those habitats include houses, gardens, farms, roadsides, garbage dumps, and so on.

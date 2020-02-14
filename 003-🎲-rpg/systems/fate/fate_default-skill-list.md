@@ -1,0 +1,20 @@
+# Default skill list
+* Academics
+* Athletics
+* Burglary
+* Contacts
+* Craft
+* Deceive
+* Drive
+* Empathy
+* Fight
+* Investigate
+* Lore
+* Notice
+* Physique
+* Provoke
+* Rapport
+* Resources
+* Shoot
+* Stealth
+* Will

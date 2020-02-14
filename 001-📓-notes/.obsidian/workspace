@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "43476710ac8b174f",
+    "type": "split",
+    "children": [
+      {
+        "id": "616fac7bbdb08ccd",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "csharp_uri_builder.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c43e80209c9101f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3681cbb97ca80e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e08f98903e26c841",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a16a056fd1852dd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f5f2364c3b5c759",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31d4c724ea0fd657",
+    "type": "split",
+    "children": [
+      {
+        "id": "52d9a46add9aa1f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cfa2d764e93f418",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "aee19e6f1a4463f0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "95e2fb1fb02307be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 464
+  },
+  "lastOpenFiles": [
+    "csharp_uri_builder.md",
+    "aspcore_query_helpers.md",
+    "duct_tape.md",
+    "ducktape.md",
+    "boyscouting.md"
+  ]
+}

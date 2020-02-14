@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "a8275553da494534",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f5cafe644a2a0d6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "005-⛏-projects/20191213112544.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72bfc1eac6952947",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bc68124fadc5509",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5456fbe734fee61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "005-⛏-projects/20191213112544.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "07fe0ac9032677bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f69efee43edf20c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "005-⛏-projects/20191213112544.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381
+  },
+  "right": {
+    "id": "fa46c97bdcb830d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b91ed5374185b80e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65702a9322157ae6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e2476c3fdd1e720",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "3467b3302eb29fe4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa54ccdb2ad2cebf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "62d1f4687215e44a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "005-⛏-projects/20191213112544.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273
+  },
+  "lastOpenFiles": [
+    "005-⛏-projects/20191213112544.md",
+    "projects/20191213112544.md",
+    "projects/20191213112749.md",
+    "other/to_sort.md",
+    "other/quotes.md",
+    "daily/20200113134605.md"
+  ]
+}

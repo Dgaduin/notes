@@ -1,0 +1,41 @@
+{
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": false,
+    "word-count": true,
+    "tag-pane": true,
+    "page-preview": true,
+    "starred": true,
+    "daily-notes": true,
+    "custom-css": true,
+    "random-note": true,
+    "outline": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": false,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "theme": "obsidian",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "promptDelete": false,
+  "attachmentFolderPath": "./images",
+  "spellcheck": true,
+  "newFileFolderPath": "./drafts/",
+  "spellcheckDictionary": [
+    "rpg",
+    "Synanthrope",
+    "Sonoluminescence",
+    "Autocorrect",
+    "Homunuculus"
+  ],
+  "fileSortOrder": "alphabetical"
+}

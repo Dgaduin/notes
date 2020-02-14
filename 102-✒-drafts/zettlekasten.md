@@ -1,0 +1,3 @@
+# Zettelkasten
+
+#pin #knowledge

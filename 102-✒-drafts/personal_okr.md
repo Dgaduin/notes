@@ -1,0 +1,9 @@
+Personal OKRs
+
+Object - Key Result
+
+Qualitive idea - Quantative Goals
+
+[[yearly_themes]]
+
+#pin 

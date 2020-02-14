@@ -1,0 +1,19 @@
+---
+title: Windows shortcuts
+keywords:
+   - windows
+---
+
+# Windows shortcuts
+
+Shortcuts:
+
+* `Win+X` Windows admin tools
+* `Win+R` Run
+* `Win+Shift+S` Screenshot with snipping tool
+
+Tricks:
+
+* Type `.` in the Run window to open the user profile
+
+[[dll-resolution]]
