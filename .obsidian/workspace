@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9f5cafe644a2a0d6",
+        "id": "a8fa199dab0a15de",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005-⛏-projects/20191213112544.md",
+            "file": "004-🥧-food/bean-corn-pepper_salad.md",
             "mode": "source"
           }
         }
@@ -32,7 +32,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-⛏-projects/20191213112544.md"
+                "file": "004-🥧-food/bean-corn-pepper_salad.md"
+              }
+            }
+          },
+          {
+            "id": "62d1f4687215e44a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "004-🥧-food/bean-corn-pepper_salad.md"
               }
             }
           }
@@ -48,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-⛏-projects/20191213112544.md"
+                "file": "004-🥧-food/bean-corn-pepper_salad.md"
               }
             }
           }
@@ -80,16 +90,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "panckae"
               }
-            }
-          },
-          {
-            "id": "3467b3302eb29fe4",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -101,13 +103,11 @@
             }
           },
           {
-            "id": "62d1f4687215e44a",
+            "id": "3467b3302eb29fe4",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "005-⛏-projects/20191213112544.md"
-              }
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -117,11 +117,15 @@
     "width": 273
   },
   "lastOpenFiles": [
-    "005-⛏-projects/20191213112544.md",
-    "projects/20191213112544.md",
-    "projects/20191213112749.md",
-    "other/to_sort.md",
-    "other/quotes.md",
-    "daily/20200113134605.md"
+    "004-🥧-food/20200211202139.md",
+    "004-🥧-food/20200211202116.md",
+    "004-🥧-food/20200211202044.md",
+    "004-🥧-food/20200211202014.md",
+    "004-🥧-food/20200211201649.md",
+    "004-🥧-food/20200211201627.md",
+    "004-🥧-food/20200211201556.md",
+    "004-🥧-food/20200211201524.md",
+    "004-🥧-food/20200211201459.md",
+    "004-🥧-food/20200211201433.md"
   ]
 }

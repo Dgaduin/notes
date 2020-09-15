@@ -1,5 +1,5 @@
 ## Algorithms
-
+#pin
 [[fisher-yates]]
 
 ## Ref sheets

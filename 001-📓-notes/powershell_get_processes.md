@@ -1,4 +1,4 @@
 # Get list of processes 
-#powershell 
+#powershell #pin
 
 `Get-Process `

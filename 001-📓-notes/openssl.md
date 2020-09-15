@@ -1,7 +1,4 @@
----
-title: OpenSSL
----
-
+#pin
 # OpenSSL
 
 ```shell

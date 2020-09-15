@@ -1,1 +1,2 @@
+#pin
 [[linux-term-triples]]

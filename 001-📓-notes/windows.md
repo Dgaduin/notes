@@ -1,8 +1,4 @@
----
-title: Windows shortcuts
-keywords:
-   - windows
----
+#pin
 
 # Windows shortcuts
 

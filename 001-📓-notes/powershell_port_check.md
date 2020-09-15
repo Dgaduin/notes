@@ -1,4 +1,4 @@
 # Port check
-#powershell 
+#powershell #pin
 
 `Test-NetConnection -ComputerName "IP" -Port PortValue`

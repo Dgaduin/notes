@@ -3,7 +3,7 @@ Mini pear pies
 Rate this recipe
 Mini pear pies
 This recipe turns the fruit tart on its head with stunning results. You can flavour the syrup with whatever spices you like.
-![1b5dd9c9d177d631680bd5ffcdfb8aaa.png](..\images\1b5dd9c9d177d631680bd5ffcdfb8aaa.png)
+![[1b5dd9c9d177d631680bd5ffcdfb8aaa.png]]
 
 By Paul Hollywood
 From The Great British Bake Off

@@ -1,5 +1,5 @@
 # Print PATH via PowerShell
-#powershell 
+#powershell #pin
 
 ```powershell
 $Env:Path.Split(';')

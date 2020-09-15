@@ -1,9 +1,5 @@
-```yaml
-title: Git amend
-keywords:    - git
-```
-
 # Git Amend
+#pin
 
 ```shell
 git --amend -m &#39;New commit message&#39;
