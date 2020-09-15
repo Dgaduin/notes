@@ -37,5 +37,6 @@
     "Autocorrect",
     "Homunuculus"
   ],
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "newLinkFormat": "relative"
 }

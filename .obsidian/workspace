@@ -10,11 +10,10 @@
           {
             "id": "a8fa199dab0a15de",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "102-✒-drafts/value_in_the_seams.md",
+                "file": "005-⛏-projects/deskpad.md",
                 "mode": "source"
               }
             }
@@ -22,10 +21,11 @@
           {
             "id": "8c3242939099a2d5",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "102-✒-drafts/thinking_is_also_work.md",
+                "file": "Untitled.md",
                 "mode": "source"
               }
             }
@@ -50,7 +50,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "102-✒-drafts/value_in_the_seams.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -60,7 +60,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "102-✒-drafts/value_in_the_seams.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "102-✒-drafts/value_in_the_seams.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#csharp"
+                "query": "tag:#rpg"
               }
             }
           },
@@ -135,15 +135,15 @@
     "width": 273
   },
   "lastOpenFiles": [
-    "value_in_the_seams.md",
-    "thinking_is_also_work.md",
-    "pre-work.md",
-    "100-10-1.md",
-    "102-✒-drafts/20200303111634.md",
     "Untitled.md",
-    "102-✒-drafts/allow_everyone_to_lead.md",
-    "102-✒-drafts/20200303101909.md",
-    "102-✒-drafts/20200302160833.md",
-    "102-✒-drafts/20200302160545.md"
+    "zeroheight.md",
+    "005-⛏-projects/deskpad.md",
+    "business_tools.md",
+    "005-⛏-projects/known_entity_recognition_extension.md",
+    "005-⛏-projects/pin-manager.md",
+    "005-⛏-projects/codebase_browser.md",
+    "005-⛏-projects/caveman_campaign.md",
+    "103-♻-to_sort_rpg/anglish.md",
+    "001-📓-notes/aggregate_root_over_orm.md"
   ]
 }
