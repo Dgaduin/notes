@@ -1,3 +1,6 @@
+# Allow everyone to lead
+#pin #work-other 
+
 1. **Collaboration**. Set up a framework for collaboration.
 2. **Milestones**. Break down the project into milestones & provide estimates on these.
 3. **Communication**. Communicate project status to stakeholders.

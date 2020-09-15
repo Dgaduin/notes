@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "a8fa199dab0a15de",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "004-🥧-food/bean-corn-pepper_salad.md",
-            "mode": "source"
+        "id": "ec087da19ba3a9ab",
+        "type": "split",
+        "children": [
+          {
+            "id": "a8fa199dab0a15de",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "102-✒-drafts/value_in_the_seams.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "8c3242939099a2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "102-✒-drafts/thinking_is_also_work.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -32,7 +50,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-🥧-food/bean-corn-pepper_salad.md"
+                "file": "102-✒-drafts/value_in_the_seams.md"
               }
             }
           },
@@ -42,7 +60,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-🥧-food/bean-corn-pepper_salad.md"
+                "file": "102-✒-drafts/value_in_the_seams.md"
               }
             }
           }
@@ -58,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-🥧-food/bean-corn-pepper_salad.md"
+                "file": "102-✒-drafts/value_in_the_seams.md"
               }
             }
           }
@@ -90,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "panckae"
+                "query": "#csharp"
               }
             }
           },
@@ -117,15 +135,15 @@
     "width": 273
   },
   "lastOpenFiles": [
-    "004-🥧-food/20200211202139.md",
-    "004-🥧-food/20200211202116.md",
-    "004-🥧-food/20200211202044.md",
-    "004-🥧-food/20200211202014.md",
-    "004-🥧-food/20200211201649.md",
-    "004-🥧-food/20200211201627.md",
-    "004-🥧-food/20200211201556.md",
-    "004-🥧-food/20200211201524.md",
-    "004-🥧-food/20200211201459.md",
-    "004-🥧-food/20200211201433.md"
+    "value_in_the_seams.md",
+    "thinking_is_also_work.md",
+    "pre-work.md",
+    "100-10-1.md",
+    "102-✒-drafts/20200303111634.md",
+    "Untitled.md",
+    "102-✒-drafts/allow_everyone_to_lead.md",
+    "102-✒-drafts/20200303101909.md",
+    "102-✒-drafts/20200302160833.md",
+    "102-✒-drafts/20200302160545.md"
   ]
 }

@@ -1,3 +1,4 @@
+#pin
 https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.taskscheduler.unobservedtaskexception?view=netframework-4.7.2
 
 https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.valuetask?view=netcore-3.1
