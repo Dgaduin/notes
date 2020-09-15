@@ -4,7 +4,7 @@ STELLA PARKS
 Published: June 2, 2017 Last Updated: March 29, 2019
 Triple Coconut Cake Recipe
 [Photograph: Vicky Wasik]
-![16ac317985505ede9e2c0e831ee3495c.png](..\images\16ac317985505ede9e2c0e831ee3495c.png)
+![[16ac317985505ede9e2c0e831ee3495c.png]]
 
 This riff on the Southern classic incorporates coconut in every form, giving the cake an all-natural flavor and super-moist crumb. While it can be paired with whatever icing you prefer, I like it best with my Creamy Coconut Frosting, which is light and easy to handle. The caramelized white chocolate coconut ganache is an optional extravagance, but don't skimp on the toasted coconut!
 

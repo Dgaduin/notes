@@ -6,7 +6,7 @@ https://www.seriouseats.com/recipes/2017/08/strawberry-cake-recipe.html
 Published: August 14, 2017 Last Updated: May 28, 2019
 Double-Strawberry Cake Recipe
 [Photograph: Vicky Wasik]
-![1f7885bb84f8697fb3b0513c2bad2f10.png](..\images\1f7885bb84f8697fb3b0513c2bad2f10.png)
+![[1f7885bb84f8697fb3b0513c2bad2f10.png]]
 
 This pale-pink layer cake is made from both fresh strawberry purée and freeze-dried strawberries pulverized into a fine powder. That double whammy gives the cake an all-natural flavor and color, without interfering with its light and fluffy crumb. You can finish it with anything from my Swiss buttercream to strawberry whipped cream, but I love it best with tangy cream cheese frosting to highlight the tart strawberries.
 

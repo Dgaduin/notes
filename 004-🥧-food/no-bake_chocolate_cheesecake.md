@@ -4,7 +4,8 @@ YVONNE RUPERTI
 Published: March 19, 2014 Last Updated: April 4, 2019
 No Bake Chocolate Cheesecake Recipe
 Why bake it. [Photograph: Yvonne Ruperti]
-![f5bf7acddb797a1e578a84634789abbd.png](..\images\f5bf7acddb797a1e578a84634789abbd.png)
+![[f5bf7acddb797a1e578a84634789abbd.png]]
+
 https://www.seriouseats.com/recipes/2014/03/no-bake-chocolate-cheesecake.html
 Creamy, chocolaty, and best of all...no bake!
 

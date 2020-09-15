@@ -2,7 +2,7 @@ Sheet-Pan Chicken Fajitas Recipe
 DANIEL GRITZER
 12     PRINTER-FRIENDLY VERSION
 Tender chicken thighs marinated with soy sauce, lime juice, and plenty of spices cook up quickly under the heat of a broiler.
-![23d613478c4349d3139f6f12873a029d.png](..\images\23d613478c4349d3139f6f12873a029d.png)
+![[23d613478c4349d3139f6f12873a029d.png]]
 
 Published: January 20, 2020 Last Updated: January 23, 2020
 Sheet-Pan Chicken Fajitas Recipe
@@ -61,7 +61,7 @@ For the Chicken: Place chicken in a gallon-sized zipper-lock bag and add remaini
 3.
 For the Fajitas: When ready to cook, preheat broiler and position over rack to highest position. If you have a baking steel or stone, set it on the top rack and allow to preheat. If using a baking steel/stone, set a rimmed baking sheet on it to preheat as well; otherwise leave baking sheet at room temperature.
 
-![a43784a678438518093c29909d9ae194.png](..\images\a43784a678438518093c29909d9ae194.png)
+![[a43784a678438518093c29909d9ae194.png]]
 
 4.
 Remove chicken from marinade and blot dry with paper towels. Arrange chicken in an even layer on rimmed baking sheet. Broil, without flipping, until chicken is well browned on top side, about 5 minutes. Broiler strength and oven designs vary greatly, so cooking times will vary as well; keep a close watch. If your broiler heats unevenly, you may need to move the sheet tray around for more even browning. Flip chicken and broil until second side is also browned, about 4 minutes longer (chicken cooked with the help of a baking steel/stone will already have browned on the bottom, so you can flip it and continue cooking to ensure it's fully cooked through). Remove from oven and transfer chicken to a platter to rest.
@@ -75,6 +75,6 @@ Slice chicken into thin strips, then add back to sheet pan with any juices. Retu
 7.
 Serve immediately with hot tortillas, guacamole, pico de gallo, and other condiments, as desired.
 
-![66c73e7f0358e74b2ad56b8d05072fa3.png](..\images\66c73e7f0358e74b2ad56b8d05072fa3.png)
+![[66c73e7f0358e74b2ad56b8d05072fa3.png]]
 
 https://www.seriouseats.com/recipes/2020/01/sheet-pan-chicken-fajitas.html
