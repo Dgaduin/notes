@@ -1,10 +1,12 @@
 ---
 title: Things of 7
+modified: 2020-10-02T22:08:46+01:00
 ---
 
 # Things of 7
 
 #pin
+
 
 Aventine Hill (Latin, Aventinus; Italian, Aventino)
 Caelian Hill (Cælius, Celio)
@@ -44,4 +46,4 @@ From <https://keep.google.com/#NOTE/1sDvQMmfksFYs2ER3ctFFViIHmOYsS-DtVFn56NFD9Lz
 I think the 7 wonders of the world would be a much better option. These planets cause us to wonder about what life could be like there so these names would be appropriate:
 Giza Babylon Olympia Ephesus Halicarnassus Colossus (or Rhodes) Alexandria
 
-From <https://keep.google.com/#NOTE/1s1rJ_9ha612o4GoMGfE_t0kdJFxzRkPJ4vMX1Ka67SfgoQeN2jlcJ6ujpguG7U43Vju6> 
+From <https://keep.google.com/#NOTE/1s1rJ_9ha612o4GoMGfE_t0kdJFxzRkPJ4vMX1Ka67SfgoQeN2jlcJ6ujpguG7U43Vju6>
