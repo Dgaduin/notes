@@ -115,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "b91ed5374185b80e",
@@ -136,6 +136,7 @@
     "width": 499.5
   },
   "lastOpenFiles": [
+    "102-✒-drafts/git.md",
     "001-📓-notes/git.md",
     "102-✒-drafts/csharp_duck_types.md",
     "007-📚-lists/apps+tools.md",
@@ -144,7 +145,6 @@
     "001-📓-notes/practice.md",
     "001-📓-notes/csharp-to-test-list.md",
     "001-📓-notes/newtonsoft-json.md",
-    "001-📓-notes/identity-server.md",
-    "001-📓-notes/hangfire.md"
+    "001-📓-notes/identity-server.md"
   ]
 }
