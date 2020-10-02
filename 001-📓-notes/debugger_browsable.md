@@ -1,7 +1,7 @@
-# Debugger Browsable
+# DebuggerBrowsable
 #csharp #debug 
 
-`DebuggerBrowsable` - Attribute to dictate member visability in the debug windows
+`DebuggerBrowsable` - Attribute to dictate member visibility in the debug windows
 
 Possible values:
 1. `DebuggerBrowsableState.Never` - not shown at all

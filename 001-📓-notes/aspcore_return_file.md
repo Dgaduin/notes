@@ -1,6 +1,8 @@
 # Returning a file from ASP Core
 #aspcore #csharp 
 
+The default ASP Core controllers support returning file streams. 
+
 ```csharp
 [HttpGet]
 public IActionResult GetWorkbook()

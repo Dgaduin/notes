@@ -9,9 +9,9 @@
 
 Key points:
 
-- `When you rebind any one of those triples, you rebind all of them`
-- `You cannot have separate keybindings for any two or three members of a triple`
-- `Ctrl+char and Ctrl+Shift+char are not distinct.`
+- When you rebind any one of those triples, you rebind all of them
+- You cannot have separate keybindings for any two or three members of a triple
+- `Ctrl+char` and `Ctrl+Shift+char` are not distinct.
 
 ---
 

@@ -2,7 +2,7 @@
 
 #csharp #aspcore  #logging #testing
 
-ASP.Net Core contains a built-in empty logger for use in mocking/testing
+ASP Core contains a built-in empty logger for use in mocking/testing
 
 It has variants for generic and logger factory
 

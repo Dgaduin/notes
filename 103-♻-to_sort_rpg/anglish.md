@@ -13,3 +13,5 @@ Astrology: Starlore
 Astronomy: Starlaw
 
 [Source](https://www.reddit.com/r/todayilearned/comments/4jmkem/til_of_anglish_a_form_of_english_where_no_latin/)
+
+https://anglish.fandom.com/wiki/Main_leaf

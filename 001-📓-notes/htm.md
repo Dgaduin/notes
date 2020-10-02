@@ -1,5 +1,5 @@
 # htm
-#js #rendering
+#js #rendering #lib #web 
 
 `htm` is a render wrapper to allow for client-side JSX-like templating.
 

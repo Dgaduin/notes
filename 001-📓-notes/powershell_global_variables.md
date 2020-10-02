@@ -1,5 +1,5 @@
 # Powershell global variables
-#powershell #pin
+#powershell 
 
 `$pwd` – current working directory
 `$pid` – current process id

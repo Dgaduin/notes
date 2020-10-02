@@ -318,7 +318,6 @@ https://andrewlock.net/using-serilog-aspnetcore-in-asp-net-core-3-excluding-heal
 https://github.com/microsoft/terminal/issues/1060
 https://www.megacolorboy.com/posts/the-circle-packing-algorithm/?utm_source=Morning+Cup+of+Coding&utm_campaign=00efec24df-EMAIL_CAMPAIGN_2019_12_20_05_36&utm_medium=email&utm_term=0_56b5f64c5f-00efec24df-54952389
 https://www.hanselman.com/blog/DefragmentingYourCalendarAndYourOutlook.aspx
-https://fluentvalidation.net/aspnet
 https://en.wikipedia.org/wiki/TP-82_Cosmonaut_survival_pistol
 https://github.com/dfinke/PSStringScanner
 https://en.wikipedia.org/wiki/John_Murray_Spear

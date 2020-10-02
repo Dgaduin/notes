@@ -1,4 +1,4 @@
-# Order of Precedence when Configuring ASP.NET Core
+# Order of Precedence when Configuring ASP Core 
 #aspcore #csharp 
 
 In order of loading:

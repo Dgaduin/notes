@@ -1,4 +1,8 @@
 # Port check
-#powershell #pin
+#powershell 
 
-`Test-NetConnection -ComputerName "IP" -Port PortValue`
+A quick one-liner to test a specific port on a specific IP:
+
+```shell
+Test-NetConnection -ComputerName "IP" -Port PortValue
+```

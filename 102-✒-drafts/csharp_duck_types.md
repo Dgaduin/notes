@@ -1,4 +1,4 @@
-You can make types support LINQ sql syntax by providing methods that match specific conventions
+You can make types support LINQ SQL syntax by providing methods that match specific conventions
 
 | Keyword | Method                                  |
 | ------- | --------------------------------------- |
@@ -19,3 +19,5 @@ You can await your own objects without going for tasks by  having a`GetAwaiter` 
 Interesting comment at the bottom of the link, double check before publishing 
 
 [Source](https://www.gamlor.info/posts-output/2019-12-11-csharp-structural-pattern/en/)
+
+#pin

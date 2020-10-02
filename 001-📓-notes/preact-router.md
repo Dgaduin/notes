@@ -1,5 +1,5 @@
 # Preact Router
-#js #rendering #preact 
+#js #rendering #preact #web 
 
 A simple URL-based router for Preact[^1]. The baseline is a simple import `import Router from 'preact-router';`
 

@@ -4,13 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "616fac7bbdb08ccd",
+        "id": "c02ef7c56bc1a819",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "622261fc6351ec44",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "csharp_uri_builder.md",
+            "file": "serilog.md",
             "mode": "source"
           }
         }
@@ -39,7 +47,9 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": "[aspcore"
+              }
             }
           },
           {
@@ -70,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "serilog.md"
+              }
             }
           },
           {
@@ -90,17 +102,22 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 464
   },
   "lastOpenFiles": [
-    "csharp_uri_builder.md",
+    "serilog.md",
+    "refit.md",
+    "fluent-validation.md",
+    "aspcore_return_file.md",
     "aspcore_query_helpers.md",
-    "duct_tape.md",
-    "ducktape.md",
-    "boyscouting.md"
+    "aspcore_nulllogger.md",
+    "aspcore_kestrel-certificates.md",
+    "aspcore_healthchecks.md",
+    "aspcore_grpc_repeat.md",
+    "aspcore_configuration_precedence.md"
   ]
 }

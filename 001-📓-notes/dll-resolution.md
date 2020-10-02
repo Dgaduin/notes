@@ -7,8 +7,7 @@ With both implicit and explicit linking, Windows first searches for "known DLLs"
 2. The current directory.
 3. The Windows system directory. The `GetSystemDirectory` function retrieves the path of this directory.
 4. The Windows directory. The `GetWindowsDirectory` function retrieves the path of this directory.
-
-The directories listed in the PATH environment variable.
+5. The directories listed in the PATH environment variable.
 
 ---
 

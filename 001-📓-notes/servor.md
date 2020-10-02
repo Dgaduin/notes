@@ -1,9 +1,9 @@
 # Servor
-#js #tools
+#js #tool
 
-Servor is dependency free local http server with file watcher
+Servor is dependency free local HTTP server with file watcher
 
-Add servor as a dev dependency using `npm i servor -D` or run directly from the terminal:
+Add Servor as a dev dependency using `npm i servor -D` or run directly from the terminal:
 
 ```bash
 npx servor <directory> <fallback> <port> <reloadPort>

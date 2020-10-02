@@ -1,23 +1,6 @@
 # Git Amend
 #pin
 
-```shell
-git --amend -m &#39;New commit message&#39;
-git --amend -no-edit #This will add any staged files and won&#39;t change the commit message
-```
-
-git rev-parse branch-name: gets the hash of a branch name, useful for verifying two branches are at the same place (so "git rev-parse HEAD" gets the current hash)
-
-The ^ and ~ notations for navigating commits: my_branch^ points to the commit 1 before my_branch, and can be repeated multiple times, ie. my_branch^^^ to get the commit 3 from the top. Likewise the tilda notation allows one to jump a fixed number of commits up: my_branch~10 is the commit 10 above my_branch.
-
-git rebase -i HEAD~10: interactively rebase the last 10 commits. Easy way to re-order, squash, drop, and/or edit the commit messages of recent history in a single git command.
-
-The ^ notation only references the first parent of the commit. You would have to do something like commitish^2 to reference the second parent (though this would only be an issue for merge commits or any commit that has more than one parent).
-
-```
-git show -q
-```
-
 ```
   &#39;git for-each-ref --sort=-committerdate&#39;
 ```
@@ -27,8 +10,6 @@ git show -q
 ```
 
 [How can I extract a portion of a git repository into it&#39;s own repo while retaining history and file structure? - Stack Overflow](https://stackoverflow.com/questions/25274614/how-can-i-extract-a-portion-of-a-git-repository-into-its-own-repo-while-retaini)
-
-git `-` is an alais for previous branch
 
 ```
 git whatchanged —-since=‘2 weeks ago’

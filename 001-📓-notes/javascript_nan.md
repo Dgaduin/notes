@@ -6,9 +6,6 @@
 
 `isNaN()` checks against converted values while `Number.isNaN()` only against primitive number, a bit like `==` and `===` Returns `false` on `null`/`undefined` - catch it ahead of time
 
-[Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
+---
 
-[[servor]]
-[[preact]]
-[[unpkg]]
-[[flexsearch]]
+[Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)

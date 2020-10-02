@@ -1,5 +1,5 @@
 ## [Pretty Method Display in xUnit.net](https://dontcodetired.com/blog/post/Pretty-Method-Display-in-xUnitnet)
-
+#pin
 16 APRIL 2020[(0)](https://dontcodetired.com/blog/post/Pretty-Method-Display-in-xUnitnet#comment)
 
 One little-known feature of the [xUnit.net](https://dontcodetired.com/blog/?tag=xunit.net) testing framework is the ability to write test method names in a specific way and then have them converted to a ‘pretty’ version for example in Visual Studio Test Explorer.

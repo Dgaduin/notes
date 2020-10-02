@@ -90,3 +90,17 @@ Steps:
 - unsave
 
 - [give award](https://www.reddit.com/gold?goldtype=gift&months=1&thing=t1_egr2ycn "give an award in appreciation of this post.")
+
+http://www.davidrumsey.com/
+http://vxmodules.wikia.com/wiki/Getting_Started
+https://en.m.wikipedia.org/wiki/List_of_generic_forms_in_place_names_in_the_United_Kingdom_and_Ireland
+http://www.luminarium.org/medlit/medprice.htm
+https://en.wikipedia.org/wiki/Lockheed_WP-3D_Orion
+http://scp-wiki.wikidot.com/log-of-anomalous-items
+http://medieval.ucdavis.edu/120D/Money.html
+http://scholar.chem.nyu.edu/tekpages/Technology.html
+http://oglaf.com/old-st-nick/
+https://en.wikipedia.org/wiki/Quipu
+http://roll1d12.blogspot.com/
+http://www.scp-wiki.net/
+http://www.artofmanliness.com/2017/09/11/ultimate-collection-manly-smells/

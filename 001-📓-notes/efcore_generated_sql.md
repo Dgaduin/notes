@@ -1,5 +1,7 @@
 # EF Core debug generated SQL
-#csharp #efcore  #SQL
+#csharp #efcore  #sql
+
+Inspecting the generated SQL is usually a though exercise in DB Admin, but in [[efcore|EF Core]] it can be done with 2 simple changes.
 
 In `Configure Services`
 

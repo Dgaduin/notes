@@ -1,18 +1,18 @@
 {
   "theme": "obsidian",
   "pluginEnabledStatus": {
-    "File explorer": true,
-    "Search": true,
-    "Quick switcher": true,
-    "Graph view": true,
-    "Backlinks": true,
-    "Command palette": true,
-    "Markdown format importer": true,
-    "Word count": true,
-    "Tag pane": true,
-    "Page preview": true,
-    "Starred": true,
-    "Custom CSS": true
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "tag-pane": true,
+    "page-preview": true,
+    "starred": true,
+    "custom-css": true
   },
   "promptDelete": false,
   "spellcheck": true,
@@ -20,7 +20,15 @@
   "foldIndent": true,
   "showLineNumber": true,
   "spellcheckDictionary": [
-    "Boyscouting"
+    "Boyscouting",
+    "overfetching",
+    "crypto",
+    "toolchain",
+    "Powershell",
+    "powershell",
+    "Servor",
+    "dev",
+    "enum"
   ],
   "alwaysUpdateLinks": true
 }

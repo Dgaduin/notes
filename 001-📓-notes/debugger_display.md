@@ -1,4 +1,4 @@
-# Debugger Display
+# DebuggerDisplay
 #csharp #debug
 
 `DebuggerDisplay` - Attribute to decorate how to format specific values in debug windows like Watch, Locals and Autos
@@ -8,6 +8,7 @@
 ```
 
 This can be used with [[debugger_formatters|theese formatters]].
+In addition we can dictate visibility using the [[debugger_browsable|DebuggerBrowsable]] 
 
 ---
 

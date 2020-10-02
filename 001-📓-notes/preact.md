@@ -1,5 +1,5 @@
 # Preact
-#js #rendering #preact
+#js #rendering #preact #web
 
 Preact is a minimal functional renderer, similar to React, but smaller and more concise.
 
@@ -24,11 +24,5 @@ render(<Clock />, document.body);
 ```
 
 ---
-
-[[preact_lifecycles|Lifecycle hooks]]
-
-[[preact_router|Routes]
-
-[[htm|An alternative JSX-like syntax parser, good for no-build sites]]
 
 [Official Docs](https://github.com/preactjs/preact)
