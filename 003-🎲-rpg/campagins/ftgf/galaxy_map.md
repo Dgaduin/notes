@@ -1,11 +1,10 @@
 # Galaxy Map
-
 ```mermaid
-flowchart TB;
+graph LR;
 	subgraph human[Human control areas]
 		solar((Solar)) <--> relo((Relo LXIX))
 		relo <--> alphac((Alpha Centarius Pleasure Belt))
-		solar <--> alphac
+		solar <--> alphac		
 	end
 	
 	subgraph inspace[Independent Space]
@@ -24,30 +23,41 @@ flowchart TB;
 	alphac <--> voh((Voh Space))	
 	alphac <--> dahab((Dahab Empire))
 	
-	voh <--> mcs((MCS Economy Zone))
+	voh <--> hftu((HFTU Economy Zone))
 	voh <--> ares((The ARES Free Repulic))
 	voh <--> aiola((Aiola System))
 	voh <--> tzk((Tz'k Trade Syndicate))
 	
-	ares x--x mcs
+	ares x--x hftu
 	ares x--x dahab
 	
 	aiola <--> tzk
 	
-	J13 <--> mcs
+	J13 <--> hftu
 	J14 <--> otf((Open Trade Federation))
 	
-	mcs <--> otf
+	hftu <--> otf
 	dahab <--> J12
 	J11 <--> sskull((Silver Skull Federation))
 	sskull <--> TR
-	J11 <--> solar
+	J11 <--> solar	
+	
+
+class solar internal-link;
+class voh internal-link;
+class dahab internal-link;
+class tzk internal-link;
+class aiola internal-link;
+class J14 internal-link;
+class ares internal-link;
+class hftu internal-link;
+
+click solar "/solar_sector";
+click voh "/voh";
+click dahab "/the_dahab_empire";
+click tzk "/tzk_syndicate";
+click aiola "/aiola_system";
+click J14 "/green_man";
+click ares "/ares";
+click hftu "/the_high_frequency_traders_union";
 ```
-
----
-
-Reference Links
-* [[voh|Voh Space]]
-* [[the_dahab_empire|Dahab Empire]]
-* [[tzk_syndicate|Tz'k Syndicate]]
-* 
