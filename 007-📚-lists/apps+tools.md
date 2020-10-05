@@ -251,4 +251,5 @@ https://github.com/Raathigesh/majestic
 
 [Playwright CLI](https://github.com/microsoft/playwright-cli) - Microsoft developed utilities package for Playwright
 
-https://orion.siderus.io#/
+https://orion.siderus.io#/.
+https://www.vapid.com

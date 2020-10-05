@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "102-✒-drafts/git.md",
+            "file": "102-✒-drafts/data_is_clay.md",
             "mode": "source"
           }
         }
@@ -32,7 +32,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "102-✒-drafts/git.md"
+                "file": "102-✒-drafts/data_is_clay.md"
               }
             }
           },
@@ -42,7 +42,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "102-✒-drafts/git.md"
+                "file": "102-✒-drafts/data_is_clay.md"
               }
             }
           },
@@ -52,7 +52,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "102-✒-drafts/git.md",
+                "file": "102-✒-drafts/data_is_clay.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "duck"
+                "query": "#"
               }
             }
           },
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b91ed5374185b80e",
@@ -136,15 +135,15 @@
     "width": 499.5
   },
   "lastOpenFiles": [
-    "102-✒-drafts/git.md",
-    "001-📓-notes/git.md",
-    "102-✒-drafts/csharp_duck_types.md",
+    "102-✒-drafts/data_is_clay.md",
+    "102-✒-drafts/Untitled.md",
     "007-📚-lists/apps+tools.md",
-    "001-📓-notes/preact-lifecycles.md",
-    "103-♻-to_sort_rpg/changling_uncany_valley.md",
-    "001-📓-notes/practice.md",
-    "001-📓-notes/csharp-to-test-list.md",
-    "001-📓-notes/newtonsoft-json.md",
-    "001-📓-notes/identity-server.md"
+    "999-🖼-images/caddbc1462466e62cc186cbfdddc78e7.png",
+    "999-🖼-images/4385568dc199a7234ac1c4df82b0c67d.png",
+    "999-🖼-images/fc55ea58897059715e59aadaf603c746.png",
+    "003-🎲-rpg/Untitled.md",
+    "001-📓-notes/csharp_datetimeoffset.md",
+    "001-📓-notes/blake3.md",
+    "001-📓-notes/aspcore_grpc_repeat.md"
   ]
 }
