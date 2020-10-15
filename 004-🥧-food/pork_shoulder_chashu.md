@@ -1,4 +1,6 @@
 Reverse-Seared Tied Pork Shoulder Chashu Recipe
+#food 
+
 SHO SPAETH
 1     PRINTER-FRIENDLY VERSION
 Roasted pork shoulder chashu is a classic topping for ramen, and our tried-and-true reverse-sear method makes it easy to get the final temperature you want.

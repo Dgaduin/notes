@@ -1,4 +1,6 @@
 Tate's-Style Thin and Crispy Chocolate Chip Cookies Recipe
+#food 
+
 STELLA PARKS
 69     PRINTER-FRIENDLY VERSION
 If you love the chocolate chip cookies from Tate's Bake Shop, this copycat recipe delivers loads of buttery flavor and a delicate crunch.

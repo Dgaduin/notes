@@ -1,3 +1,4 @@
+ #rpg
 ## Primal World
 Stone-age tribe cultures, highly spiritual, focused on mysticism and traversing the world. Conflict against nature and the elements. Primal magic available. 
 

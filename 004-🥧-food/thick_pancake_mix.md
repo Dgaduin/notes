@@ -1,4 +1,6 @@
 Thick and Fluffy Pancakes From Homemade Pancake Mix Recipe
+#food 
+
 STELLA PARKS
 32     PRINTER-FRIENDLY VERSION
 Thick pancakes that are fluffy, not dense, with a tender, pillowy soft crumb. Much like Japanese pancakes, these cook up extra thick and light.

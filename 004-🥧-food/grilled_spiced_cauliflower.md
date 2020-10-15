@@ -1,4 +1,6 @@
 Grilled Spiced Cauliflower Recipe
+#food 
+
 GRILLING Fire up your grill and get ready for some serious smoke.
 JOSHUA BOUSEL
 6     PRINTER-FRIENDLY VERSION

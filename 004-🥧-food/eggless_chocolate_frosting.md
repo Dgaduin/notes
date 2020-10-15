@@ -1,4 +1,6 @@
 Creamy Eggless Chocolate Frosting Recipe
+#food 
+
 STELLA PARKS
 5     PRINTER-FRIENDLY VERSION
 At last, a thick and creamy chocolate frosting without eggs or powdered sugar!

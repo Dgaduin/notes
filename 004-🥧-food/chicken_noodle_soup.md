@@ -1,4 +1,6 @@
 The Ultimate Chicken Noodle Soup Recipe
+#food 
+
 SOHLA EL-WAYLLY
 6     PRINTER-FRIENDLY VERSION
 Published: January 3, 2018 Last Updated: August 30, 2018

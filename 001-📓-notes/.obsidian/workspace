@@ -18,7 +18,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "serilog.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -60,8 +60,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -81,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "serilog.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -109,6 +108,7 @@
     "width": 464
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "serilog.md",
     "refit.md",
     "fluent-validation.md",
@@ -117,7 +117,6 @@
     "aspcore_nulllogger.md",
     "aspcore_kestrel-certificates.md",
     "aspcore_healthchecks.md",
-    "aspcore_grpc_repeat.md",
-    "aspcore_configuration_precedence.md"
+    "aspcore_grpc_repeat.md"
   ]
 }

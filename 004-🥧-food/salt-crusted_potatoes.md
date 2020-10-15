@@ -1,4 +1,6 @@
 Colombian-Style Salt-Crusted New Potatoes Recipe
+#food 
+
 THE FOOD LAB Unraveling the mysteries of home cooking through science.
 J. KENJI LÓPEZ-ALT
 11     PRINTER-FRIENDLY VERSION

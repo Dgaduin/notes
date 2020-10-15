@@ -1,4 +1,6 @@
 Soufflé Omelette With Cheese Recipe
+#food 
+
 DANIEL GRITZER
 9     PRINTER-FRIENDLY VERSION
 Much simpler than a classic soufflé, this soufflé omelette is cooked in a skillet on the stovetop and requires little more than eggs, cheese, and a couple of extra minutes to beat the whites.

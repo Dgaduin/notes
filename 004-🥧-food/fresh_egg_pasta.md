@@ -1,4 +1,6 @@
 Classic Fresh Egg Pasta Recipe
+#food 
+
 NIKI ACHITOFF-GRAY
 45     PRINTER-FRIENDLY VERSION
 A light, springy, delicate homemade fresh pasta, this recipe is as well-suited to slicing into noodles as it is to making stuffed pastas, which require thin, pliable sheets of dough.

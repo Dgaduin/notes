@@ -1,4 +1,6 @@
 Baked Bacon for a Crowd Recipe
+#food 
+
 THE FOOD LAB Unraveling the mysteries of home cooking through science.
 J. KENJI LÓPEZ-ALT
 19     PRINTER-FRIENDLY VERSION

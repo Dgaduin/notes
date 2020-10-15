@@ -1,4 +1,7 @@
-Korean Spicy Marinated Pork With Chilies and Kimchi (Jaeyook Kimchi Bokum) Recipe
+Korean Spicy Marinated Pork With Chilies and Kimchi (Jaeyook Kimchi Bokum)
+#food 
+
+Recipe
 DANIEL GRITZER
 3     PRINTER-FRIENDLY VERSION
 Published: September 16, 2014 Last Updated: August 29, 2018

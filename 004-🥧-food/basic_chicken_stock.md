@@ -1,4 +1,6 @@
 Basic Chicken Stock Recipe
+#food 
+
 DANIEL GRITZER
 Basic Chicken Stock Recipe
 White chicken stock, in which neither the chicken nor the aromatics are roasted first, may be the most versatile of all stocks. It's also incredibly easy to make, leading to a deeply flavorful stock, using a method and ingredients that are as easy and accessible as possible. Requiring a minimal investment of time and effort, this stock will upgrade any dish or sauce you make much more reliably than the store-bought variety.

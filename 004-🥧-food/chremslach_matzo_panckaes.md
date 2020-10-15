@@ -1,4 +1,6 @@
 Matzo Pancakes (Chremslach) Recipe
+#food 
+
 DANIEL GRITZER
 5     PRINTER-FRIENDLY VERSION
 These little pancakes, a variant of matzo brei, are sometimes known as chremslach or bubeleh. No matter the name, they're delicious: golden and tender, with a delicate crunch of granulated sugar sprinkled on top.

@@ -1,4 +1,6 @@
 XO Mazemen (Broth-less Ramen With XO Sauce) Recipe
+#food 
+
 SHO SPAETH
 1     PRINTER-FRIENDLY VERSION
 This take on mazemen, or "mixed noodles," a soup-less variation on ramen, incorporates powerfully savory XO sauce to make a flavorful ramen that takes all of five minutes to prepare.

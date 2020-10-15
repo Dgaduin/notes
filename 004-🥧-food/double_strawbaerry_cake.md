@@ -1,4 +1,6 @@
 Double-Strawberry Cake Recipe
+#food 
+
 STELLA PARKS
 109     PRINTER-FRIENDLY VERSION
 Strawberry in two forms infuses this layer cake with beautiful color and natural flavor.

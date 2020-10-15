@@ -1,4 +1,6 @@
 Thai Toasted-Rice Powder (Khao Khua) Recipe
+#food 
+
 SASHA MARX
 3     PRINTER-FRIENDLY VERSION
 Slow and steady is the best way to coax deep, nutty flavors out of toasted-rice powder.

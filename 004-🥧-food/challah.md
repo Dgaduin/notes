@@ -1,4 +1,6 @@
 The Best Challah Recipe
+#food 
+
 MAX BERNSTEIN
 27     PRINTER-FRIENDLY VERSION
 The rich, fluffy, egg-yolky classic done right.

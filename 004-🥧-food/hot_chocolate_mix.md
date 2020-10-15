@@ -1,4 +1,6 @@
 Homemade Hot Chocolate Mix Recipe
+#food 
+
 STELLA PARKS
 43     PRINTER-FRIENDLY VERSION
 Make your own hot cocoa mix to keep on hand all winter long.

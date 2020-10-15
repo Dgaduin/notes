@@ -1,4 +1,6 @@
 Homemade Chipwiches Recipe
+#food 
+
 STELLA PARKS
 15     PRINTER-FRIENDLY VERSION
 With tender chocolate chip cookies and a fluffy no-churn ice cream, these frozen treats taste just like your favorite chocolate chip cookie ice cream sandwich, only better.

@@ -1,4 +1,6 @@
 Korean-Style Fire Chicken (Buldak) With Cheese Recipe
+#food 
+
 SASHA MARX
 20     PRINTER-FRIENDLY VERSION
 Fire chicken is the ultimate game-day snack—it will make you forget all about Buffalo wings.

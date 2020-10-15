@@ -1,4 +1,6 @@
 Soy-Balsamic Vinaigrette Recipe
+#food 
+
 J. KENJI LÓPEZ-ALT
 20     PRINTER-FRIENDLY VERSION
 Published: June 14, 2011 Last Updated: August 30, 2018

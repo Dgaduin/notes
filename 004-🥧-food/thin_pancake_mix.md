@@ -1,4 +1,6 @@
 Light and Thin Pancakes From Homemade Pancake Mix Recipe
+#food 
+
 STELLA PARKS
 7     PRINTER-FRIENDLY VERSION
 These fluffy pancakes are thin, and just a little crisp around the edges, but still light and airy inside,

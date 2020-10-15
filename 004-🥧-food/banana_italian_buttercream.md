@@ -1,4 +1,6 @@
 Creamy Banana Frosting (Italian Buttercream) Recipe
+#food 
+
 STELLA PARKS
 2     PRINTER-FRIENDLY VERSION
 Whether sweetened with maple syrup or honey, freeze-dried bananas give this buttercream a bold and fruity flavor that pairs well with any sort of cake—especially chocolate!

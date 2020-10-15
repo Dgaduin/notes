@@ -1,4 +1,7 @@
-Lomo Saltado (Peruvian Stir-Fried Beef With Onion, Tomatoes, and French Fries) Recipe
+Lomo Saltado (Peruvian Stir-Fried Beef With Onion, Tomatoes, and French Fries) 
+#food 
+
+Recipe
 DANIEL GRITZER
 11     PRINTER-FRIENDLY VERSION
 Tender slices of deeply seared beef, blister-y onions, juicy tomatoes, and crispy French-fried potatoes unite in this classic Chinese-Peruvian stir-fry.

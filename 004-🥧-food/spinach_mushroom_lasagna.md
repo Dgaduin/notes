@@ -1,4 +1,6 @@
 Ultra-Creamy Spinach and Mushroom Lasagna Recipe
+#food 
+
 THE FOOD LAB Unraveling the mysteries of home cooking through science.
 J. KENJI LÓPEZ-ALT
 15     PRINTER-FRIENDLY VERSION

@@ -1,4 +1,6 @@
 Soft-Scrambled Eggs Recipe
+#food 
+
 DANIEL GRITZER
 6     PRINTER-FRIENDLY VERSION
 Published: May 14, 2015 Last Updated: March 27, 2019

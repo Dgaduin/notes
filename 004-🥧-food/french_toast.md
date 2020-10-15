@@ -1,4 +1,6 @@
 Perfect Quick-and-Easy French Toast Recipe
+#food 
+
 DANIEL GRITZER
 36     PRINTER-FRIENDLY VERSION
 Published: April 10, 2014 Last Updated: March 27, 2019

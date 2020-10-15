@@ -1,4 +1,6 @@
 Miso Tori Paitan Ramen (Creamy Chicken Broth Ramen) Recipe
+#food 
+
 SHO SPAETH
 5     PRINTER-FRIENDLY VERSION
 A rich and creamy bowl of chicken ramen, spiked with miso and dried-fish powder.

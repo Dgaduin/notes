@@ -1,4 +1,6 @@
 From-Scratch Shio Ramen Recipe
+#food 
+
 SHO SPAETH
 4     PRINTER-FRIENDLY VERSION
 A light, clear broth and a nuanced lemon-and-salt seasoning result in a beautiful yet flavorful bowl of shio ramen.

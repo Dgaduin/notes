@@ -14,7 +14,9 @@
     "daily-notes": true,
     "custom-css": true,
     "random-note": true,
-    "outline": true
+    "outline": true,
+    "translucency": true,
+    "workspaces": true
   },
   "isSidebarCollapsed": false,
   "isRightSidedockCollapsed": false,

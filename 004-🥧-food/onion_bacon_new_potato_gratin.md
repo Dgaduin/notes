@@ -1,4 +1,6 @@
 Cheesy Onion, Bacon, and New Potato Gratin Recipe
+#food 
+
 THE FOOD LAB Unraveling the mysteries of home cooking through science.
 J. KENJI LÓPEZ-ALT
 12     PRINTER-FRIENDLY VERSION

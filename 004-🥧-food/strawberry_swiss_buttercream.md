@@ -1,4 +1,6 @@
 Strawberry Frosting (Swiss Buttercream) Recipe
+#food 
+
 STELLA PARKS
 16     PRINTER-FRIENDLY VERSION
 This colorful frosting has a naturally intense flavor and color, thanks to the addition of freeze-dried strawberries.

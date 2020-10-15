@@ -1,3 +1,5 @@
+#food 
+
 250g Fresno chilis, sliced thin or slit lengthwise
 25g garlic, smashed 
 200ml distilled vinegar

@@ -1,4 +1,6 @@
 Creamy Vegan Fingerling Potato Salad Recipe
+#food 
+
 J. KENJI LÓPEZ-ALT
 9     PRINTER-FRIENDLY VERSION
 Published: February 14, 2013 Last Updated: August 30, 2018

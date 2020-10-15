@@ -1,4 +1,6 @@
 Stovetop Chicken Chintan Stock (Clear Chicken Stock for Ramen) Recipe
+#food 
+
 SHO SPAETH
 2     PRINTER-FRIENDLY VERSION
 A relatively unfussy way to produce a light, clear, and flavorful chicken stock for use in ramen.

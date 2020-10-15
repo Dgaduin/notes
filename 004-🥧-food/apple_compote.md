@@ -1,4 +1,6 @@
 Apple Compote Recipe
+#food 
+
 STELLA PARKS
 3     PRINTER-FRIENDLY VERSION
 Published: November 9, 2017 Last Updated: August 29, 2018

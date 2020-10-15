@@ -1,6 +1,5 @@
 # Alternate alloys for weapons/armor
-
-#pin
+#pin #rpg
 
 Clipped from: https://worldbuilding.stackexchange.com/questions/11899/alternate-alloys-for-weapons-and-armor
 Ultimate tensile strength

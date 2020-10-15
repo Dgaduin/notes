@@ -1,4 +1,6 @@
 Baked Chicken Wings With Tamarind-Ginger Glaze Recipe
+#food 
+
 SOHLA EL-WAYLLY
 Baked Chicken Wings With Tamarind-Ginger Glaze Recipe
 Aromatic Kashmiri red chilies, pungent ginger, tart tamarind paste, and smoky palm sugar combine in a spicy, sour, and sweet sauce for chicken wings. In the oven, the wings turn tender and the sauce transforms into a rich, sticky glaze. Serve them up next to some cool cucumber raitha to help beat the heat.

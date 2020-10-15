@@ -1,4 +1,6 @@
 Chinese-Style Layered Omelette Recipe
+#food 
+
 SHO SPAETH
 10     PRINTER-FRIENDLY VERSION
 With just eggs, salt, scallions, and soy sauce, you can make a luxurious-seeming weeknight meal in about 15 minutes.

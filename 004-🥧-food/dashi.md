@@ -1,4 +1,6 @@
 Basic Japanese Dashi Recipe
+#food 
+
 J. KENJI LÓPEZ-ALT
 Basic Japanese Dashi Recipe
 This fundamental Japanese soup stock only calls for two ingredients, plus water, and is the flavor-packed base for all our favorite miso soup recipes. Both bonito flakes and dried kombu are umami-filled, deeply flavorful ingredients, and the final soup stock will amp up any sauce you add it to.

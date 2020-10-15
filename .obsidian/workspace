@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d815cfebdfab0ddd",
+        "id": "3d65e05b1413c3da",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "102-✒-drafts/data_is_clay.md",
+            "file": "102-✒-drafts/aspcore_hosted_services.md",
             "mode": "source"
           }
         }
@@ -32,7 +32,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "102-✒-drafts/data_is_clay.md"
+                "file": "102-✒-drafts/aspcore_hosted_services.md"
               }
             }
           },
@@ -42,7 +42,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "102-✒-drafts/data_is_clay.md"
+                "file": "102-✒-drafts/aspcore_hosted_services.md"
               }
             }
           },
@@ -52,7 +52,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "102-✒-drafts/data_is_clay.md",
+                "file": "102-✒-drafts/aspcore_hosted_services.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -63,6 +63,7 @@
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "showArrow": false,
+                  "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "centerStrength": 0.518713248970312,
@@ -74,11 +75,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 381
+    "width": 567.5,
+    "collapsed": true
   },
   "right": {
     "id": "fa46c97bdcb830d6",
@@ -87,6 +90,7 @@
       {
         "id": "a1d74b791ac7ce83",
         "type": "tabs",
+        "dimension": 33.35644937586685,
         "children": [
           {
             "id": "9e2476c3fdd1e720",
@@ -94,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#"
+                "query": "tag:#service"
               }
             }
           },
@@ -103,6 +107,21 @@
             "type": "leaf",
             "state": {
               "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b91ed5374185b80e",
+        "type": "tabs",
+        "dimension": 66.64355062413316,
+        "children": [
+          {
+            "id": "65702a9322157ae6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
               "state": {}
             }
           },
@@ -115,35 +134,21 @@
             }
           }
         ]
-      },
-      {
-        "id": "b91ed5374185b80e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "65702a9322157ae6",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
     "width": 499.5
   },
   "lastOpenFiles": [
-    "102-✒-drafts/data_is_clay.md",
-    "102-✒-drafts/Untitled.md",
-    "007-📚-lists/apps+tools.md",
-    "999-🖼-images/caddbc1462466e62cc186cbfdddc78e7.png",
-    "999-🖼-images/4385568dc199a7234ac1c4df82b0c67d.png",
-    "999-🖼-images/fc55ea58897059715e59aadaf603c746.png",
-    "003-🎲-rpg/Untitled.md",
-    "001-📓-notes/csharp_datetimeoffset.md",
-    "001-📓-notes/blake3.md",
-    "001-📓-notes/aspcore_grpc_repeat.md"
+    "102-✒-drafts/aspcore_hosted_services.md",
+    "101-📆-daily/20200113134605.md",
+    "101-📆-daily/20200608.md",
+    "101-📆-daily/20200614.md",
+    "101-📆-daily/20200615.md",
+    "101-📆-daily/20200628.md",
+    "101-📆-daily/20200629.md",
+    "101-📆-daily/20200720.md",
+    "101-📆-daily/20200721.md",
+    "101-📆-daily/20200827.md"
   ]
 }

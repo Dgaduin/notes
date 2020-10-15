@@ -1,4 +1,6 @@
 Vinegar Coleslaw Recipe
+#food 
+
 JOSHUA BOUSEL
 6     PRINTER-FRIENDLY VERSION
 Published: June 13, 2014 Last Updated: August 29, 2018

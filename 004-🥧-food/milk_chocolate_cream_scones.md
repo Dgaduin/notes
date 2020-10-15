@@ -1,4 +1,6 @@
 Bakery-Style Cream Scones With Milk Chocolate Recipe
+#food 
+
 STELLA PARKS
 Bakery-Style Cream Scones With Milk Chocolate Recipe
 These super-simple scones come together faster than you can preheat an oven, so pause to enjoy a cup of coffee before mixing up the dough. The scones are fluffy but crumbly and only lightly sweetened, making the pockets of creamy milk chocolate a welcome contrast. I'm fond of Valrhona's Caramélia 36%, made with caramel instead of sugar for added depth and a slightly bitter edge.

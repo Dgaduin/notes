@@ -1,4 +1,6 @@
 Grilled Corn, Tomato, Feta, and Herb Salad Recipe
+#food 
+
 THE FOOD LAB Unraveling the mysteries of home cooking through science.
 J. KENJI LÓPEZ-ALT
 7     PRINTER-FRIENDLY VERSION

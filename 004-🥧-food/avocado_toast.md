@@ -1,4 +1,6 @@
 Avocado Toast With Cucumber, Soy Sauce, and Shichimi Togarashi Recipe
+#food 
+
 NIKI ACHITOFF-GRAY
 Avocado Toast With Cucumber, Soy Sauce, and Shichimi Togarashi Recipe
 Seedless cucumber does a great job adding cooling crunch to avocado toast, but it doesn't impart much in the way of flavor. Here, soy sauce adds a savory note, amped up by a sprinkle of peppery scallions. But the real kicker is a pinch of shichimi (also commonly called togarashi), a Japanese seven-spice blend of chili peppers, sesame seeds, and other ingredients like nori, ginger, and orange peel, which adds nuanced heat to each bite.

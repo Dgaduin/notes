@@ -1,4 +1,6 @@
 How to Gelatin-Clarify Oil
+#food 
+
 After deep-frying, allow your cooking fat to cool to room temperature or slightly warmer.
 Measure into a small pot half a cup of water for every quart of used oil. Sprinkle it with one teaspoon of powdered gelatin per half cup of water, and let the gelatin hydrate for a few minutes.
 Bring the water to a simmer (you can do this on the stovetop or in the microwave), stirring, until the gelatin dissolves. Stirring vigorously and constantly, pour the gelatin/water mixture into the dirty oil. It should look very cloudy and relatively homogeneous at this stage. Cover the pot and place it in the refrigerator (or transfer the mixture to a separate container before refrigerating), then allow it to rest overnight.

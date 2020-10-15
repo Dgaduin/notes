@@ -1,4 +1,6 @@
 Pressure Cooker Beef Stock Recipe
+#food 
+
 DANIEL GRITZER
 25     PRINTER-FRIENDLY VERSION
 Using a pressure cooker like the Instant Pot, you can make deeply rich and flavorful beef stock in a fraction of the traditional cooking time.

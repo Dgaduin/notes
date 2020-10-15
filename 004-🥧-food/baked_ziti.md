@@ -1,4 +1,6 @@
 Baked Ziti With Two Mozzarellas and Parmesan Cream Sauce Recipe
+#food 
+
 DANIEL GRITZER
 Baked Ziti With Two Mozzarellas and Parmesan Cream Sauce Recipe
 This is, in some ways, a classic meatless baked ziti, loaded with pools of cheese and rich tomato sauce. But it gets rid of the one thing that can often make baked ziti less than great: grainy ricotta cheese. Instead, we drizzle it with an over-the-top Parmesan cream. Trust us, you won't miss the ricotta.

@@ -1,5 +1,6 @@
-Basmati Rice and Pea Pilaf (Peas Pulao) Recipe
-DENISE D'SILVA SANKHÉ
+# Basmati Rice and Pea Pilaf (Peas Pulao) Recipe
+#food 
+
 Basmati Rice and Pea Pilaf (Peas Pulao) Recipe
 With plenty of rice on hand, a basmati rice and pea pilaf is in order. It's a simple and straightforward side dish, but little green peas and a combination of chilis, onions, and warm spices make it far more exciting than a bowl of plain white rice.
 https://www.seriouseats.com/recipes/2012/03/print/basmati-rice-and-pea-pilaf-peas-pulao-recipe.html

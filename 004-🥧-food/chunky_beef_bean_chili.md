@@ -1,4 +1,6 @@
 Pressure Cooker Chunky Beef and Bean Chili Recipe
+#food 
+
 DANIEL GRITZER
 7     PRINTER-FRIENDLY VERSION
 Unlike a lot of chili recipes that call for short cooking times but deliver terrible flavor, this classic chunky beef-and-bean recipe saves time the right way: by using a pressure cooker, not by cutting corners.

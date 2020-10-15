@@ -1,4 +1,6 @@
 Savory Cheese Soufflé Recipe
+#food 
+
 DANIEL GRITZER
 33     PRINTER-FRIENDLY VERSION
 This savory cheese soufflé is easy to make and practically foolproof—we promise, it will rise to lofty and flavorful heights.

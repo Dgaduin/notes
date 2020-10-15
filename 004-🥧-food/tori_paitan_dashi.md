@@ -1,4 +1,6 @@
 Chicken Paitan Broth (Tori Paitan Dashi) Recipe
+#food 
+
 SHO SPAETH
 19     PRINTER-FRIENDLY VERSION
 Chicken paitan broth is the chicken-based cousin of tonkotsu ramen broth—creamy, rich, and perfect for noodle soups.

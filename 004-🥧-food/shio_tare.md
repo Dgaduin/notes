@@ -1,4 +1,6 @@
 Shio Tare (Salt Seasoning Sauce for Ramen) Recipe
+#food 
+
 SHO SPAETH
 0     PRINTER-FRIENDLY VERSION
 Shio tare basically translates to "salt seasoning," and this simple solution of lemon, salt, and dried kelp makes an incredibly versatile flavoring agent.

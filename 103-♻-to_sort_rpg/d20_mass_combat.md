@@ -1,3 +1,4 @@
+ #rpg
 The 5e DMG has a short section on "handling mobs:" it has a chart for approximating, out of a group of attacking monsters, how many monsters hit.
 It's pretty simple: subtract attacker's hit bonus from the target's AC. Cross-index that number on the chart. If the number is 1-5, all the attackers hit; if it's 6-12, 1/2 of them hit; etc., up to 1 in 20 of the attackers hitting on a 20. 
 I ran a big set-piece battle yesterday: 8 mid-level PCs and 10 gnomes against 20+ drow and other assorted creatures, including a drow spider chariot and a sinister angel. With a wizard and a sorcerer PC and two drow wizards, all slinging fireballs, the mob attacks weren't much of a factor. With all those fireballs, what I COULD have used was rules for mob saving throws.

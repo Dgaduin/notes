@@ -1,4 +1,6 @@
 Homemade Shin Cup-Style Spicy Korean Ramyun Beef Noodle Soup Recipe
+#food 
+
 THE FOOD LAB Unraveling the mysteries of home cooking through science.
 J. KENJI LÓPEZ-ALT
 17     PRINTER-FRIENDLY VERSION

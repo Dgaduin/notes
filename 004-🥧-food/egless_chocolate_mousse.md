@@ -1,4 +1,6 @@
 Eggless Chocolate Mousse Recipe
+#food 
+
 STELLA PARKS
 25     PRINTER-FRIENDLY VERSION
 Published: December 12, 2017 Last Updated: April 29, 2019

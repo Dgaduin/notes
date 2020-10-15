@@ -1,8 +1,10 @@
-Black Bean, Corn, and Red Pepper Salad With Lime Cilantro Vinaigrette Recipe
-JENNIFER SEGAL
-Black Bean, Corn, and Red Pepper Salad With Lime Cilantro Vinaigrette Recipe
+# Black Bean, Corn, and Red Pepper Salad With Lime Cilantro Vinaigrette Recipe
+#food #appetizer
+
+[Source](https://www.seriouseats.com/recipes/2013/06/print/black-bean-corn-red-pepper-salad-lime-cilantro-vinaigrette-recipe.html
+
 This is the ultimate summer salad, and it's perfect for entertaining. Not only is it festive and colorful, but you can make it ahead of time—in fact, you should, because it gets better and better the longer it sits.
-https://www.seriouseats.com/recipes/2013/06/print/black-bean-corn-red-pepper-salad-lime-cilantro-vinaigrette-recipe.html
+
 YIELD:
 Serves 6 to 8
 ACTIVE TIME:

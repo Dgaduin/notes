@@ -1,4 +1,6 @@
 Sheet-Pan Chicken Fajitas Recipe
+#food 
+
 DANIEL GRITZER
 12     PRINTER-FRIENDLY VERSION
 Tender chicken thighs marinated with soy sauce, lime juice, and plenty of spices cook up quickly under the heat of a broiler.

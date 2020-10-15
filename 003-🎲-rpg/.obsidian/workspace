@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b65f6f9ff6f62fef",
+        "id": "05bd8849d82c53f1",
         "type": "leaf",
         "active": true,
         "state": {
@@ -87,15 +87,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "test folder/graph.md",
+    "test folder/nested/note-c.md",
+    "test folder/note-c.md",
+    "test folder/noteA.md",
+    "test folder/note B.md",
+    "Untitled 1.md",
     "campagins/ftgf/galaxy_map.md",
-    "campagins/ftgf/factions/the_high_frequency_traders_union.md",
-    "campagins/ftgf/entities/mcs.md",
     "campagins/ftgf/for_the_golden_fleece.md",
-    "campagins/ftgf/entities/ares.md",
-    "campagins/ftgf/entities/head_accountant_ghraz.md",
-    "campagins/ftgf/entities/the_golden_fleece.md",
-    "campagins/ftgf/entities/sc_sarn.md",
-    "campagins/ftgf/entities/xo_krol.md",
-    "campagins/ftgf/entities/the_argo.md"
+    "campagins/ftgf/factions/the_high_frequency_traders_union.md"
   ]
 }

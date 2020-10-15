@@ -1,4 +1,6 @@
 Pressure Cooker Brown Chicken Stock Recipe
+#food 
+
 DANIEL GRITZER
 11     PRINTER-FRIENDLY VERSION
 Using a pressure cooker like the Instant Pot, you can make deeply rich and flavorful chicken stock in a fraction of the traditional cooking time.

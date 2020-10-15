@@ -1,4 +1,6 @@
 French-Style Brown Butter New Potatoes Recipe
+#food 
+
 SASHA MARX
 12     PRINTER-FRIENDLY VERSION
 This supremely rich vegetarian side dish proves steaks and chops aren't the only things worth cooking in brown butter.

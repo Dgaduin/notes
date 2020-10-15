@@ -1,4 +1,6 @@
 Baked Brie en Croûte With Thyme and Fig Jam Recipe
+#food 
+
 EMILY AND MATT CLIFTON
 Baked Brie en Cro\u00fbte With Thyme and Fig Jam Recipe
 Offering maximum impact with minimal effort, a baked Brie turns a mild-mannered cheese into the superhero of a gathering: a warm, gooey communal comfort food. This version wraps the cheese in a shell of flaky puff pastry, along with a sweet-tart layer of fig jam and fresh thyme leaves.

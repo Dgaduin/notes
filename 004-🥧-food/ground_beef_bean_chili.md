@@ -1,4 +1,6 @@
 Pressure Cooker Ground Beef and Bean Chili Recipe
+#food 
+
 DANIEL GRITZER
 26     PRINTER-FRIENDLY VERSION
 Unlike a lot of chili recipes that call for short cooking times but deliver terrible flavor, this classic ground beef-and-bean recipe saves time the right way, by using a pressure cooker, not by cutting corners.

@@ -1,4 +1,6 @@
 Tangy and Creamy Macaroni Salad Recipe
+#food 
+
 JOSHUA BOUSEL
 14     PRINTER-FRIENDLY VERSION
 Published: August 15, 2014 Last Updated: August 29, 2018

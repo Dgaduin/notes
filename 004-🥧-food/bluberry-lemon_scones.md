@@ -1,4 +1,6 @@
 Blueberry-Lemon Scones Recipe
+#food 
+
 STELLA PARKS
 Blueberry-Lemon Scones Recipe
 Despite containing both coconut oil and coconut milk, these scones don't end up with a coconutty flavor at all. Rather, these ingredients provide the same richness and tender but fluffy crumb you'd find in traditional scones made with butter and cream. Their flavor is light and lemony, with bursts of juicy blueberry under a crunchy crust of toasted sugar. Do be sure to refrigerate the dough, which mixes up a little warmer and softer than a typical scone dough made with chilled dairy ingredients. But don't worry—that step takes only 15 minutes, which is about how long it takes to preheat an oven.

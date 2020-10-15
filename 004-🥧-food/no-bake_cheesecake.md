@@ -1,4 +1,6 @@
 Easy No-Bake Cheesecake Recipe
+#food 
+
 STELLA PARKS
 71     PRINTER-FRIENDLY VERSION
 How to make a no-cook and no-bake cheesecake with a creamy, thick, sliceable filling, perfect for beating the summer heat.

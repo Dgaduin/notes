@@ -1,4 +1,6 @@
 Baked Baking Soda (Sodium Carbonate) Recipe
+#food 
+
 SHO SPAETH
 14     PRINTER-FRIENDLY VERSION
 Sodium carbonate is a strong alkaline salt that is used in making ramen (noodles), among other foods.

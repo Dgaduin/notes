@@ -1,4 +1,6 @@
 Crispy Mashed Potato Casserole With Bacon, Cheese, and Scallions Recipe
+#food 
+
 DANIEL GRITZER
 33     PRINTER-FRIENDLY VERSION
 Published: November 13, 2014 Last Updated: March 27, 2019

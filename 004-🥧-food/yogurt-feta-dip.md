@@ -9,6 +9,8 @@ keywords:
 ---
 
 # Yogurt/Feta Dip
+#food 
+
 
 *Yield:* Makes about 2 cups
 

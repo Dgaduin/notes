@@ -1,4 +1,6 @@
 American Chop Suey (Macaroni, Beef, and Cheese Skillet Casserole) Recipe
+#food 
+
 J. KENJI LÓPEZ-ALT
 American Chop Suey (Macaroni, Beef, and Cheese Skillet Casserole) Recipe
 Pasta simmered with ground beef, peppers, and onions in a garlicky tomato sauce that's spiked with Worcestershire sauce and smothered in cheese: This is a New England classic that ought to be eaten everywhere comfort and ease are appreciated. This version is as cheesy as it gets with two types of cheese on top of and also folded into the casserole.

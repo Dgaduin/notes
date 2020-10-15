@@ -1,4 +1,6 @@
 Homemade Nutella (Creamy Chocolate-Hazelnut Spread) Recipe
+#food 
+
 STELLA PARKS
 22     PRINTER-FRIENDLY VERSION
 Whether spread over toast, swirled into ice cream, drizzled over a cake, or smeared across the bottom of a cream pie, this chocolate-hazelnut spread is as versatile as they come.

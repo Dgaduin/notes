@@ -1,4 +1,6 @@
 Crispy Smashed Potatoes Recipe
+#food 
+
 J. KENJI LÓPEZ-ALT
 19     PRINTER-FRIENDLY VERSION
 Published: November 15, 2012 Last Updated: August 30, 2018

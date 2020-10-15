@@ -1,4 +1,6 @@
 E.L. Fudge-Style Chocolate and Vanilla Sandwich Cookies Recipe
+#food 
+
 STELLA PARKS
 16     PRINTER-FRIENDLY VERSION
 Published: April 7, 2017 Last Updated: February 5, 2019

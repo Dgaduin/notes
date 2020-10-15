@@ -1,4 +1,6 @@
 Barbajada (Milanese Hot Chocolate-Coffee Drink) Recipe
+#food 
+
 DANIEL GRITZER
 Barbajada (Milanese Hot Chocolate-Coffee Drink) Recipe
 Why choose between coffee and hot chocolate? The Milanese drink called barbajada is a frothy mix of the two, topped with whipped cream just for kicks.

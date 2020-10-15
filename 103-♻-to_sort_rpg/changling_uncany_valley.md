@@ -1,3 +1,4 @@
+ #rpg
 57
 
 It doesn't blink. Unless it knows it is being observed, because a very little kid once asked it why it did not blink. It had not noticed blinking before then. Now it tries to remember to blink if it thinks it is being observed but it is easy to forget if it is concentrating on something else.

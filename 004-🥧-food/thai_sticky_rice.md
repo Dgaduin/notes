@@ -1,4 +1,6 @@
 Thai Sticky Rice (Khao Niao) Recipe
+#food 
+
 SASHA MARX
 1     PRINTER-FRIENDLY VERSION
 Give glutinous rice the spa treatment—soak and then steam—for simple Thai-style sticky rice.

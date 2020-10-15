@@ -1,4 +1,6 @@
 Foolproof Béarnaise Sauce Recipe
+#food 
+
 THE FOOD LAB Unraveling the mysteries of home cooking through science.
 J. KENJI LÓPEZ-ALT
 26     PRINTER-FRIENDLY VERSION

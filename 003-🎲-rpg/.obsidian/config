@@ -20,7 +20,7 @@
   "showLineNumber": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "spellcheckDictionary": [
     "Paninsectium",
     "Aiola",

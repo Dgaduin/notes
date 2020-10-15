@@ -1,4 +1,6 @@
 Blueberry-Lemon Scones Recipe
+#food 
+
 STELLA PARKS
 57     PRINTER-FRIENDLY VERSION
 Light, lemony scones with pops of juicy blueberries, and nothing to get in the way of the fruit's bright flavor.

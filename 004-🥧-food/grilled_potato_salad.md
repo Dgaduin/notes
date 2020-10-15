@@ -1,4 +1,6 @@
 Simple Grilled-Potato Salad With Grilled-Lemon Vinaigrette Recipe
+#food 
+
 GRILLING Fire up your grill and get ready for some serious smoke.
 J. KENJI LÓPEZ-ALT
 16     PRINTER-FRIENDLY VERSION

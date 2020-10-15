@@ -1,3 +1,4 @@
+ #rpg
 - on trial, the knights templar were accused of worshiping a severed head. by some accounts, the head of medusa.
 - imagine, holy knights who secretly kneel before the martyred gorgon. their initiation rites require they meet her lifeless gaze and withstand its petrifying curse.
 - those who fail join the statues standing sentry atop their cathedral.

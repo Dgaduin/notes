@@ -1,4 +1,6 @@
 Japchae (Korean Glass Noodles With Pork and Vegetables) Recipe
+#food 
+
 SEOYOUNG JUNG
 1     PRINTER-FRIENDLY VERSION
 Korean japchae is festive, a colorful array of vegetables, egg, meat, and noodles that combine in a joyous celebration. This version is lighter, cleaner, and more refined than the hot and greasy ones many restaurants serve.

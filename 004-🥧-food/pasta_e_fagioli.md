@@ -1,4 +1,6 @@
 Pasta e Fagioli (Italian Bean and Pasta Soup) Recipe
+#food 
+
 DANIEL GRITZER
 12     PRINTER-FRIENDLY VERSION
 Published: March 9, 2015 Last Updated: August 29, 2018

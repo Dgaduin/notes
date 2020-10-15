@@ -1,4 +1,6 @@
 Crispy Homemade Nutella (Chocolate-Hazelnut Spread) Recipe
+#food 
+
 STELLA PARKS
 4     PRINTER-FRIENDLY VERSION
 Hazelnut brittle adds crisp and crunchy crystals to this thick and satisfying twist on homemade Nutella.

@@ -1,4 +1,6 @@
 Creamy Whipped Greek Yogurt Recipe
+#food 
+
 STELLA PARKS
 33     PRINTER-FRIENDLY VERSION
 Published: July 10, 2017 Last Updated: May 28, 2019

@@ -1,4 +1,6 @@
 Light and Silky Banana Crémeux Recipe
+#food 
+
 STELLA PARKS
 6     PRINTER-FRIENDLY VERSION
 No need for gelatin in this whipped banana custard that's thickened with cornstarch and lightened by cream.

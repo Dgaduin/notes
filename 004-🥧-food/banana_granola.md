@@ -1,4 +1,6 @@
 Banana Granola Recipe
+#food 
+
 STELLA PARKS
 24     PRINTER-FRIENDLY VERSION
 This crisp but tender granola has a flavor profile similar to banana bread, with a gentle blend of spices, dried fruit, and crunchy nuts.

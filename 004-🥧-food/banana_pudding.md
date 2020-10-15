@@ -1,4 +1,6 @@
 Creamy Banana Pudding Recipe
+#food 
+
 STELLA PARKS
 24     PRINTER-FRIENDLY VERSION
 Steeping sliced bananas in fresh milk infuses this creamy banana custard with flavor from the inside out.
