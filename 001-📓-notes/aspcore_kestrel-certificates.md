@@ -6,7 +6,8 @@ Kestrel ignores hostnames, and needs to be bound to a network interface.
 It also has its own configuration section in `appsettings.json`
 
 ```json
-"Kestrel": {
+{
+	"Kestrel": {
         "EndPoints": {
             "Http": {
                 "Url": "http://localhost:5000"
@@ -21,6 +22,7 @@ It also has its own configuration section in `appsettings.json`
             }
         }
     }
+}
 ```
 
 ---

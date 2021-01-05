@@ -254,3 +254,4 @@ https://github.com/Raathigesh/majestic
 https://orion.siderus.io#/.
 https://www.vapid.com
 https://github.com/11ty/eleventy	
+https://github.com/muesli/duf

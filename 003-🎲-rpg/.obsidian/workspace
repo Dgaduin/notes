@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "05bd8849d82c53f1",
+        "id": "f22ceb14c89bad69",
         "type": "leaf",
         "active": true,
         "state": {
@@ -37,7 +37,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "solar"
+                "query": "solar",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -60,7 +65,13 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
@@ -87,6 +98,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "campagins/ftgf/places/solar_sector.md",
     "Untitled.md",
     "test folder/graph.md",
     "test folder/nested/note-c.md",
@@ -95,7 +107,6 @@
     "test folder/note B.md",
     "Untitled 1.md",
     "campagins/ftgf/galaxy_map.md",
-    "campagins/ftgf/for_the_golden_fleece.md",
-    "campagins/ftgf/factions/the_high_frequency_traders_union.md"
+    "campagins/ftgf/for_the_golden_fleece.md"
   ]
 }

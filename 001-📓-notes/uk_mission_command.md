@@ -10,3 +10,4 @@ In the UK army command is executed in 4 simple steps:
 You don’t define how the subordinate should carry out the task – if they are competent and you trust them, they should be able to figure this out themselves.
 
 [[command-vs-control]]
+[[holistic-understanding]]
