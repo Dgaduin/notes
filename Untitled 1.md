@@ -1,3 +1,3 @@
-clear on windows terminal
+My relationship with the entire world in this moment depends entirely on the relationship I have with myself.
 
-{ "command": { "action": "sendInput", "input": "cls\u000d" }, "keys": "alt+k" }
+**– Paul Ferrini**

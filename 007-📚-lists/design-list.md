@@ -29,10 +29,14 @@
 * [Palette list](https://lospec.com/palette-list) - palette ideas
 
 ## Other
-* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate code from Figma, supports [[tailwindcss|Tailwind]]
+
 * [GoodEmailCode](https://www.goodemailcode.com) - Resources to style email content
 * [Markdeep](https://casual-effects.com/markdeep/) - allows you to upload a Markdown file with a single script tag and it gets rendered to HTML
 * [Favicon](https://favicon.io) - favicon generator
 * [storybook.js](https://storybook.js.org) - component design/dev studio
 * [zeroheight](https://zeroheight.com) - component library management, integrates with Figma and storybookjs
 * [fractal](https://github.com/frctl/fractal) - component library management
+
+## Figma
+* https://designsystemsforfigma.com
+* [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate code from Figma, supports [[tailwindcss|Tailwind]]

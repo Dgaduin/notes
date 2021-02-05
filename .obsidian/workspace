@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3b738b8e39a420c3",
+        "id": "ec71099814ea8ebc",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 10.md",
+            "file": "Untitled 2.md",
             "mode": "source"
           }
         }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#open",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 486,
+    "collapsed": true
   },
   "right": {
     "id": "fa46c97bdcb830d6",
@@ -89,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 10.md"
+                "file": "Untitled 2.md"
               }
             }
           }
@@ -106,12 +107,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 10.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -128,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 10.md",
+                "file": "Untitled 2.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -155,18 +156,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268
+    "width": 601.5,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled 10.md",
-    "Untitled 9.md",
-    "Untitled 8.md",
-    "Untitled 7.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "oauth.md",
-    "identityserver.md",
-    "oauth_openid-connect.md",
-    "Untitled 4.md"
+    "Untitled 2.md",
+    "003-🎲-rpg/campagins/ftgf/galaxy_map.md",
+    "Untitled.md",
+    "102-✒-drafts/aspcore_controller_filtres.md",
+    "003-🎲-rpg/campagins/ftgf/for_the_golden_fleece.md",
+    "Untitled 1.md",
+    "001-📓-notes/command-vs-control.md",
+    "001-📓-notes/csharp_function_chains.md",
+    "001-📓-notes/csharp_linq_join.md",
+    "001-📓-notes/csharp_datetimeoffset.md"
   ]
 }

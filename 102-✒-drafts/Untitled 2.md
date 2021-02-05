@@ -1,0 +1,1 @@
+![[102-✒-drafts/Pasted image 20201020221722.png]]

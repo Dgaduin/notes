@@ -255,3 +255,12 @@ https://orion.siderus.io#/.
 https://www.vapid.com
 https://github.com/11ty/eleventy	
 https://github.com/muesli/duf
+https://github.com/openiddict/openiddict-core
+https://davidstephens.uk/ansible-nas/
+https://soundsync.app/landing
+https://github.com/Phantas0s/devdash
+https://microk8s.io
+
+https://github.com/espruino/Espruino
+https://github.com/approvals/ApprovalTests.Net
+https://github.com/dstotijn/hetty
