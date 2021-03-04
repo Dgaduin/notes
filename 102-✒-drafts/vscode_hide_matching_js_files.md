@@ -1,6 +1,6 @@
 # VSCode - Hide js transplied ts files
 
-#tools 
+#tech/tools/vscode
 
 In the workspace or global settings add:
 ```json

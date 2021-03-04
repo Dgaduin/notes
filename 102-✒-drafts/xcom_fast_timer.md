@@ -1,4 +1,4 @@
-#pin 
+#self/todo/pin 
 szmind has XCOM: Enemy Unknown 20 Nov, 2017 @ 9:39am     
 You cannot set it in menus. However you can alter settings in the game files. Search the file: DefaultInput.ini. Default path is C:\Program Files (x86)\Steam\SteamApps\common\XCom-Enemy-Unknown\XEW\XComGame\Config
 

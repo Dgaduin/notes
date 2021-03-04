@@ -1,1 +1,0 @@
-https://uxdesign.cc/everything-i-know-about-ux-research-i-learnt-from-cats-c62a27870d58

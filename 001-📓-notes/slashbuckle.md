@@ -1,5 +1,5 @@
 # Slashbuckle.AspNetcore
-#csharp #lib #aspcore 
+ #tech/language/dotnet/aspcore/lib
 
 [Source](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
 

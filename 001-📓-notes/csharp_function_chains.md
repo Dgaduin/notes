@@ -1,5 +1,5 @@
 # Function chains
-#csharp #composition
+ #tech/language/dotnet/functional 
 
 ```csharp
 Action Hello;

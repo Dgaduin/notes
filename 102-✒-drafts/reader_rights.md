@@ -1,4 +1,4 @@
-#pin 
+#self/todo/pin 
 Daniel Pennac's
 The 10 Inalienable Rights of the Reader
 1. The right not to read

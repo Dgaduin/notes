@@ -1,5 +1,5 @@
 # DebuggerDisplay
-#csharp #debug
+ #tech/language/dotnet/debug
 
 `DebuggerDisplay` - Attribute to decorate how to format specific values in debug windows like Watch, Locals and Autos
 

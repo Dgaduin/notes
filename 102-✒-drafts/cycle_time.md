@@ -1,4 +1,4 @@
 # Cycle time
-#pin #work-other
+#self/todo/pin #work/other
 
 The time from work started to work delivered 

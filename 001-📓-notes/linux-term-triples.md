@@ -1,5 +1,5 @@
 # Linux terminal symbols
-#linux #terminal
+#tech/platform/linux/terminal
 
 - `Ctrl+i, Ctrl+Shift+i, Tab`
 - `Ctrl+j, Ctrl+Shift+j, Enter`

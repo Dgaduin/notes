@@ -1,5 +1,6 @@
 # Configure Kestrel for certificates
-#aspcore 
+
+#tech/language/dotnet/aspcore
 
 Kestrel ignores hostnames, and needs to be bound to a network interface.
 
@@ -7,21 +8,21 @@ It also has its own configuration section in `appsettings.json`
 
 ```json
 {
-	"Kestrel": {
-        "EndPoints": {
-            "Http": {
-                "Url": "http://localhost:5000"
-            },
-            "HttpsInlineCertFile": {
-                "Url": "https://192.168.3.3:22224",
-                "Certificate": {
-                    "Path": "./certificate.pfx",
-                    "Password": "NotReally",
-                    "AllowInvalid": "true"
-                }
-            }
+  "Kestrel": {
+    "EndPoints": {
+      "Http": {
+        "Url": "http://localhost:5000"
+      },
+      "HttpsInlineCertFile": {
+        "Url": "https://192.168.3.3:22224",
+        "Certificate": {
+          "Path": "./certificate.pfx",
+          "Password": "NotReally",
+          "AllowInvalid": "true"
         }
+      }
     }
+  }
 }
 ```
 

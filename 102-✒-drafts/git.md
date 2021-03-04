@@ -1,5 +1,5 @@
 # Git Amend
-#pin
+#self/todo/pin
 
 ```
   &#39;git for-each-ref --sort=-committerdate&#39;
@@ -27,7 +27,7 @@ title: Git Goodies
 
 # Git Goodies
 
-#git #pin
+#tech/tool/git #self/todo/pin
 
 $ git shortlog -sn --all --no-merges
  80 Harry Roberts
@@ -72,7 +72,7 @@ title: Git Goodies
 
 # Git Goodies
 
-#git #pin
+#tech/tool/git #self/todo/pin
 
 $ git shortlog -sn --all --no-merges
  80 Harry Roberts
@@ -161,6 +161,6 @@ title: Git bisect
 
 # Git bisect
 
-#pin
+#self/todo/pin
 
 GIt bisect is a binary search process against a commit chain, with manual marking

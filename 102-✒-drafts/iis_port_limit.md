@@ -1,6 +1,6 @@
 # IIS Express limited ssl ports
 
-#pin 
+#self/todo/pin 
 
 Please, for the love of g\*d, try this, before you get mired in some unnecessary craziness!
 (Apparently IIS Express has reserved port range of 44300 - 44399 for simulating SSL)

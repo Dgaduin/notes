@@ -1,6 +1,6 @@
  #rpg
 # Dog story
-#archive 
+#self/archive 
 
 The Cat Guardian is back, the smell of heavy sand and fur trailing behind her feet. She is sitting beside the Mistress, touching her hand, whispering something. I can understand things like food and walk. I cannot understand the heavy shove of these words, the wet ocean smell on her skin.
 We went to the beach once, Mistress and the Cat Guardian. We stood beside the waves and judged the horizon. Mistress threw sticks into the surf and the Cat Guardian shied away from my wet paws.

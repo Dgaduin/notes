@@ -1,5 +1,5 @@
 # s/
-#code-quality 
+#tech/paradigm/code-quality 
 
 > At IMVU we solved this problem by introducing a directory to every project named `s/`.
 

@@ -1,5 +1,6 @@
-# Order of Precedence when Configuring ASP Core 
-#aspcore #csharp 
+# Order of Precedence when Configuring [[aspcore_framework|ASP Core]]
+
+#tech/language/dotnet/aspcore
 
 In order of loading:
 

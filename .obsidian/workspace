@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ec71099814ea8ebc",
+        "id": "4a87015c3ee0408d",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled 2.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -23,7 +20,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9222bcba93dfafe6",
+        "id": "10f837c73dea121d",
         "type": "tabs",
         "children": [
           {
@@ -41,22 +38,13 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "9e2476c3fdd1e720",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9222bcba93dfafe6",
+        "type": "tabs",
+        "children": [
           {
             "id": "aa54ccdb2ad2cebf",
             "type": "leaf",
@@ -67,13 +55,28 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "9e2476c3fdd1e720",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 486,
-    "collapsed": true
+    "width": 557
   },
   "right": {
     "id": "fa46c97bdcb830d6",
@@ -89,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled 2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -107,12 +108,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -129,25 +129,30 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 2.md",
                 "options": {
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": true,
+                  "showTags": false,
                   "showAttachments": true,
                   "hideUnresolved": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.577684691546078,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": true,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3628873693012121
+                  "linkDistance": 30,
+                  "scale": 0.3628873693012145,
+                  "close": false
                 }
               }
             }
@@ -156,19 +161,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 601.5,
-    "collapsed": true
+    "width": 421
   },
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "003-🎲-rpg/campagins/ftgf/galaxy_map.md",
-    "Untitled.md",
-    "102-✒-drafts/aspcore_controller_filtres.md",
-    "003-🎲-rpg/campagins/ftgf/for_the_golden_fleece.md",
-    "Untitled 1.md",
-    "001-📓-notes/command-vs-control.md",
-    "001-📓-notes/csharp_function_chains.md",
-    "001-📓-notes/csharp_linq_join.md",
-    "001-📓-notes/csharp_datetimeoffset.md"
+    "001-📓-notes/aspcore.md",
+    "001-📓-notes/uk_mission_command.md",
+    "001-📓-notes/serilog.md",
+    "001-📓-notes/servor.md",
+    "001-📓-notes/slashbuckle.md",
+    "001-📓-notes/the-job-is-helping.md",
+    "001-📓-notes/unpkg.md",
+    "001-📓-notes/vuejs.md",
+    "001-📓-notes/csharp_array_clear.md",
+    "001-📓-notes/content-has-purpose.md"
   ]
 }

@@ -20,4 +20,4 @@ Interesting comment at the bottom of the link, double check before publishing
 
 [Source](https://www.gamlor.info/posts-output/2019-12-11-csharp-structural-pattern/en/)
 
-#pin
+#self/todo/pin

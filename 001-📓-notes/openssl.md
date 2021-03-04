@@ -1,5 +1,5 @@
 # OpenSSL
-#openssl
+#tech/tools/openssl
 
 OpenSSL is a general purpose crypto toolchain, with a focus on TSL and SSL.
 

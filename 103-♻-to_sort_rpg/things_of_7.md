@@ -6,7 +6,7 @@ modified: 2020-10-02T22:08:46+01:00
 
 # Things of 7
 
-#pin
+#self/todo/pin
 
 
 Aventine Hill (Latin, Aventinus; Italian, Aventino)

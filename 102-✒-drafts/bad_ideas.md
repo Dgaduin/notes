@@ -1,6 +1,6 @@
 # Bad ideas
 
-#pin
+#self/todo/pin
 
 Clipped from: https://news.ycombinator.com/item?id=21394377
 I have three GPT-2 bots that hook up to Slack so I can pretend I have coworkers.

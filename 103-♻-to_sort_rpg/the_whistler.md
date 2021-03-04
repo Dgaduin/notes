@@ -1,6 +1,6 @@
 The Whistler
 
-#rpg #creature 
+#rpg/idea/creature 
 
 We have one in Venezuela called "El Silbón" (The Whistler) typical of the wetland plains and prairies regions we call "Llanos". 
 Description is usually of a very emaciated man dressed in cowboy's (llanero) rags with a wide brim hat that hides his skeletal face. He roams the countryside and patches of bush at night, with drooping shoulders, downcast stare and a heavy bag full of bones and half decomposed remains slung over his back. 

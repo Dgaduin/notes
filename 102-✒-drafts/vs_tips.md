@@ -1,5 +1,5 @@
 # Visual Studio
-#tools 
+#tech/tools/vs
 
 Hitting F10 to build, run, and attach debugger instead of F5 will automatically break on the first time your own code is being executed. No breakpoints needed.
 

@@ -1,5 +1,5 @@
 # The Joel Test
-#code-quality 
+#tech/paradigm/code-quality 
 
 1. Do you use source control?
 2. Can you make a build in one step? - CI

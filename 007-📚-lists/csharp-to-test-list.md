@@ -1,5 +1,5 @@
 # C# To Test List
-#list #csharp #to-try
+#list #tech/language/dotnet #to-try
 
 These are potential useful tools and libraries to be used in a .Net project.
 
@@ -20,12 +20,12 @@ These are potential useful tools and libraries to be used in a .Net project.
 [Reddit.NET](https://github.com/sirkris/Reddit.NET) - a Reddit API client, with auth
 [Schema.Net](https://github.com/RehanSaeed/Schema.NET) - schema.org to POC
 
-## AspCore Specific
-[Acrus.Security](https://security.arcus-azure.net) - security utils for aspcore
-[Carter](https://github.com/CarterCommunity/Carter) - Wrapper around ASP Core to handle web requests
-[HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - plugins for the healthcheck api in asp core
-[Middleware](https://github.com/khellang/Middleware) - a few useful middlewares for ASP Core
-[NetEscaped.Configuration](https://github.com/andrewlock/NetEscapades.Configuration) - additional configuration providers for aspcore
+## [[../001-📓-notes/aspcore_framework]] Specific
+[Acrus.Security](https://security.arcus-azure.net) - security utils for [[../001-📓-notes/aspcore_framework]]
+[Carter](https://github.com/CarterCommunity/Carter) - Wrapper around [[../001-📓-notes/aspcore_framework|ASP Core]] to handle web requests
+[HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - plugins for the healthcheck api in [[../001-📓-notes/aspcore_framework|asp core]]
+[Middleware](https://github.com/khellang/Middleware) - a few useful middlewares for [[../001-📓-notes/aspcore_framework|ASP Core]]
+[NetEscaped.Configuration](https://github.com/andrewlock/NetEscapades.Configuration) - additional configuration providers for [[../001-📓-notes/aspcore_framework]]
 
 ## CLI App Libraries 
 [CommandLine](https://github.com/commandlineparser/commandline) - CLI UI library

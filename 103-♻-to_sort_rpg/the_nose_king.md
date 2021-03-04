@@ -1,5 +1,5 @@
 # The Nose King
-#rpg #character
+#rpg/idea/character
 ![[the_nose_king.png]]
 
 Looks like the king, so it's probably him when he was younger.

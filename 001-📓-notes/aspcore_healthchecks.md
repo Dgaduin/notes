@@ -1,7 +1,8 @@
 # Health checks
-#csharp #aspcore 
 
-ASP Core comes with a build in system for establishing health check endpoints
+#tech/language/dotnet/aspcore
+
+[[aspcore_framework|ASP Core]] comes with a build in system for establishing health check endpoints
 
 ## Simple version
 
@@ -26,6 +27,7 @@ public class BasicStartup
 ```
 
 ## With a custom provider
+
 Definition:
 
 ```csharp

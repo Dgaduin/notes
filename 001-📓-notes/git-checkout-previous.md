@@ -1,5 +1,5 @@
 # Git checkout previous
-#git 
+#tech/tool/git 
 
 You can pass `-` to git checkout to go to the previously checkout-out branch.
 ```shell

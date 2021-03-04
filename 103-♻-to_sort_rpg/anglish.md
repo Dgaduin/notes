@@ -1,6 +1,6 @@
 # Anglish
 
-#rpg #Idea 
+#rpg/idea/culture
 
 TIL of Anglish, a form of English where no Latin based words are used, in favor of Germanic forms, such as using "wordstock" in place of "vocabulary." : todayilearned
 

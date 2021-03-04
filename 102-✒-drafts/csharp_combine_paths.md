@@ -1,5 +1,5 @@
 # Combine Paths
-#csharp #pin
+#tech/language/dotnet #self/todo/pin
 
 `Path.Combine`
 `Path.Join`

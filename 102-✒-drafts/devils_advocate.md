@@ -1,6 +1,6 @@
 # Devil's advocate
 
-#pin
+#self/todo/pin
 
 Clipped from: https://blog.ploeh.dk/2019/10/07/devils-advocate/
 The Devil's Advocate technique is a heuristic you can use to evaluate whether more test cases would improve confidence in the test suite. You can use it to review existing (test) code, but you can also use it as inspiration for new test cases that you should consider adding. 

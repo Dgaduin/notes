@@ -1,5 +1,5 @@
 # Buffer.BlockCopy
-#csharp 
+ #tech/language/dotnet/buffer
 
 `Buffer.BlockCopy(t, 0, x, 0, 30 * sizeof(int))` - can be used to remap data types, very quickly, including between different multi dimensional arrays, e.g. int to char conversion on big multidimensional arrays. It also useful when you need primitive to byte conversion for I/O. 
 

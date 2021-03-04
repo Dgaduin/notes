@@ -2,4 +2,4 @@ https://medium.com/@jackiebo/do-try-consider-how-we-give-product-feedback-at-asa
 
 Do try consider
 
-#pin
+#self/todo/pin

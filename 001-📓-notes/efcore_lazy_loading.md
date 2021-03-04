@@ -1,5 +1,5 @@
 # Lazy loading for EF Core
-#efcore #csharp 
+ #tech/language/dotnet/aspcore/efcore 
 
 Lazy loading means that navigational properties access will be delayed as much as possible to reduce overfetching. It can be setup either from the `OnConfiguring` call like so:
 

@@ -1,5 +1,5 @@
 # Measure Performance
-#js 
+#tech/language/js 
 
 Secondly, we could use document.hidden and the visibilitychange event . This event fires when the user switches to or from the tab, when the browser is minimized or restored, and when the machine awakes from sleep. In other words, it does exactly what we need. And while the tab is in the background, document.hidden is true.
 Here’s a simple implementation:

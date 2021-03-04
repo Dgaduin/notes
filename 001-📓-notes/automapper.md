@@ -1,5 +1,5 @@
 # Automapper
-#csharp #lib 
+ #tech/language/dotnet/lib 
 
 [Source](https://github.com/AutoMapper/AutoMapper)
 

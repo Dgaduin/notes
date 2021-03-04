@@ -1,7 +1,8 @@
-# Returning a file from ASP Core
-#aspcore #csharp 
+# Returning a file from [[aspcore_framework|ASP Core]]
 
-The default ASP Core controllers support returning file streams. 
+#tech/language/dotnet/aspcore
+
+The default [[aspcore_framework|ASP Core]] controllers support returning file streams.
 
 ```csharp
 [HttpGet]

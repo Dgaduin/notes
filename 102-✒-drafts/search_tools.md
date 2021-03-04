@@ -1,6 +1,6 @@
 # Search tools
 
-#pin
+#self/todo/pin
 
 Clipped from: https://blog.softwaremill.com/6-not-so-obvious-things-about-elasticsearch-422491494aa4
     • Elasticsearch — you know, for search,

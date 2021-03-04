@@ -1,6 +1,6 @@
 # Training montage
 
-#pin #idea
+#self/todo/pin 
 
 https://news.ycombinator.com/item?id=15168467
 

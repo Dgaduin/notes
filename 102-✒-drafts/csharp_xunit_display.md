@@ -1,5 +1,5 @@
 ## [Pretty Method Display in xUnit.net](https://dontcodetired.com/blog/post/Pretty-Method-Display-in-xUnitnet)
-#pin
+#self/todo/pin
 16 APRIL 2020[(0)](https://dontcodetired.com/blog/post/Pretty-Method-Display-in-xUnitnet#comment)
 
 One little-known feature of the [xUnit.net](https://dontcodetired.com/blog/?tag=xunit.net) testing framework is the ability to write test method names in a specific way and then have them converted to a ‘pretty’ version for example in Visual Studio Test Explorer.
@@ -80,4 +80,4 @@ This would produce the following tests in Test Explorer:
 
 
 
-`IStartupFilter` e.g. run options validation[Adding validation to strongly typed configuration objects in ASP.NET Core](https://andrewlock.net/adding-validation-to-strongly-typed-configuration-objects-in-asp-net-core/)
+`IStartupFilter` e.g. run options validation[Adding validation to strongly typed configuration objects in [[../001-📓-notes/aspcore_framework|ASP.NET Core]]](https://andrewlock.net/adding-validation-to-strongly-typed-configuration-objects-in-asp-net-core/)

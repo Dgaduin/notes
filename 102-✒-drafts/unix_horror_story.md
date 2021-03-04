@@ -1,5 +1,5 @@
 # THE classic Unix horror story
-#archive 
+#self/archive 
 
 Clipped from: https://web.archive.org/web/20180106134507/http://lug.wsu.edu/node/414
 *THE* classic Unix horror story

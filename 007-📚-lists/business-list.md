@@ -1,5 +1,5 @@
 # Business
-#list #tool #management 
+#list #tool  
 
 ## Payments
 [Paddle](https://paddle.com) - all in one, higher prices

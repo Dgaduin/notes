@@ -1,6 +1,6 @@
 # Phoenix servers
 
-#pin
+#self/todo/pin
 
 Clipped from: https://www.leadingagile.com/2018/04/immutable-servers-why/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+LeadingAgile+%28LeadingAgile%29
 Phoenix Servers

@@ -1,8 +1,3 @@
----
-title: Download attribute
-tags:
-    - html
----
 
 # Download attribute
 

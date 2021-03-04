@@ -1,5 +1,5 @@
 # Preact Lifecycles
-#js #rendering #preact #web 
+#tech/language/js #tech/language/js/lib/preact #tech/platform/web 
 
 | Lifecycle method            | When it gets called                            |
 | --------------------------- | ---------------------------------------------- |

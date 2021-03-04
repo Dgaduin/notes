@@ -1,6 +1,6 @@
 # Doc features
 
-#pin
+#self/todo/pin
 
 Clipped from: https://news.ycombinator.com/item?id=21501783
 I'd love for any of these tools to offer :

@@ -1,5 +1,5 @@
 # Windows DLL search path
-#windows
+#tech/platform/windows
 
 With both implicit and explicit linking, Windows first searches for "known DLLs", such as `Kernel32.dll` and `User32.dll`. Windows then searches for the DLLs in the following sequence:
 

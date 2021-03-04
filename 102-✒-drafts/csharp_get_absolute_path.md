@@ -1,2 +1,2 @@
 # Convert path to absolute path
-#csharp #pin 
+#tech/language/dotnet #self/todo/pin 

@@ -1,7 +1,7 @@
  #rpg
 # Pathfinding
 
-#pin
+#self/todo/pin
 
 Clipped from: https://news.ycombinator.com/item?id=21589286
 I read this was a manufacturing pathfinder.

@@ -1,6 +1,6 @@
 # Stoicism
 
-#pin #backup
+#self/todo/pin #self/todo/backup
 
 "The Theory of Moral Sentiments" (1759) [1]:
 "Human life the Stoics appear to have considered as a game of great skill; in which, however, there was a mixture of chance [...] In such games the stake is commonly a trifle, and the whole pleasure of the game arises from playing well, from playing fairly, and playing skilfully. If notwithstanding all his skill, however, the good player should, by the influence of chance, happen to lose, the loss ought to be a matter, rather of merriment, than of serious sorrow. He has made no false stroke; he has done nothing which he ought to be ashamed of; he has enjoyed completely the whole pleasure of the game. [...]

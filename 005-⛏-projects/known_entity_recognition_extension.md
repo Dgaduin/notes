@@ -1,5 +1,5 @@
 # Known entity recognition extension
-#project
+#self/project
 
 Highlight character name and references to him/her in the text with a specific color
 

@@ -49,7 +49,7 @@ title: Random quotes
 
 # Random quotes
 
-#pin
+#self/todo/pin
 
 Sherif Ali: Truly, for some men nothing is written unless THEY write it.
 
@@ -138,7 +138,7 @@ What the soul can house, flesh cannot fathom
 
 Bonsai is a practice in manifesting intent in a patient and peaceful manner - which results in a beautification of the universe.
 
-Code never lies, #Comments sometime do.
+Code never lies, Comments sometime do.
 
 Semper Paratus Pro Justitia "Always Ready To Exact Justice".
 

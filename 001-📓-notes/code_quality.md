@@ -1,5 +1,5 @@
 # Code quality
-#code-quality 
+#tech/paradigm/code-quality 
 
 Code quality is a qualitative (surprise!) measure of how well a piece of code (or architecture) is suited for the specific task. 
 

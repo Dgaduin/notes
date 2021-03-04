@@ -1,5 +1,5 @@
 # Catch a fish
-#archive 
+#self/archive 
 
 Some time back in the ‘80s, I decided I needed a new fishing reel. I spent a couple days of summer vacation fishing with my older cousin, and he’d introduced me to his Shimano Bantam bait-casting reel. It was shiny and black, with small silkscreened text identifying the various capabilities of the machine; claims regarding the number of ball bearings it contained and which parts were graphite or aluminum. It was mounted to a fancy graphite rod with a sophisticated looking rubber grip. It had guides made by Fuji, and this was reportedly a big deal.
 Foremost in the array of technologies incorporated into this fish-slaying device was a system of sophisticated magnets that created a field in which the aluminum spool would not spin faster than the line played off it while casting. The effect was that backlashes during casting were reduced or eliminated. I didn’t know what backlashes were , and neither of us had any idea how they could be prevented with magnets, but it felt like we were entering a new era in fishing.

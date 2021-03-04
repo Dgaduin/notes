@@ -1,5 +1,5 @@
 # FlexSearch
-#js #search #lib 
+#tech/language/js/lib #tech/paradigm/search 
 
 FlexSearch is a JS-based search index, supporting extendable architecture, pre-built static indexes and deep configuration.
 

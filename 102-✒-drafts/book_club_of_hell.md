@@ -1,6 +1,6 @@
 # Book club of hell
 
-#pin 
+#self/todo/pin 
 
 mabbo 5 hours ago [-] 
 

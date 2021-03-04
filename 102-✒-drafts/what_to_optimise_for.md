@@ -1,6 +1,6 @@
 # Question
 
-#pin
+#self/todo/pin
 
 Clipped from: https://medium.com/@saronyitbarek/the-one-question-that-will-change-your-life-449cbfaa11b2
 He laid back as I talked, watching me stumble through options and feelings, until he lifted his head up and asked, “What if you could start over? Right now, everything disappears, no consequences. You get to do just one thing. How do you feel?”

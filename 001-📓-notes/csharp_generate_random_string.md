@@ -1,5 +1,5 @@
 # Generate a true random string
-#csharp 
+ #tech/language/dotnet/snippets 
 
 ```csharp
 using System.Security.Cryptography;

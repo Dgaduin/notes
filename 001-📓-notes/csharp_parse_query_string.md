@@ -1,5 +1,5 @@
 # ParseQueryString
-#csharp 
+ #tech/language/dotnet/system/web
 
 ```csharp
 NameValueCollection queryString = System.Web.HttpUtility.ParseQueryString(string.Empty);

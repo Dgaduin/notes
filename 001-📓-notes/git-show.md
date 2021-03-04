@@ -1,5 +1,5 @@
 # Git show
-#git 
+#tech/tool/git 
 
 `git show` shows information about the pointed object.
 If ran with no parameters it points to HEAD. 

@@ -4,7 +4,7 @@ title: Server timing
 
 # Server timing
 
-#pin
+#self/todo/pin
 The Server-Timing header communicates one or more metrics and descriptions for a given request-response cycle. It is used to surface any backend server timing metrics (e.g. database read/write, CPU time, file system access, etc.) in the developer tools in the user's browser or in the PerformanceServerTiming interface.
 
 From <https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Server-Timing> 

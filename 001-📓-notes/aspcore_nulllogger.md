@@ -1,8 +1,8 @@
 # NullLogger
 
-#csharp #aspcore  #logging #testing
+#tech/language/dotnet/aspcore #tech/paradigm/logging #tech/paradigm/testing
 
-ASP Core contains a built-in empty logger for use in mocking/testing
+[[aspcore_framework|ASP Core]] contains a built-in empty logger for use in mocking/testing
 
 It has variants for generic and logger factory
 

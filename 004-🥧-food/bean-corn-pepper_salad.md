@@ -1,5 +1,5 @@
 # Black Bean, Corn, and Red Pepper Salad With Lime Cilantro Vinaigrette Recipe
-#food #appetizer
+#food/salad
 
 [Source](https://www.seriouseats.com/recipes/2013/06/print/black-bean-corn-red-pepper-salad-lime-cilantro-vinaigrette-recipe.html
 

@@ -1,5 +1,5 @@
 # Servor
-#js #tool
+#tech/language/js #tool
 
 Servor is dependency free local HTTP server with file watcher
 

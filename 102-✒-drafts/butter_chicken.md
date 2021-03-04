@@ -1,6 +1,6 @@
 # Butter Chicken
 
-#pin
+#self/todo/pin
 
 Clipped from: https://cafedelites.com/butter-chicken/
 Ingredients

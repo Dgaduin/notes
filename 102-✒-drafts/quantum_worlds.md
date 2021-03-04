@@ -1,6 +1,6 @@
 # Quantum worlds
 
-#pin
+#self/todo/pin
 
 Clipped from: https://worldbuilding.stackexchange.com/questions/160330/my-mysterious-ruins-wander-around-and-change-on-their-own-whatd-be-a-rationa
 Since there aren't any real constraints in the question, allow me to take a moment and define an entire multiverse:

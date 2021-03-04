@@ -1,6 +1,6 @@
 # Prototyping
 
-#pin
+#self/todo/pin
 
 Clipped from: https://news.ycombinator.com/item?id=21481487
 I've become a big fan of not worrying about architecture until the rewrite. The first version is always an exploration of the problem domain, and treating it as that has always made my projects go quicker.

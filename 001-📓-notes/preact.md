@@ -1,5 +1,5 @@
 # Preact
-#js #rendering #preact #web
+#tech/language/js #tech/language/js/lib/preact #tech/platform/web
 
 Preact is a minimal functional renderer, similar to React, but smaller and more concise.
 

@@ -1,11 +1,11 @@
 # FluentValdiation
-#csharp #aspcore #ioc #validation
+ #tech/language/dotnet/aspcore #tech/paradigm/ioc #tech/paradigm/validation
 
 [Source](https://github.com/FluentValidation/FluentValidation) 
 
 FluentValidation is an expression-tree based validation system.
 
-## Usage in ASP Core 
+## Usage in [[aspcore_framework|ASP Core]] 
 This snippet replaces the builtin data annotations validation with the `FluentValidations`
 
 ```csharp

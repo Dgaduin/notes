@@ -1,5 +1,5 @@
 # Bagels
-#food #pastry #savory
+#food/baking/savory
 
 
 ## Tips

@@ -1,7 +1,7 @@
  #rpg
 # Sonoluminescence
 
-#rpg #creature 
+#rpg/idea/creature 
 
 Sonoluminescence is the emission of short bursts of light from imploding bubbles in a liquid when excited by sound.
 

@@ -1,5 +1,5 @@
 # Get list of processes in Powershell
-#powershell 
+#tech/language/powershell 
 
 `Get-Process` will return a list of all process, or by providing a parameter it will filter on process name.
 

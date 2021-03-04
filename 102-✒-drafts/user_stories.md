@@ -1,6 +1,6 @@
 # Engineering guide to writing correct User Stories
 
-#pin
+#self/todo/pin
 
 Clipped from: https://sobolevn.me/2019/02/engineering-guide-to-user-stories
 correct, unambiguous, complete, consistent, ranked, verifiable, modifiable, and traceable 

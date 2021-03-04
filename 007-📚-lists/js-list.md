@@ -1,5 +1,5 @@
 # Javascript
-#list #js #to-try 
+#list #tech/language/js #to-try 
 
 ## Tooling
 * [EsBuild](https://github.com/evanw/esbuild) - extremely performant web builder written in Go

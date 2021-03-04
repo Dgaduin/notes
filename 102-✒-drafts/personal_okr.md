@@ -6,4 +6,4 @@ Qualitive idea - Quantative Goals
 
 [[yearly_themes]]
 
-#pin 
+#self/todo/pin 

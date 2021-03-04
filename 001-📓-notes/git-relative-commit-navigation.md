@@ -1,5 +1,5 @@
 # Git relative commit navigation
-#git 
+#tech/tool/git 
 
 # ^
 

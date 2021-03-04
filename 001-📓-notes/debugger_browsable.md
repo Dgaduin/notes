@@ -1,5 +1,5 @@
 # DebuggerBrowsable
-#csharp #debug 
+ #tech/language/dotnet/debug 
 
 `DebuggerBrowsable` - Attribute to dictate member visibility in the debug windows
 

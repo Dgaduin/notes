@@ -1,6 +1,6 @@
 # Rolling snowman
 
-#rpg #creature 
+#rpg/idea/creature 
 
 Snow rollers, how snowmans are made (wind rolling snowballs on freshly fallen snow)
 

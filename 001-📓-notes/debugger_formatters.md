@@ -1,6 +1,5 @@
 # Debugger formatters
-#csharp #debug 
-
+ #tech/language/dotnet/debug 
 These formatters can be applied like `{expression},formatter` to any [[debugger_display|DebuggerDisplay]] attribute or debug expression in a data window like Watch, Locals and Autos.
 
 |  Value                                                            | Description |

@@ -1,6 +1,6 @@
 # Test Desiderata - Kent Beck - Medium
 
-#pin
+#self/todo/pin
 
 Clipped from: https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3
     • Isolated — tests should return the same results regardless of the order in which they are run.

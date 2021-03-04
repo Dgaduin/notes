@@ -1,6 +1,6 @@
 # Estimation
 
-#pin
+#self/todo/pin
 
 Having done hundreds of small to mid sized projects I take comfort in the fact estimating is a very distinct task that even the best of developers learn last.
 I've got three tricks in my pocket that at least help me with this:

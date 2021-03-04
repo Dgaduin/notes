@@ -1,5 +1,5 @@
 # Newtonsoft.Json
-#csharp #lib 
+ #tech/language/dotnet/lib 
 
 [Source](https://github.com/JamesNK/Newtonsoft.Json)
 

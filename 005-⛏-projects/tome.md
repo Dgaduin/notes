@@ -1,5 +1,5 @@
 # Tome
-#project
+#self/project
 
 Portable mini-server to serve as a comunity hub 
 Battery-powered local wifi hotspot with websites

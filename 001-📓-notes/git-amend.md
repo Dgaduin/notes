@@ -1,5 +1,5 @@
 # Git Amend
-#git 
+#tech/tool/git 
 
 Git amend changes the current HEAD commit.
 

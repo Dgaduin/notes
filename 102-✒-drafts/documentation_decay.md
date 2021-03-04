@@ -1,2 +1,2 @@
-#pin 
+#self/todo/pin 
 Decaying documentation 

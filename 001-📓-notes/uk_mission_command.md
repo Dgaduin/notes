@@ -1,5 +1,5 @@
 # UK Mission Command	
-#leadership #management
+#work/leadership 
 
 In the UK army command is executed in 4 simple steps:
 1. State what you, as the leader, are trying to achieve, and why ('the big picture')

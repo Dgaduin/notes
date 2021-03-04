@@ -1,5 +1,5 @@
 Random Scroll Appearance
-#rpg #pin
+#rpg #self/todo/pin
 Roll on the following tables for unique scrolls!
 Scroll Shape (d12)
 1. Rectangular

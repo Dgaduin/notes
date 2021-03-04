@@ -1,5 +1,5 @@
 # Vue.js
-#js #framework #rendering #web 
+#tech/language/js/framework #tech/platform/web 
 
 [Source](https://github.com/vuejs/vue)
 

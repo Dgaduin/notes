@@ -5,7 +5,7 @@ title: Underwater science
 
 # Underwater science
 
-#pin
+#self/todo/pin
 
 Clipped from: https://worldbuilding.stackexchange.com/questions/160594/doing-chemistry-under-water
 I think you are on the right track and this is a really fun question. I think the issues you mentioned with things like generating heat are much larger obstacles than doing chemistry in a fluid medium would be. For an aquatic-native race, anyway. I'm going to focus mostly on the last part of your question, "What would their developmental path look like?"

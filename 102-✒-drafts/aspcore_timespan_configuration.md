@@ -1,6 +1,6 @@
 # TimeSpan configuration values in .NET Core
 
-#pin
+#self/todo/pin
 
 Clipped from: https://blog.ploeh.dk/2019/11/25/timespan-configuration-values-in-net-core/
 You can use a standard string format for TimeSpan values in configuration files. 

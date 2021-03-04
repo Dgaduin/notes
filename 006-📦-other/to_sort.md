@@ -789,7 +789,7 @@ Deer sceleton with brown suit
 
 Actual bookwyrm
 
-Tears the skin off to use its bones as weapons #Idea
+Tears the skin off to use its bones as weapons 
 
 A grey eye to see the incoming storms 
 

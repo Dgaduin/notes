@@ -1,4 +1,4 @@
-#pin
+#self/todo/pin
 static double GetAreaOptimized(this Shape shape)
 {
     switch (shape)

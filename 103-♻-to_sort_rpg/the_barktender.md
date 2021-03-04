@@ -1,6 +1,6 @@
 # The Barktender
 
-#rpg #character 
+#rpg/idea/character 
 
 Have a running joke in my campaign
 There's a tavern called "The Dog?"

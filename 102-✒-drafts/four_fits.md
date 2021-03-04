@@ -1,6 +1,6 @@
 # Four fits
 
-#pin
+#self/todo/pin
 
 Clipped from: https://news.ycombinator.com/item?id=21587194
 csallen 6 hours ago [-] 

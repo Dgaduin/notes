@@ -1,6 +1,6 @@
 # Code evolution steps
 
-#pin
+#self/todo/pin
 
 Clipped from: https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html
     • ({}–>nil) no code at all->code that employs nil 

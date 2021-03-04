@@ -1,5 +1,5 @@
 # Multilayer code browser
-#project
+#self/project
 
 Create a codebase browser that can dig trough the multiple layers of code, classes/structures, components/apps and infra
 

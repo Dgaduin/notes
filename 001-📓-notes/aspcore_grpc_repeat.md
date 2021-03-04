@@ -1,4 +1,5 @@
 # gRPC on .Net repeat
-#csharp #grpc #aspcore 
+
+#tech/protocol/grpc #tech/language/dotnet/aspcore
 
 Repeat gRPC fields are set by doing `Add`/`AddRange` on the field since the proxy type doesn't have a setter.

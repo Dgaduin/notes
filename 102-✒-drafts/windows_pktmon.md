@@ -2,4 +2,4 @@ https://www.bleepingcomputer.com/news/microsoft/windows-10-quietly-got-a-built-i
 
 https://github.com/cyberlibrarian/pktmon-quick-reference
 
-#pin 
+#self/todo/pin 

@@ -1,5 +1,5 @@
 # Array.Copy()
-#csharp #array 
+ #tech/language/dotnet/array 
 
 The best way to create an array copy with low overhead - despite assumptions it's acutally slightly faster than [[csharp_buffer_blockcopy|Buffer.BlockCopy]]
 

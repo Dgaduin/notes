@@ -1,6 +1,6 @@
 # Executives
 
-#pin
+#self/todo/pin
 
 Clipped from: https://news.ycombinator.com/item?id=21088425
 dbcurtis 2 days ago [-] 

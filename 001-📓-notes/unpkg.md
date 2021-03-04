@@ -1,5 +1,5 @@
 # Unpkg CDN
-#service #web 
+#tech/platform/web/service 
 
 Allows you to refer to every NPM package as a remote module, giving you the ability to use `import` inside of page scripts
 

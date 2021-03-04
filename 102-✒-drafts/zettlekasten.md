@@ -1,3 +1,3 @@
 # Zettelkasten
 
-#pin #knowledge
+#self/todo/pin #knowledge

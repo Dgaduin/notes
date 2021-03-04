@@ -1,5 +1,5 @@
 # Social conflict chess
-#archive 
+#self/archive 
 
 Chess reminds me of the best teacher I was lucky to have. In high school, we had year of modern history, covering Civilization from the Renaissance to about as close to present day as they can get. US history picked up the rest next year.
 That Civ teacher, Mr. Herzig, had very inventive class projects, often involving the entire class in some sort of simulation. For the reformation era, he split us into a Meeting of the Minds, 12 students were each given a philosopher to emulate. The rest helped them research, or prepared questions for the other philosophers.

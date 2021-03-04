@@ -1,5 +1,5 @@
 # Boyscouting
-#code-quality
+#tech/paradigm/code-quality
 
 The Boy Scouts motto:
 

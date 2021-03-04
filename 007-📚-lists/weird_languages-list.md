@@ -1,5 +1,5 @@
 # Weird Languages
-#list #get-better 
+#list #self/todo/get-better 
 
 ## Configuration
 * [TOML](https://github.com/toml-lang/toml)

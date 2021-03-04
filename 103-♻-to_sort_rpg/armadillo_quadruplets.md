@@ -1,6 +1,6 @@
 # Armadillo Quadruplets
 
-#rpg #creature 
+#rpg/idea/creature 
 
 TIL that armadillos of the genus Dasypus (the only ones found in the US) give birth to four genetically identical young that split from the same embryo; i.e. they always have identical quadruplets; they are the only known vertebrate animals to exhibit this "polyembryony"
 

@@ -59,4 +59,4 @@
 ```
 https://css-irl.info/7-uses-for-css-custom-properties/
 
-#pin
+#self/todo/pin

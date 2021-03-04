@@ -1,6 +1,6 @@
 # Highlights from The Checklist Manifesto by Atul Gawande - Chester Grant
 
-#pin
+#self/todo/pin
 
 Monday, November 4, 2019
 3:25 PM

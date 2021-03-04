@@ -1,5 +1,5 @@
 # Practice
-#list #get-better
+#list #self/todo/get-better
 
 This is a collection of places to practice writing code in an actual setting
 

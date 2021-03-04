@@ -1,5 +1,5 @@
 # Enums
-#csharp 
+ #tech/language/dotnet/enums
 
 Enums can have different internal type `public enum Types:long`
 Enums can have combined values if they use flag structure e.g.

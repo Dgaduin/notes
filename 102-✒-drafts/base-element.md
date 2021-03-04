@@ -1,8 +1,3 @@
----
-title: Base element
-tags:
-    - html
----
 
 # Base element
 

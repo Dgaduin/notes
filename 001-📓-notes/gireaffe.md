@@ -1,5 +1,5 @@
 # Giraffe
-#fsharp
+ #tech/language/dotnet/fsharp
 
 [Source](https://github.com/giraffe-fsharp/Giraffe)
 

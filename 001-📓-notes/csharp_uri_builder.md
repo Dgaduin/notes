@@ -1,5 +1,5 @@
 # UriBuilder
-#csharp 
+ #tech/language/dotnet/system
 
 Allows for creating various URIs, without having to instantiate a new instance between calls. For adding query parameters use [[csharp_parse_query_string|System.Web.HttpUtility.ParseQueryString]].
 

@@ -4,7 +4,7 @@ title: Simple Record wrappers
 
 # Simple Record wrappers
 
-#pin
+#self/todo/pin
 
 Validation
 Equality operands

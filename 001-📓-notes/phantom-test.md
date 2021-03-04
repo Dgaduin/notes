@@ -1,5 +1,5 @@
 # Phantom Test
-#code-quality #testing 
+#tech/paradigm/code-quality #tech/paradigm/testing 
 
 Test which returns correctly, but not because the code under test is doing the right thing or anything at all.
 

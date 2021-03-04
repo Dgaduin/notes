@@ -1,6 +1,6 @@
 # Number.isNan() vs isNan()
 
-#js
+#tech/language/js
 
 `NaN` compares unequal (via `==`, `!=`, `===`, and `!==`) to any other value -- including to another NaN value.
 

@@ -1,4 +1,4 @@
 # Powershell Tools and Modules
-#list #powershell 
+#list #tech/language/powershell 
 
 [Z](https://github.com/badmotorfinger/z) - quick directory navigation

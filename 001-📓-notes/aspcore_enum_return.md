@@ -1,5 +1,6 @@
 # Use enum string values on API return
-#csharp #aspcore #ioc 
+
+#tech/language/dotnet/aspcore #tech/paradigm/ioc
 
 This snippet sets the JSON parser to return enum string values instead of the backing value.
 

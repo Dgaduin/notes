@@ -1,5 +1,5 @@
 # Installing Linux on a dead badger: User's Notes
-#archive
+#self/archive
 
 LUCY A. SNYDER
 ISSUE: 5 APRIL 2004

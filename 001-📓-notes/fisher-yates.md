@@ -1,5 +1,5 @@
 # Fisher–Yates shuffle
-#algorithm
+#tech/paradigm/algorithm
 
 The Fisher–Yates shuffle, in its original form, was described in 1938 by Ronald Fisher and Frank Yates in their book _Statistical tables for biological, agricultural and medical research_. Their description of the algorithm used pencil and paper; a table of random numbers provided the randomness.
 

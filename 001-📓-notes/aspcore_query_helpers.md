@@ -1,5 +1,6 @@
 # Query Helpers
-#csharp #aspcore 
+
+#tech/language/dotnet/aspcore
 
 `QueryHelpers` is a static class for building relative, parameter-safe URIs.
 

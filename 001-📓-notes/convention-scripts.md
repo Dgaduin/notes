@@ -1,5 +1,5 @@
 # Convention based build scripts
-#code-quality 
+#tech/paradigm/code-quality 
 
 Root folder which has a list of scripts to perform different actions:
 

@@ -1,5 +1,5 @@
 # BLAKE3
-#crypto #to-expand #security
+#tech/paradigm/security/crypto #self/todo/to-expand 
 
 This is an alternative hash cipher based on [[merkel-tree|Merkel tree]]
 Not suitable for passwords

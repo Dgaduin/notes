@@ -1,7 +1,7 @@
  #rpg
 # Digital faeries
 
-#pin
+#self/todo/pin
 
 Clipped from: https://yudkowsky.tumblr.com/post/185387711470/bunjywunjy-yesterday-for-april-fools-my
 bunjywunjy:

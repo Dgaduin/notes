@@ -1,1 +1,0 @@
-https://recaffeinate.co/post/serialize-errors-as-json-in-aspnetcore/
