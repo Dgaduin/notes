@@ -1,3 +1,6 @@
+---
+aliases:[NullLogger]
+---
 # NullLogger
 
 #tech/language/dotnet/aspcore #tech/paradigm/logging #tech/paradigm/testing

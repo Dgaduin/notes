@@ -1,3 +1,6 @@
+---
+aliases:[aggregate root]
+---
 # Aggregate_root
 #tech/paradigm/oop/ddd 
 

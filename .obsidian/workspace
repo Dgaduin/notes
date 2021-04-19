@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4a87015c3ee0408d",
+        "id": "605d622b8605099e",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "di.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -62,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "powershell",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,13 +72,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "822c4941d86c16e9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 557
+    "width": 323
   },
   "right": {
     "id": "fa46c97bdcb830d6",
@@ -92,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "di.md"
+              }
             }
           }
         ]
@@ -108,10 +120,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "di.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": true,
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -129,6 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "di.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,8 +167,8 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.3628873693012145,
-                  "close": false
+                  "scale": 1.0000000000000102,
+                  "close": true
                 }
               }
             }
@@ -163,16 +179,17 @@
     "direction": "horizontal",
     "width": 421
   },
+  "active": "605d622b8605099e",
   "lastOpenFiles": [
-    "001-📓-notes/aspcore.md",
-    "001-📓-notes/uk_mission_command.md",
-    "001-📓-notes/serilog.md",
-    "001-📓-notes/servor.md",
-    "001-📓-notes/slashbuckle.md",
-    "001-📓-notes/the-job-is-helping.md",
-    "001-📓-notes/unpkg.md",
-    "001-📓-notes/vuejs.md",
-    "001-📓-notes/csharp_array_clear.md",
-    "001-📓-notes/content-has-purpose.md"
+    "Untitled 13.md",
+    "Untitled 12.md",
+    "Untitled 11.md",
+    "003-🎲-rpg/campagins/ftgf/galaxy_map.md",
+    "003-🎲-rpg/campagins/ftgf/for_the_golden_fleece.md",
+    "Untitled 10.md",
+    "003-🎲-rpg/campagins/ftgf/factions/kostawa_trade_family.md",
+    "103-♻-to_sort_rpg/breathing_ground.md",
+    "103-♻-to_sort_rpg/calligraphy.md",
+    "103-♻-to_sort_rpg/campaign_ideas.md"
   ]
 }

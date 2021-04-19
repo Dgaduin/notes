@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f22ceb14c89bad69",
+        "id": "7e249a3d8ee311fa",
         "type": "leaf",
         "active": true,
         "state": {
@@ -79,7 +79,10 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ],

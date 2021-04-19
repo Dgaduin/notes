@@ -1,3 +1,6 @@
+---
+aliases:[QueryHelpers]
+---
 # Query Helpers
 
 #tech/language/dotnet/aspcore

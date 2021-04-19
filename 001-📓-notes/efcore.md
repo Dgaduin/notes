@@ -1,3 +1,6 @@
+---
+aliases:[Entity Framework Core,EF Core]
+---
 # Entity Framework Core
  #tech/language/dotnet/aspcore/efcore #tech/language/dotnet/framework #tech/language/sql 
 

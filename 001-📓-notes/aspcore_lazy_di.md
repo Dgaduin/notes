@@ -3,7 +3,7 @@
 
 Sometimes it bight be better to resolve the runtime dependencies in [[aspcore_framework|ASP Core]] lazily, e.g. in multi-dependent controllers where we might not need all dependencies for all calls.
 	
-To achieve that we can use the DI factory overloads with the `Lazy<T>` delegate constructor.
+To achieve that we can use the DI factory overloads with the [[csharp_lazy|Lazy<T>]] delegate constructor.
 	
 ```csharp
 public void ConfigureServices(IServiceCollection services)

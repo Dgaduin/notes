@@ -17,3 +17,7 @@ Same fret 1 down
 Same note, one up
 
 12 frets down or 2 over 2 down
+
+Stretches
+https://www.justinguitar.com/guitar-lessons/finger-stretching-exercise-te-101
+https://www.justinguitar.com/guitar-lessons/the-major-scale-pattern-1-sc-251 -> https://www.justinguitar.com/guitar-lessons/minimum-movement-exercise-te-102

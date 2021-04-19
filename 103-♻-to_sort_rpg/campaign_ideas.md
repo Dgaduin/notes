@@ -19,4 +19,4 @@ Heist-y, underworld set. Access to cyber and bioware, no access to consciousness
 Inspirations: Deus Ex, Altered Carbon (s1), Blade Runner, Sony's Edge
 Not like: Altered Carbon (s2), The Expanse 
 
-Proposed system: Genesis
+Proposed system: Genesis![[]]
