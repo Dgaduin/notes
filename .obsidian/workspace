@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "33b7f473e52bf79b",
+        "id": "0b583cf933b8880b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled 2.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -64,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "```",
+                "query": "vape",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled 2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -120,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +138,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,17 +172,17 @@
     "direction": "horizontal",
     "width": 421
   },
-  "active": "33b7f473e52bf79b",
+  "active": "0b583cf933b8880b",
   "lastOpenFiles": [
+    "102-✒-drafts/vape_juices.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "Untitled 2.md",
     "009-📙-books/zen_and_the_art_of_motorcycle_maintanence.md",
     "008-🎵-music/music.md",
     "008-🎵-music/songbook/caro_emerald-back_it_up.md",
     "008-🎵-music/files/Caro_Emerald-Back_it_up-Acoustic-Soul_Ktchen.mp3",
     "006-📦-other/to_sort.md",
-    "006-📦-other/quotes.md",
-    "005-⛏-projects/alexandria.md",
-    "001-📓-notes/scientia-incognita.md",
-    "001-📓-notes/s-scripts.md"
+    "006-📦-other/quotes.md"
   ]
 }
