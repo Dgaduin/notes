@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "605d622b8605099e",
+        "id": "33b7f473e52bf79b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "di.md",
+            "file": "Untitled 2.md",
             "mode": "source"
           }
         }
@@ -64,11 +64,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "powershell",
-                "matchingCase": true,
+                "query": "```",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "di.md"
+                "file": "Untitled 2.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "di.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "di.md",
+                "file": "Untitled 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,8 +167,8 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 1.0000000000000102,
-                  "close": true
+                  "scale": 1.000000000000011,
+                  "close": false
                 }
               }
             }
@@ -179,17 +179,17 @@
     "direction": "horizontal",
     "width": 421
   },
-  "active": "605d622b8605099e",
+  "active": "33b7f473e52bf79b",
   "lastOpenFiles": [
-    "Untitled 13.md",
-    "Untitled 12.md",
-    "Untitled 11.md",
-    "003-🎲-rpg/campagins/ftgf/galaxy_map.md",
-    "003-🎲-rpg/campagins/ftgf/for_the_golden_fleece.md",
-    "Untitled 10.md",
-    "003-🎲-rpg/campagins/ftgf/factions/kostawa_trade_family.md",
-    "103-♻-to_sort_rpg/breathing_ground.md",
-    "103-♻-to_sort_rpg/calligraphy.md",
-    "103-♻-to_sort_rpg/campaign_ideas.md"
+    "Untitled 2.md",
+    "009-📙-books/zen_and_the_art_of_motorcycle_maintanence.md",
+    "008-🎵-music/music.md",
+    "008-🎵-music/songbook/caro_emerald-back_it_up.md",
+    "008-🎵-music/files/Caro_Emerald-Back_it_up-Acoustic-Soul_Ktchen.mp3",
+    "006-📦-other/to_sort.md",
+    "006-📦-other/quotes.md",
+    "005-⛏-projects/alexandria.md",
+    "001-📓-notes/scientia-incognita.md",
+    "001-📓-notes/s-scripts.md"
   ]
 }

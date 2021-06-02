@@ -1,1 +1,0 @@
-https://positivepsychology.com/ikigai/

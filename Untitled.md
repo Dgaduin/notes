@@ -1,2 +1,1 @@
-https://tldrlegal.com
-https://www.algolia.com
+know your tools
