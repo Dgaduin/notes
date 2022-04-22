@@ -1,0 +1,29 @@
+{
+  "ribbonIcon": true,
+  "showRootFolder": true,
+  "showFilesFromSubFolders": false,
+  "searchFunction": true,
+  "allSearchOnlyInFocusedFolder": false,
+  "showFilesFromSubFoldersButton": true,
+  "revealActiveFileButton": true,
+  "excludedExtensions": "",
+  "folderIcon": "icomoon",
+  "folderCount": true,
+  "folderCountOption": "files",
+  "evernoteView": true,
+  "filePreviewOnHover": true,
+  "sortFilesBy": "name",
+  "fixedHeaderInFileList": true,
+  "createdYaml": false,
+  "fileNameIsHeader": false,
+  "folderNote": true,
+  "deleteFileOption": "trash",
+  "openFolders": [
+    "103-🎲-rpg/campagins",
+    "103-🎲-rpg/campagins/ftgf",
+    "001-📓-notes"
+  ],
+  "pinnedFiles": [],
+  "customHeight": 0,
+  "activeFolderPath": "001-📓-notes/001-⚙-tech"
+}

@@ -1,0 +1,179 @@
+{
+  "workspaces": {
+    "Krasis": {
+      "main": {
+        "id": "a8275553da494534",
+        "type": "split",
+        "children": [
+          {
+            "id": "dc5053ea6e5607d7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "72bfc1eac6952947",
+        "type": "split",
+        "children": [
+          {
+            "id": "10f837c73dea121d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9e2476c3fdd1e720",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "Presila",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6478f43d88caae7e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "65702a9322157ae6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d1d82ca0c36bc018",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 283.5
+      },
+      "right": {
+        "id": "fa46c97bdcb830d6",
+        "type": "split",
+        "children": [
+          {
+            "id": "fe385ff443f77771",
+            "type": "tabs",
+            "dimension": 32.38805970149254,
+            "children": [
+              {
+                "id": "42cdecf8de351c63",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5087618855792595,
+                      "close": false
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "41ea97045803b667",
+            "type": "tabs",
+            "dimension": 14.925373134328357,
+            "children": [
+              {
+                "id": "2b2aad4082cd0191",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "1e5fe75c7ecdc883",
+            "type": "tabs",
+            "dimension": 52.6865671641791,
+            "children": [
+              {
+                "id": "a33d0e99c64b1e22",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "f5fa5eb0262a6820",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 374.5
+      },
+      "active": "dc5053ea6e5607d7"
+    }
+  },
+  "active": "Krasis"
+}

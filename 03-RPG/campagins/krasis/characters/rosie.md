@@ -1,0 +1,5 @@
+- Rosie O'Connel
+- [[Sean]]'s mom
+- cook in the [[../places/oconnells|O'Connel's]]
+- involved in an anti-[[../orgs/brothers_of_harm|BH]] scheme
+- headstrong, doesn't care much about the blowback

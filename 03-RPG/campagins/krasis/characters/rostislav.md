@@ -1,0 +1,4 @@
+- human
+- butcher
+- a bit cowardish
+- part of the [[../orgs/the_resistance_group|resistance]] group

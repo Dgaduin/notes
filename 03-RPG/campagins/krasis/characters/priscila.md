@@ -1,0 +1,35 @@
+---
+aliases: [Priscila Mort,Priscila]
+---
+- Priscila Mort
+- human woman
+- taxidermist
+- rich
+	- how? 
+- has visited the [[../places/the_special_section|section]] alongside with [[BEG]] the week before [[../notes/the_theft|the theft]]
+	- ~~doesn't have magic abilities~~ %%reconsider that ...%%
+	- always visited during months of increased arcane presence
+- has interested in getting the body of a specific bear
+	- probably for work, but why?
+		- does it have anything to do with her magic research
+			- side effect?
+			- intended effect?
+			- required for something?
+	- ready to pay for it
+	- it's a fucking [[owlbear]] …
+		- there are a dead one and a semi-alive one in her attic
+- visited [[../places/the_special_section|the special section]]
+- sold an elk head to [[../places/oconnells|O'Connel's]] for a lot of money
+- has dead eyes 
+	- seems antagonistic to ~~poor~~ people%%just people%%
+- [[Kasim]] knew her dad
+	- the dad died 2-3 years ago
+		- ~~is this related to her interests?
+			- looks to be, he's probably in the barrels
+- has some magic ability after all
+	- there was a magic snare on the door
+	- brought back taxidermied animals to fight for her
+	- has a proper zombie in her attic
+- ran away with a book from her shelf
+	- is it [[../things/carwiles_codex_of_unthinkable_spells|Carwile's]]?
+		- i really hope it is

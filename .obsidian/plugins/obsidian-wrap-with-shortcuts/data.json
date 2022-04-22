@@ -1,0 +1,16 @@
+{
+  "wrapperTags": [
+    {
+      "name": "Underline",
+      "commandKey": "u",
+      "startTag": "<u>",
+      "endTag": "</u>"
+    },
+    {
+      "name": "Aside Right",
+      "commandKey": ">",
+      "startTag": "<s class=\"aside-right\">",
+      "endTag": "</s>"
+    }
+  ]
+}

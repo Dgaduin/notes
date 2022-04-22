@@ -1,0 +1,9 @@
+{
+  "provider": "google",
+  "fallbackProvider": "duckduckgo",
+  "providerDomain": "",
+  "fallbackProviderDomain": "",
+  "ignored": "",
+  "overwritten": [],
+  "protocol": []
+}

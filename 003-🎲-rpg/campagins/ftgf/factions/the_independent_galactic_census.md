@@ -1,2 +1,0 @@
-# The Independent Galactic Census
-2 feet tall, spherical, legless, dark green strongly psychic aliens, who fill their time by annoying you telepathically until you answer a short 300 question survey and then publish a report every 5 years that almost no one read since it's around 3 yottabytes.

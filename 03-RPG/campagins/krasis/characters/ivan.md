@@ -1,0 +1,6 @@
+- [[../orgs/the_guard|guard]]
+- antagonistic against orcs
+	- wasn't happy about birds either
+- knows about [[../orgs/brothers_of_harm|BH]] racket
+	- friend/knows [[bhguy1]] and [[bhguy2]]
+	- looks like most/all guards know

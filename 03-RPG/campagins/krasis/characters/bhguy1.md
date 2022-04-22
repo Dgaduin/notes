@@ -1,0 +1,5 @@
+- member of [[../orgs/brothers_of_harm|BH]] 
+- works alongside his [[bhguy2|his pal]]
+	- tried to push [[../places/oconnells|O'Connel's]] for money
+		- were kicked out but stole a bottle
+- has been told O'Leary is a detective

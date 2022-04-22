@@ -1,0 +1,14 @@
+---
+aliases: [resistance]
+---
+- people who are annoyed at [[orgs/brothers_of_harm|BH]]
+- members
+	- [[characters/rostislav|Rostislav]]
+	- [[characters/rosie|Rosie]]
+	- [[characters/kelly|Kelly]]
+	- [[../characters/grigor|Grigor]]
+- the old [[characters/the_mayor|mayor]] was made aware of the issues before disappearing 
+- [[orgs/brothers_of_harm|BH]] has a kidnap list for all members
+	- one tried to nap [[characters/kelly|Kelly]],  now he lives in [[characters/khayu|Mr. Khayu's]] special trunk
+	- why kidnap and not kill?
+		- are alive bodies needed for [[../characters/priscila|Priscila]]'s stuff?

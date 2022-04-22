@@ -1,0 +1,13 @@
+- sent by the [[orgs/the_halfling_community_council|the halfing's council]]
+- is semi-retired at the moment
+	- mostly handles things as favours or helps out with important things
+	- picked the case cause he was fucking bored
+- spent some years in prison to help protect a whistle blower from the guard
+	- is covered in colourful tattoos
+		- a big celtic knot on his right back shoulder for taking a hit for a person he was guarding
+		- an oak tree on his chest with the names of his family and "family" members in druidic and a lot of small ornaments for small achievements
+		- an orc script on his right bicep from a security pact with a neighbouring community, looks to be made of a very potent black ink
+		- a dove over the heart for murdering a politician (landed on a branch of the oak)
+		- a rune circle between the shoulder blades with his date and place of birth (will be filled with the date and place of death as a smaller circle inside) 
+		- a gull head on the left bicep for doing a smuggling run via the river
+		- the only human style , slightly faded blue tattoo on his left forearm - 24 on an envelope with a laurel around it

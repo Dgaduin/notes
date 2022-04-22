@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "a8275553da494534",
+    "type": "split",
+    "children": [
+      {
+        "id": "688e8180d23f5016",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72bfc1eac6952947",
+    "type": "split",
+    "children": [
+      {
+        "id": "10f837c73dea121d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e2476c3fdd1e720",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6478f43d88caae7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65702a9322157ae6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f584b37aa9c2957",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "fa46c97bdcb830d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ea97045803b667",
+        "type": "tabs",
+        "dimension": 24.776119402985074,
+        "children": [
+          {
+            "id": "2b2aad4082cd0191",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "1be7299b07d4432c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -1.3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.36288736930121185,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "21326da2375d6129",
+        "type": "tabs",
+        "dimension": 36.268656716417915,
+        "children": [
+          {
+            "id": "f5fa5eb0262a6820",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1e5fe75c7ecdc883",
+        "type": "tabs",
+        "dimension": 38.95522388059702,
+        "children": [
+          {
+            "id": "a33d0e99c64b1e22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "active": "688e8180d23f5016",
+  "lastOpenFiles": [
+    "campagins/krasis/characters/joey.md",
+    "campagins/krasis/notes/quest_log.md",
+    "campagins/krasis/characters/harry.md",
+    "campagins/krasis/characters/georgi.md",
+    "campagins/krasis/characters/grigor.md",
+    "campagins/krasis/things/carwiles_codex_of_unthinkable_spells.md",
+    "campagins/krasis/daily_notes.md",
+    "campagins/krasis/characters/captain_kaloyan.md",
+    "campagins/krasis/characters/priscila.md",
+    "campagins/krasis/orgs/the_resistance_group.md"
+  ]
+}

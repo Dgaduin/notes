@@ -1,3 +1,0 @@
-Dat
-Scuttlebut
-ActivityPub

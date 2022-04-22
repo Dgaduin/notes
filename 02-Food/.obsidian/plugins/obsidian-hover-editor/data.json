@@ -1,0 +1,7 @@
+{
+  "defaultMode": "source",
+  "autoPin": "onMove",
+  "triggerDelay": 200,
+  "autoFocus": true,
+  "rollDown": false
+}

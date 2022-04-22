@@ -1,0 +1,3 @@
+- pseudo-dragon 
+- potential witness to the theft
+- part of/connected to [[x|Mr. X]]

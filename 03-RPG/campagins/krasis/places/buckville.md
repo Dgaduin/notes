@@ -1,0 +1,3 @@
+ - small town
+ - famous for it's bucks
+ - there is a logging company - [[../orgs/brothers_of_harm|BH]]

@@ -1,1 +1,0 @@
-obsidian extension to handle pasting from browser with url like onenote

@@ -1,0 +1,4 @@
+- Sean O'Connell
+- innkeeper at [[../places/oconnells|O'Connell's]]
+- a bit too timid
+- looks strong

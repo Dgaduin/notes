@@ -1,0 +1,20 @@
+{
+  "obsidian-icons-plugin:open-icons-plugin-modal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut->": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ]
+}

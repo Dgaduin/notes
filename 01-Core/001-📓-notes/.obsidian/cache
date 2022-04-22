@@ -1,0 +1,2044 @@
+{
+  "files":
+    {
+      "10_to_1.md":
+        {
+          "mtime": 1592754707000,
+          "size": 448,
+          "hash": "b8fc786f4a374e2c5e8537a1b221dc4cf6a834f34e530cc95def97d5b9e2bab0",
+        },
+      "aggregate_root_over_orm.md":
+        {
+          "mtime": 1592759685000,
+          "size": 490,
+          "hash": "db4dc046c3a61663c74a58d0a9cccdd73232531910a9985b61d1acac7f6d2db7",
+        },
+      "aspcore.md":
+        {
+          "mtime": 1592772741000,
+          "size": 922,
+          "hash": "9e760cf0eb318ba28392beaa61431ab355572e1803feb2e05da60cff9fbc14e8",
+        },
+      "aspcore_configuration_precedence.md":
+        {
+          "mtime": 1592772708000,
+          "size": 406,
+          "hash": "76d33b58fdb6b1b8db7b01dabedfb34635ca455329fb4a52914167ab6f956034",
+        },
+      "aspcore_enum_return.md":
+        {
+          "mtime": 1595599315235.843,
+          "size": 381,
+          "hash": "19e57b936664c6ee96c0a8d6983e73c4a2372ff81660203845b71405bde54396",
+        },
+      "aspcore_fluent_validations.md":
+        {
+          "mtime": 1595599347173.7212,
+          "size": 575,
+          "hash": "18a97efcadbfd5939400f39ca107a6d230edb3083b9af771f459f93beee9db52",
+        },
+      "aspcore_grpc_repeat.md":
+        {
+          "mtime": 1592577836000,
+          "size": 157,
+          "hash": "7d911e14241f5af17292632a8bdb2ad8ce6bcb3e7f39a87ebff4cd79da32e353",
+        },
+      "aspcore_healthchecks.md":
+        {
+          "mtime": 1592567382000,
+          "size": 1297,
+          "hash": "56c361ea77b151ef1273747744198394caec2211d16c82336bd14cee2ec93d7e",
+        },
+      "aspcore_kestrel-certificates.md":
+        {
+          "mtime": 1592566579000,
+          "size": 784,
+          "hash": "59ed249e6b8bf6f24ccd97c38a07f0998fac1211e62e4126f6b445d4d10253ed",
+        },
+      "aspcore_nulllogger.md":
+        {
+          "mtime": 1592566724000,
+          "size": 306,
+          "hash": "477948e58466ea36c6eb5e0380e04929b2c4f4bd4e8690a6bc84b97406960096",
+        },
+      "aspcore_query_helpers.md":
+        {
+          "mtime": 1592573080000,
+          "size": 445,
+          "hash": "379820f80c9fd0ef03fd41e5e36fad039d59eb3512d808f78e68c9d1ab97764d",
+        },
+      "aspcore_return_file.md":
+        {
+          "mtime": 1592759774000,
+          "size": 331,
+          "hash": "7b5f3331c726bbdb67b5f43fe38ae0e7f4cd9fa35dc4064c48b7f47ec67fa0a0",
+        },
+      "boyscouting.md":
+        {
+          "mtime": 1595600082590.4656,
+          "size": 465,
+          "hash": "03471c194f15f34d2006c559679ee53ab311cd381a4333f9b3cc0fb0054e5707",
+        },
+      "colour-is-meaningless.md":
+        {
+          "mtime": 1592566311000,
+          "size": 483,
+          "hash": "98bf94ce30f3c38430aab4560470c2acb3d00e9bcff603a1608c68f17bf42de8",
+        },
+      "content-has-purpose.md":
+        {
+          "mtime": 1595598960591.1648,
+          "size": 656,
+          "hash": "2063ec74fd3d7bfada52280910616a34f79db811236f203be4f984414c7b3a71",
+        },
+      "convention-scripts.md":
+        {
+          "mtime": 1592566350000,
+          "size": 552,
+          "hash": "9ef2cf8e36caf40b1247884ba955e17dd24ed93c9f8d637e020470ec9d0a0c3c",
+        },
+      "csharp_array_clear.md":
+        {
+          "mtime": 1592574507000,
+          "size": 173,
+          "hash": "3f002e4176b4c51680d5a1d36f192aebeb4ba536a886c4f185c35289418772ec",
+        },
+      "csharp_array_copy.md":
+        {
+          "mtime": 1592574810000,
+          "size": 220,
+          "hash": "5a127bffcad9080e01d432692b4fe5e89f208037164bd0724d74e1e2e3dfe674",
+        },
+      "csharp_buffer_blockcopy.md":
+        {
+          "mtime": 1592577268000,
+          "size": 307,
+          "hash": "49018d384522f3a916426bd51f1112a12420b293b774c2efdd99f1aec444ea2b",
+        },
+      "csharp_collection_initial_capacity.md":
+        {
+          "mtime": 1592577396000,
+          "size": 217,
+          "hash": "60d407c117cc8a4f4bc0f8568086b10f8f0b12998830882ae8802c86425b9d63",
+        },
+      "csharp_datetimeoffset.md":
+        {
+          "mtime": 1592567691000,
+          "size": 273,
+          "hash": "9e0a4c9b74b962366f8e6d7cd66092a9299d4ec3a5da2d07c4795c10b1793a50",
+        },
+      "csharp_delegates_in_di.md":
+        {
+          "mtime": 1592562744000,
+          "size": 286,
+          "hash": "30226a801daca7c2c98b8b859b5bbe0527a4afdf0595d458a1ab34efacf50d2e",
+        },
+      "csharp_enums.md":
+        {
+          "mtime": 1592563016000,
+          "size": 317,
+          "hash": "f3aa8bce2d21c1a572131cf972921821e4481793a40dc7dd87a179bdda3e248f",
+        },
+      "csharp_function_chains.md":
+        {
+          "mtime": 1592562805000,
+          "size": 306,
+          "hash": "c0588cc4a898fb94f6019ced11fc55f5101756dc1c80ab4f169ffc8ccbf24edc",
+        },
+      "csharp_generate_random_string.md":
+        {
+          "mtime": 1592562781000,
+          "size": 373,
+          "hash": "8341bafe6033c0a65f91658a73858893dc39eee630809d72aa78b7b60f54e5bf",
+        },
+      "csharp_linq_join.md":
+        {
+          "mtime": 1592566645000,
+          "size": 291,
+          "hash": "2dd09f2a6286b574b45d06d7cf15f0a14ce7fdc4253dc344bc71a7e01c844d1d",
+        },
+      "csharp_mdim_arrays_length.md":
+        {
+          "mtime": 1592577518000,
+          "size": 157,
+          "hash": "8bac509a77a664cb27c61886e598f94191cfa9e5819d85a09f3df49033e96e1e",
+        },
+      "csharp_parse_query_string.md":
+        {
+          "mtime": 1592573035000,
+          "size": 235,
+          "hash": "58f2f60bc93ae28240c1735d9e213ca14c3510ae61fc35e807244e1d27cd8a14",
+        },
+      "csharp_string_interning.md":
+        {
+          "mtime": 1592574254000,
+          "size": 143,
+          "hash": "ad6906b1fa1eff28bcce67422c24195b4e90803374105bad123054dcdebfdb46",
+        },
+      "csharp_string_truncation.md":
+        {
+          "mtime": 1592566968000,
+          "size": 180,
+          "hash": "dd79ad73a27fdc6c865a70643c3ea6d6925f14a49555707fe674dd151d2e4744",
+        },
+      "csharp_uri_builder.md":
+        {
+          "mtime": 1592573074000,
+          "size": 312,
+          "hash": "084bdd6cb31d0445a3b7382f4d7359ccaefebebe637ee5288ab6296e6de4abd1",
+        },
+      "ddd_aggregate_root.md":
+        {
+          "mtime": 1592755831000,
+          "size": 189,
+          "hash": "9dc6e50e816a83ac6764f75cf1b645e80ed54447b3121e9c1cc01dd24aba6709",
+        },
+      "ddd_entity.md":
+        {
+          "mtime": 1592755830000,
+          "size": 315,
+          "hash": "3a7e8a2cc0253d19d75ee618ae977b59e58ece17d0d11b56d2ae97a31c814e9a",
+        },
+      "debugger_browsable.md":
+        {
+          "mtime": 1592566369000,
+          "size": 596,
+          "hash": "e9207b28b4e51c19cd832369903f803f75f72531ff7eadb9a083e3bf3bdc4724",
+        },
+      "debugger_display.md":
+        {
+          "mtime": 1592566377000,
+          "size": 484,
+          "hash": "92b0abb5d041ebb97c048910d64d28b36ccfba814a1bc39e636d94684d7d10b4",
+        },
+      "debugger_formatters.md":
+        {
+          "mtime": 1592566382000,
+          "size": 1349,
+          "hash": "702453fa6f6458ab196838fc3641497a9d8a72faa2ebfcab2c795b0ffdce83cd",
+        },
+      "dll-resolution.md":
+        {
+          "mtime": 1592566408000,
+          "size": 662,
+          "hash": "b8f697af8427a24703a435091454caabd5e36cee6b75d406426264d24632083c",
+        },
+      "dont-move-shit-around.md":
+        {
+          "mtime": 1592566415000,
+          "size": 224,
+          "hash": "a8b9b27776e925cf58367eb15b7995acd014ba0187b88a73274aa2f795dca906",
+        },
+      "efcore.md":
+        {
+          "mtime": 1592759685000,
+          "size": 397,
+          "hash": "a596afd1f9a6fe48c7bc42228ffca5352307254c05fc5682a72957c7cf6f4341",
+        },
+      "efcore_generated_sql.md":
+        {
+          "mtime": 1592563551000,
+          "size": 387,
+          "hash": "9282387b28a566b050f30c040cc0d034bf7cba5c63220e4abae41f3eca42d73a",
+        },
+      "efcore_include.md":
+        {
+          "mtime": 1592756348000,
+          "size": 50,
+          "hash": "a8f85d7356a93f81e3ede32e75399e16daa29cc191d8aaf1c53d66482edc218e",
+        },
+      "efcore_lazy_loading.md":
+        {
+          "mtime": 1592756281000,
+          "size": 48,
+          "hash": "54db53b38a52eeabf01eddb1201e50f1d011836372c688f1914f0ec40eacdfd0",
+        },
+      "efcore_query_tags.md":
+        {
+          "mtime": 1592573383000,
+          "size": 295,
+          "hash": "e613592b3f4a77c453e21a0e0d70c24a0276943023b7ab264e854c07d6f64094",
+        },
+      "fisher-yates.md":
+        {
+          "mtime": 1592566498000,
+          "size": 2161,
+          "hash": "ad6bfbbcc8fe64e2ea5778e403088ec4fdc141d4e37dc5417ddaa72e5fcd44a3",
+        },
+      "flexsearch.md":
+        {
+          "mtime": 1592566515000,
+          "size": 546,
+          "hash": "262f04f21742cc6bffa7f51c522697f05c60062bc88d799369c5571aff365fcf",
+        },
+      "holistic-notes.md":
+        {
+          "mtime": 1592566543000,
+          "size": 469,
+          "hash": "18d43941fbcefa57d7cffb4ae99c1d188edfe48b548a6b57ff01fd7cbd31c54b",
+        },
+      "htm.md":
+        {
+          "mtime": 1592566555000,
+          "size": 587,
+          "hash": "0d555b9c2d55eca59491f46d060e1296906d422483c7cf07e3a5795bf1556bbd",
+        },
+      "knowledge-vectors.md":
+        {
+          "mtime": 1595597521035.143,
+          "size": 863,
+          "hash": "be1dc53286df0d593a699be432febebed0a582487ec27bfcde1a5e3d396da613",
+        },
+      "linux-term-triples.md":
+        {
+          "mtime": 1592566656000,
+          "size": 476,
+          "hash": "fd0e80b6278ad055f8e7b96f40a2e7f16326649e5324beb683f11a1c937d0163",
+        },
+      "nobody-reads.md":
+        {
+          "mtime": 1592566671000,
+          "size": 220,
+          "hash": "5aaed7ec5e17b97d5abad31aa3baee71dbcbb68efab126ccff72a3542e33077d",
+        },
+      "paralel-vectors.md":
+        {
+          "mtime": 1595597637687.3484,
+          "size": 338,
+          "hash": "03055b10a47c46acdadc925f49653abedb6c308c1b9ccb8bc1e41de8a3728f11",
+        },
+      "phantom-test.md":
+        {
+          "mtime": 1592566741000,
+          "size": 598,
+          "hash": "a1d00d084af68e1a0e23647bc7e7dbce7eecec46ad3178255e731508003a1a74",
+        },
+      "powershell_get_processes.md":
+        {
+          "mtime": 1592568441000,
+          "size": 53,
+          "hash": "101c16fd01f3afc5eeab9a598f539d00970181e92838d709a26f4bef13edf2d0",
+        },
+      "powershell_global_variables.md":
+        {
+          "mtime": 1592568333000,
+          "size": 110,
+          "hash": "762f3869aeb9f0a1d1f31ed1e1c8d17e9088fed58d6f7c94401f2cb6da83fe48",
+        },
+      "powershell_port_check.md":
+        {
+          "mtime": 1592568599000,
+          "size": 82,
+          "hash": "5e6e06d75556277dc08a18b06a137dd467abc8990c14d1f8a310bc2a6ad6a2f4",
+        },
+      "powershell_print_path.md":
+        {
+          "mtime": 1592568190000,
+          "size": 80,
+          "hash": "4e5a19b58accf6d05ab763d200a9dc35c40dcd54b04a617e4ff70cd2b7cf02fa",
+        },
+      "preact-lifecycles.md":
+        {
+          "mtime": 1592566918000,
+          "size": 925,
+          "hash": "43c18b314783786975aad383cd117e5a3efbc1ab836910b4cc500ac425d59acf",
+        },
+      "preact-router.md":
+        {
+          "mtime": 1592566833000,
+          "size": 863,
+          "hash": "c23858289b540520366c557e2df0acb9cc828100089e58e3bebbd7d37db1981d",
+        },
+      "preact.md":
+        {
+          "mtime": 1592566896000,
+          "size": 778,
+          "hash": "b63d77fa447498f4938cfce45120ca80976bc6c9af7875a45fd3914405d99e88",
+        },
+      "s-scripts.md":
+        {
+          "mtime": 1592566938000,
+          "size": 1445,
+          "hash": "8d11f3932fc3295e2ee966f618a080d41bd9f5f1c2997c006d1e91d1d4304b64",
+        },
+      "scientia-incognita.md":
+        {
+          "mtime": 1592566943000,
+          "size": 218,
+          "hash": "c30a305f4ae8066e6b2d40937ee006b97f7b5d84db0677e957a8482809559ad1",
+        },
+      "servor.md":
+        {
+          "mtime": 1592566959000,
+          "size": 837,
+          "hash": "cff1a6d4e6a6028891cb97526e6a8b9da1935f1f926a859099f3d11238b5985b",
+        },
+      "the-job-is-helping.md":
+        {
+          "mtime": 1595599049331.762,
+          "size": 479,
+          "hash": "7565018a290b0199c70a212590c5fff744d81712567b461989f4f1149489f60f",
+        },
+      "unpkg.md":
+        {
+          "mtime": 1592567001000,
+          "size": 227,
+          "hash": "7b5162cfb65dad80d7bcdfbc20670be8392da85e2c105158afaa90a7100ec921",
+        },
+      "csharp_indices.md":
+        {
+          "mtime": 1592566304000,
+          "size": 395,
+          "hash": "21db02e637dad0534c9728fdc35f50519fe7ce9b04205a06e1f344ceb801c010",
+        },
+      "csharp.md":
+        {
+          "mtime": 1595598634133.5154,
+          "size": 820,
+          "hash": "fb0abc5525f63ae3d8c2980d3e2fdd5e03b2231fffd0c9e80a339fa2c4d06e0b",
+        },
+      "tech_core.md":
+        {
+          "mtime": 1595598162463.0789,
+          "size": 175,
+          "hash": "e3d3f987841081b85880213d4195df2fb1accb87f2ccc0f2abc43618399e586e",
+        },
+      "git.md":
+        {
+          "mtime": 1592563585000,
+          "size": 8690,
+          "hash": "d9187fe3a4aac120ade94291de220dc0c963a2c834ae25f360d230f9c61b3394",
+        },
+      "javascript.md":
+        {
+          "mtime": 1595598780179.661,
+          "size": 475,
+          "hash": "0c354874fa90057622dbb724adf2fddd328789fb15fc986e94d375530b07e917",
+        },
+      "openssl.md":
+        {
+          "mtime": 1589902797000,
+          "size": 1359,
+          "hash": "2398bd3cbf014bd2d6495d80b0aa4d8d16e00787d8c523b57defa5e497f9643f",
+        },
+      "powershell.md":
+        {
+          "mtime": 1592572438000,
+          "size": 202,
+          "hash": "1f83ebeb4b5b280674dfd703e41cf5ee772ef0059f8a2f363e649495fada2417",
+        },
+      "windows.md":
+        {
+          "mtime": 1595597652476.5874,
+          "size": 263,
+          "hash": "4ace6bd6da74d4e9a701ab5655b7711328465313ef0a8ec705ea7457a2af14d7",
+        },
+      "linux.md":
+        {
+          "mtime": 1595597721619.9336,
+          "size": 22,
+          "hash": "75eef0ce02acdaf6ba964cae090ba6424a098e67290a103430aff7b275da05b0",
+        },
+      "code_quality.md":
+        {
+          "mtime": 1595599839160.7832,
+          "size": 328,
+          "hash": "546a6df000fce37e19af535739594d315ee62391093904419a46cb28580a3fbd",
+        },
+      "csharp_string.md":
+        {
+          "mtime": 1595598544617.6582,
+          "size": 92,
+          "hash": "4f63058413f8a94b7652ee2534e4ea675570d142e533219ab65d96c9c42d78ff",
+        },
+      "csharp_debugger.md":
+        {
+          "mtime": 1595598250825.153,
+          "size": 148,
+          "hash": "3088b1fcc10d2e9fb06cfeb77eec60e8c89da0a4906b37246420140571a9a5c9",
+        },
+      "duct_tape.md":
+        {
+          "mtime": 1595600088708.978,
+          "size": 388,
+          "hash": "6fceb63e8d29ac7fb7fd66d649d0d41638c087d6acfd943e456f2a9f91599719",
+        },
+    },
+  "metadata":
+    {
+      "b8fc786f4a374e2c5e8537a1b221dc4cf6a834f34e530cc95def97d5b9e2bab0":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#writing" },
+              { "line": 1, "tag": "#code-quality" },
+            ],
+          "headings": [{ "line": 0, "heading": "10:1", "level": 1 }],
+        },
+      "db4dc046c3a61663c74a58d0a9cccdd73232531910a9985b61d1acac7f6d2db7":
+        {
+          "links":
+            [
+              {
+                "line": 3,
+                "link": "ddd_aggregate_root",
+                "original": "[[ddd_aggregate_root|root object]]",
+                "displayText": "root object",
+                "beforeContext": "We can expose a Get(id) and a Save(root) on a IRepo interface and allow fetching the ",
+                "afterContext": ", which can directly expose the methods to manipulate the root state.",
+              },
+              {
+                "line": 5,
+                "link": "efcore",
+                "original": "[[efcore|EF Core]]",
+                "displayText": "EF Core",
+                "beforeContext": "In ",
+                "afterContext": " this can be achieved using lazy loading and management of Include calls.",
+              },
+              {
+                "line": 5,
+                "link": "efcore_lazy_loading",
+                "original": "[[efcore_lazy_loading|lazy loading]]",
+                "displayText": "lazy loading",
+                "beforeContext": "In EF Core this can be achieved using ",
+                "afterContext": " and management of Include calls.",
+              },
+              {
+                "line": 5,
+                "link": "efcore_include",
+                "original": "[[efcore_include|Include]]",
+                "displayText": "Include",
+                "beforeContext": "In EF Core this can be achieved using lazy loading and management of ",
+                "afterContext": " calls.",
+              },
+            ],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#ddd" },
+              { "line": 1, "tag": "#efcore" },
+              { "line": 1, "tag": "#aspcore" },
+              { "line": 1, "tag": "#csharp" },
+              { "line": 1, "tag": "#oop" },
+            ],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "Aggregate Root in repo over ORM",
+                "level": 1,
+              },
+            ],
+        },
+      "9e760cf0eb318ba28392beaa61431ab355572e1803feb2e05da60cff9fbc14e8":
+        {
+          "links":
+            [
+              {
+                "line": 5,
+                "link": "efcore",
+                "original": "[[efcore|EF Core]]",
+                "displayText": "EF Core",
+                "beforeContext": "It also comes with a great support for ",
+                "afterContext": " out of the box, which is probably one of the most feature-full ORMs available for .Net.",
+              },
+              {
+                "line": 11,
+                "link": "aspcore_fluent_validations",
+                "original": "[[aspcore_fluent_validations|Fluent Validations]]",
+                "displayText": "Fluent Validations",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 13,
+                "link": "aspcore_enum_return",
+                "original": "[[aspcore_enum_return| Use enum string values on API return]]",
+                "displayText": "Use enum string values on API return",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 15,
+                "link": "aspcore_kestrel-certificates",
+                "original": "[[aspcore_kestrel-certificates|Configure Kestrel for certificates]]",
+                "displayText": "Configure Kestrel for certificates",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 17,
+                "link": "aspcore_nulllogger",
+                "original": "[[aspcore_nulllogger|NullLogger]]",
+                "displayText": "NullLogger",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 19,
+                "link": "aspcore_healthchecks",
+                "original": "[[aspcore_healthchecks|Health checks]]",
+                "displayText": "Health checks",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 21,
+                "link": "aspcore_query_helpers",
+                "original": "[[aspcore_query_helpers|Query Helpers]]",
+                "displayText": "Query Helpers",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 23,
+                "link": "aspcore_return_file",
+                "original": "[[aspcore_return_file|How to return file]]",
+                "displayText": "How to return file",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 25,
+                "link": "aspcore_configuration_precedence",
+                "original": "[[aspcore_configuration_precedence]]",
+                "displayText": "",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 29,
+                "link": "aspcore_grpc_repeat",
+                "original": "[[aspcore_grpc_repeat|Setting repeat fields]]",
+                "displayText": "Setting repeat fields",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#aspcore" }, { "line": 1, "tag": "#csharp" }],
+          "headings":
+            [
+              { "line": 0, "heading": "ASP.Net Core", "level": 1 },
+              { "line": 7, "heading": "Notes", "level": 2 },
+              { "line": 9, "heading": "General", "level": 3 },
+              { "line": 27, "heading": "GRPC", "level": 3 },
+            ],
+        },
+      "76d33b58fdb6b1b8db7b01dabedfb34635ca455329fb4a52914167ab6f956034":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#aspcore" }, { "line": 1, "tag": "#csharp" }],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "Order of Precedence when Configuring ASP.NET Core",
+                "level": 1,
+              },
+            ],
+        },
+      "7d911e14241f5af17292632a8bdb2ad8ce6bcb3e7f39a87ebff4cd79da32e353":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#csharp" },
+              { "line": 1, "tag": "#grpc" },
+              { "line": 1, "tag": "#aspcore" },
+            ],
+          "headings":
+            [{ "line": 0, "heading": "gRPC on .Net repeat", "level": 1 }],
+        },
+      "56c361ea77b151ef1273747744198394caec2211d16c82336bd14cee2ec93d7e":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#csharp" }, { "line": 1, "tag": "#aspcore" }],
+          "headings":
+            [
+              { "line": 0, "heading": "Health checks", "level": 1 },
+              { "line": 5, "heading": "Simple version", "level": 2 },
+              { "line": 27, "heading": "With a custom provider", "level": 2 },
+            ],
+        },
+      "59ed249e6b8bf6f24ccd97c38a07f0998fac1211e62e4126f6b445d4d10253ed":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#aspcore" }],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "Configure Kestrel for certificates",
+                "level": 1,
+              },
+            ],
+        },
+      "477948e58466ea36c6eb5e0380e04929b2c4f4bd4e8690a6bc84b97406960096":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 2, "tag": "#csharp" },
+              { "line": 2, "tag": "#aspcore" },
+              { "line": 2, "tag": "#logging" },
+              { "line": 2, "tag": "#testing" },
+            ],
+          "headings": [{ "line": 0, "heading": "NullLogger", "level": 1 }],
+        },
+      "379820f80c9fd0ef03fd41e5e36fad039d59eb3512d808f78e68c9d1ab97764d":
+        {
+          "links":
+            [
+              {
+                "line": 19,
+                "link": "csharp_uri_builder",
+                "original": "[[csharp_uri_builder|UriBuilder]]",
+                "displayText": "UriBuilder",
+                "beforeContext": "The .Net alternative is the ",
+                "afterContext": " class.",
+              },
+            ],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#csharp" }, { "line": 1, "tag": "#aspcore" }],
+          "headings": [{ "line": 0, "heading": "Query Helpers", "level": 1 }],
+        },
+      "7b5f3331c726bbdb67b5f43fe38ae0e7f4cd9fa35dc4064c48b7f47ec67fa0a0":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#aspcore" }, { "line": 1, "tag": "#csharp" }],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "Returning a file from ASP Core",
+                "level": 1,
+              },
+            ],
+        },
+      "21db02e637dad0534c9728fdc35f50519fe7ce9b04205a06e1f344ceb801c010":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#csharp" }],
+          "headings": [{ "line": 0, "heading": "Indices", "level": 1 }],
+        },
+      "98bf94ce30f3c38430aab4560470c2acb3d00e9bcff603a1608c68f17bf42de8":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#design" }],
+          "headings":
+            [{ "line": 0, "heading": "Colour is meaningless", "level": 1 }],
+        },
+      "9ef2cf8e36caf40b1247884ba955e17dd24ed93c9f8d637e020470ec9d0a0c3c":
+        {
+          "links":
+            [
+              {
+                "line": 24,
+                "link": "s-scripts",
+                "original": "[[s-scripts | Use s/ for directory with no file extensions]]",
+                "displayText": "Use s/ for directory with no file extensions",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#code-quality" }],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "Convention based build scripts",
+                "level": 1,
+              },
+            ],
+        },
+      "3f002e4176b4c51680d5a1d36f192aebeb4ba536a886c4f185c35289418772ec":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#csharp" }, { "line": 1, "tag": "#array" }],
+          "headings": [{ "line": 0, "heading": "Array.Clear()", "level": 1 }],
+        },
+      "5a127bffcad9080e01d432692b4fe5e89f208037164bd0724d74e1e2e3dfe674":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#csharp" }, { "line": 1, "tag": "#array" }],
+          "headings": [{ "line": 0, "heading": "Array.Copy()", "level": 1 }],
+        },
+      "49018d384522f3a916426bd51f1112a12420b293b774c2efdd99f1aec444ea2b":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#csharp" }],
+          "headings":
+            [{ "line": 0, "heading": "Buffer.BlockCopy", "level": 1 }],
+        },
+      "60d407c117cc8a4f4bc0f8568086b10f8f0b12998830882ae8802c86425b9d63":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#csharp" },
+              { "line": 1, "tag": "#collections" },
+            ],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "Collection initial capacity",
+                "level": 1,
+              },
+            ],
+        },
+      "9e0a4c9b74b962366f8e6d7cd66092a9299d4ec3a5da2d07c4795c10b1793a50":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#csharp" }],
+          "headings": [{ "line": 0, "heading": "DateTimeOffset", "level": 1 }],
+        },
+      "30226a801daca7c2c98b8b859b5bbe0527a4afdf0595d458a1ab34efacf50d2e":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#csharp" }, { "line": 1, "tag": "#DI" }],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "Delegates instead of static methods",
+                "level": 1,
+              },
+            ],
+        },
+      "f3aa8bce2d21c1a572131cf972921821e4481793a40dc7dd87a179bdda3e248f":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#csharp" }],
+          "headings": [{ "line": 0, "heading": "Enums", "level": 1 }],
+        },
+      "c0588cc4a898fb94f6019ced11fc55f5101756dc1c80ab4f169ffc8ccbf24edc":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#csharp" },
+              { "line": 1, "tag": "#composition" },
+            ],
+          "headings": [{ "line": 0, "heading": "Function chains", "level": 1 }],
+        },
+      "8341bafe6033c0a65f91658a73858893dc39eee630809d72aa78b7b60f54e5bf":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#csharp" }],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "Generate a true random string",
+                "level": 1,
+              },
+            ],
+        },
+      "2dd09f2a6286b574b45d06d7cf15f0a14ce7fdc4253dc344bc71a7e01c844d1d":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#csharp" }, { "line": 1, "tag": "#LINQ" }],
+          "headings": [{ "line": 0, "heading": "LINQ Join", "level": 1 }],
+        },
+      "8bac509a77a664cb27c61886e598f94191cfa9e5819d85a09f3df49033e96e1e":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#csharp" }, { "line": 1, "tag": "#array" }],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "Multidimensonal arrays length",
+                "level": 1,
+              },
+            ],
+        },
+      "58f2f60bc93ae28240c1735d9e213ca14c3510ae61fc35e807244e1d27cd8a14":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#csharp" }],
+          "headings":
+            [{ "line": 0, "heading": "ParseQueryString", "level": 1 }],
+        },
+      "ad6906b1fa1eff28bcce67422c24195b4e90803374105bad123054dcdebfdb46":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#csharp" }],
+          "headings":
+            [{ "line": 0, "heading": "String Interning", "level": 1 }],
+        },
+      "dd79ad73a27fdc6c865a70643c3ea6d6925f14a49555707fe674dd151d2e4744":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#csharp" }],
+          "headings":
+            [{ "line": 0, "heading": "String Truncation", "level": 1 }],
+        },
+      "084bdd6cb31d0445a3b7382f4d7359ccaefebebe637ee5288ab6296e6de4abd1":
+        {
+          "links":
+            [
+              {
+                "line": 3,
+                "link": "csharp_parse_query_string",
+                "original": "[[csharp_parse_query_string|System.Web.HttpUtility.ParseQueryString]]",
+                "displayText": "System.Web.HttpUtility.ParseQueryString",
+                "beforeContext": "Allows for creating various URIs, without having to instantiate a new instance between calls. For adding query parameters use ",
+                "afterContext": ".",
+              },
+            ],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#csharp" }],
+          "headings": [{ "line": 0, "heading": "UriBuilder", "level": 1 }],
+        },
+      "9dc6e50e816a83ac6764f75cf1b645e80ed54447b3121e9c1cc01dd24aba6709":
+        {
+          "links":
+            [
+              {
+                "line": 3,
+                "link": "ddd_entity",
+                "original": "[[ddd_entity|entity]]",
+                "displayText": "entity",
+                "beforeContext": "An aggregate root is an ",
+                "afterContext": ", with all related objects within a certain boundary. This defines a transactional scope for the data access layer.",
+              },
+            ],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#ddd" }, { "line": 1, "tag": "#oop" }],
+          "headings": [{ "line": 0, "heading": "Aggregate_root", "level": 1 }],
+        },
+      "3a7e8a2cc0253d19d75ee618ae977b59e58ece17d0d11b56d2ae97a31c814e9a":
+        {
+          "links":
+            [
+              {
+                "line": 3,
+                "link": "ddd_aggregate_root",
+                "original": "[[ddd_aggregate_root|root entities]]",
+                "displayText": "root entities",
+                "beforeContext": "Entities in DDD are domain objects, which have their own unique identity and identification, and represent ",
+                "afterContext": " in their transaction scope.",
+              },
+            ],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#ddd" }, { "line": 1, "tag": "#oop" }],
+          "headings": [{ "line": 0, "heading": "Entity", "level": 1 }],
+        },
+      "e9207b28b4e51c19cd832369903f803f75f72531ff7eadb9a083e3bf3bdc4724":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#csharp" }, { "line": 1, "tag": "#debug" }],
+          "headings":
+            [{ "line": 0, "heading": "Debugger Browsable", "level": 1 }],
+        },
+      "92b0abb5d041ebb97c048910d64d28b36ccfba814a1bc39e636d94684d7d10b4":
+        {
+          "links":
+            [
+              {
+                "line": 9,
+                "link": "debugger_formatters",
+                "original": "[[debugger_formatters|theese formatters]]",
+                "displayText": "theese formatters",
+                "beforeContext": "This can be used with ",
+                "afterContext": ".",
+              },
+            ],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#csharp" }, { "line": 1, "tag": "#debug" }],
+          "headings":
+            [{ "line": 0, "heading": "Debugger Display", "level": 1 }],
+        },
+      "702453fa6f6458ab196838fc3641497a9d8a72faa2ebfcab2c795b0ffdce83cd":
+        {
+          "links":
+            [
+              {
+                "line": 3,
+                "link": "debugger_display",
+                "original": "[[debugger_display|DebuggerDisplay]]",
+                "displayText": "DebuggerDisplay",
+                "beforeContext": "These formatters can be applied like {expression},formatter to any ",
+                "afterContext": " attribute or debug expression in a data window like Watch, Locals and Autos.",
+              },
+            ],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#csharp" }, { "line": 1, "tag": "#debug" }],
+          "headings":
+            [{ "line": 0, "heading": "Debugger formatters", "level": 1 }],
+        },
+      "b8f697af8427a24703a435091454caabd5e36cee6b75d406426264d24632083c":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#windows" }],
+          "headings":
+            [{ "line": 0, "heading": "Windows DLL search path", "level": 1 }],
+        },
+      "a8b9b27776e925cf58367eb15b7995acd014ba0187b88a73274aa2f795dca906":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#design" }],
+          "headings":
+            [{ "line": 0, "heading": "Don't move shit around", "level": 1 }],
+        },
+      "a596afd1f9a6fe48c7bc42228ffca5352307254c05fc5682a72957c7cf6f4341":
+        {
+          "links":
+            [
+              {
+                "line": 7,
+                "link": "efcore_generated_sql",
+                "original": "[[efcore_generated_sql| EF Core debug generated SQLs]]",
+                "displayText": "EF Core debug generated SQLs",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 9,
+                "link": "efcore_query_tags",
+                "original": "[[efcore_query_tags|Query Tags]]",
+                "displayText": "Query Tags",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 12,
+                "link": "efcore_include",
+                "original": "[[efcore_include]]",
+                "displayText": "",
+                "beforeContext": "",
+                "afterContext": "efcore_lazy_loading",
+              },
+              {
+                "line": 12,
+                "link": "efcore_lazy_loading",
+                "original": "[[efcore_lazy_loading]]",
+                "displayText": "",
+                "beforeContext": "efcore_include",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#efcore" }, { "line": 1, "tag": "#csharp" }],
+          "headings":
+            [
+              { "line": 0, "heading": "Entity Framework Core", "level": 1 },
+              { "line": 5, "heading": "Notes", "level": 2 },
+              { "line": 11, "heading": "ToDo", "level": 2 },
+            ],
+        },
+      "9282387b28a566b050f30c040cc0d034bf7cba5c63220e4abae41f3eca42d73a":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#csharp" },
+              { "line": 1, "tag": "#efcore" },
+              { "line": 1, "tag": "#SQL" },
+            ],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "EF Core debug generated SQL",
+                "level": 1,
+              },
+            ],
+        },
+      "a8f85d7356a93f81e3ede32e75399e16daa29cc191d8aaf1c53d66482edc218e":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#efcore" },
+              { "line": 1, "tag": "#csharp" },
+              { "line": 1, "tag": "#pin" },
+            ],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "`Include` calls in EF Core",
+                "level": 1,
+              },
+            ],
+        },
+      "54db53b38a52eeabf01eddb1201e50f1d011836372c688f1914f0ec40eacdfd0":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#efcore" },
+              { "line": 1, "tag": "#csharp" },
+              { "line": 1, "tag": "#pin" },
+            ],
+          "headings":
+            [{ "line": 0, "heading": "Lazy loading for EF Core", "level": 1 }],
+        },
+      "e613592b3f4a77c453e21a0e0d70c24a0276943023b7ab264e854c07d6f64094":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#csharp" }, { "line": 1, "tag": "#efcore" }],
+          "headings": [{ "line": 0, "heading": "Query Tags", "level": 1 }],
+        },
+      "ad6bfbbcc8fe64e2ea5778e403088ec4fdc141d4e37dc5417ddaa72e5fcd44a3":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#algorithm" }],
+          "headings":
+            [{ "line": 0, "heading": "Fisher–Yates shuffle", "level": 1 }],
+        },
+      "262f04f21742cc6bffa7f51c522697f05c60062bc88d799369c5571aff365fcf":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#js" }, { "line": 1, "tag": "#search" }],
+          "headings": [{ "line": 0, "heading": "FlexSearch", "level": 1 }],
+        },
+      "18d43941fbcefa57d7cffb4ae99c1d188edfe48b548a6b57ff01fd7cbd31c54b":
+        {
+          "links":
+            [
+              {
+                "line": 8,
+                "link": "knowledge-vectors",
+                "original": "[[knowledge-vectors|Conceptual model for exploring unknown knowledge space]]",
+                "displayText": "Conceptual model for exploring unknown knowledge space",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#knowledge" }],
+          "headings": [{ "line": 0, "heading": "Holistic Notes", "level": 1 }],
+        },
+      "0d555b9c2d55eca59491f46d060e1296906d422483c7cf07e3a5795bf1556bbd":
+        {
+          "links":
+            [
+              {
+                "line": 17,
+                "link": "htm",
+                "original": "[[htm|Good integration with Preact, including pre-built module with both included]]",
+                "displayText": "Good integration with Preact, including pre-built module with both included",
+                "beforeContext": "Official DocsOfficial Docs",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#js" }, { "line": 1, "tag": "#rendering" }],
+          "headings": [{ "line": 0, "heading": "htm", "level": 1 }],
+        },
+      "fd0e80b6278ad055f8e7b96f40a2e7f16326649e5324beb683f11a1c937d0163":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#linux" }, { "line": 1, "tag": "#terminal" }],
+          "headings":
+            [{ "line": 0, "heading": "Linux terminal symbols", "level": 1 }],
+        },
+      "5aaed7ec5e17b97d5abad31aa3baee71dbcbb68efab126ccff72a3542e33077d":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#design" },
+              { "line": 1, "tag": "#knowledge" },
+            ],
+          "headings": [{ "line": 0, "heading": "Nobody reads", "level": 1 }],
+        },
+      "a1d00d084af68e1a0e23647bc7e7dbce7eecec46ad3178255e731508003a1a74":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#code-quality" },
+              { "line": 1, "tag": "#testing" },
+            ],
+          "headings":
+            [
+              { "line": 0, "heading": "Phantom Test", "level": 1 },
+              { "line": 5, "heading": "Maxim 1:", "level": 2 },
+              { "line": 9, "heading": "Maxim 2:", "level": 2 },
+              { "line": 14, "heading": "Maxim 3:", "level": 2 },
+              { "line": 18, "heading": "Maxim 4:", "level": 2 },
+            ],
+        },
+      "101c16fd01f3afc5eeab9a598f539d00970181e92838d709a26f4bef13edf2d0":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#powershell" }],
+          "headings":
+            [{ "line": 0, "heading": "Get list of processes", "level": 1 }],
+        },
+      "762f3869aeb9f0a1d1f31ed1e1c8d17e9088fed58d6f7c94401f2cb6da83fe48":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#powershell" }],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "Powershell global variables",
+                "level": 1,
+              },
+            ],
+        },
+      "5e6e06d75556277dc08a18b06a137dd467abc8990c14d1f8a310bc2a6ad6a2f4":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#powershell" }],
+          "headings": [{ "line": 0, "heading": "Port check", "level": 1 }],
+        },
+      "4e5a19b58accf6d05ab763d200a9dc35c40dcd54b04a617e4ff70cd2b7cf02fa":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#powershell" }],
+          "headings":
+            [{ "line": 0, "heading": "Print PATH via PowerShell", "level": 1 }],
+        },
+      "43c18b314783786975aad383cd117e5a3efbc1ab836910b4cc500ac425d59acf":
+        {
+          "links":
+            [
+              {
+                "line": 19,
+                "link": "preact",
+                "original": "[[preact|Preact]]",
+                "displayText": "Preact",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#js" },
+              { "line": 1, "tag": "#rendering" },
+              { "line": 1, "tag": "#preact" },
+            ],
+          "headings":
+            [{ "line": 0, "heading": "Preact Lifecycles", "level": 1 }],
+        },
+      "c23858289b540520366c557e2df0acb9cc828100089e58e3bebbd7d37db1981d":
+        {
+          "links":
+            [
+              {
+                "line": 35,
+                "link": "preact",
+                "original": "[[preact|Preact]]",
+                "displayText": "Preact",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#js" },
+              { "line": 1, "tag": "#rendering" },
+              { "line": 1, "tag": "#preact" },
+            ],
+          "headings": [{ "line": 0, "heading": "Preact Router", "level": 1 }],
+        },
+      "b63d77fa447498f4938cfce45120ca80976bc6c9af7875a45fd3914405d99e88":
+        {
+          "links":
+            [
+              {
+                "line": 27,
+                "link": "preact_lifecycles",
+                "original": "[[preact_lifecycles|Lifecycle hooks]]",
+                "displayText": "Lifecycle hooks",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 31,
+                "link": "htm",
+                "original": "[[htm|An alternative JSX-like syntax parser, good for no-build sites]]",
+                "displayText": "An alternative JSX-like syntax parser, good for no-build sites",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#js" },
+              { "line": 1, "tag": "#rendering" },
+              { "line": 1, "tag": "#preact" },
+            ],
+          "headings": [{ "line": 0, "heading": "Preact", "level": 1 }],
+        },
+      "8d11f3932fc3295e2ee966f618a080d41bd9f5f1c2997c006d1e91d1d4304b64":
+        {
+          "links":
+            [
+              {
+                "line": 25,
+                "link": "convention-scripts",
+                "original": "[[convention-scripts | Convention Scripts]]",
+                "displayText": "Convention Scripts",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#code-quality" }],
+          "headings": [{ "line": 0, "heading": "s/", "level": 1 }],
+        },
+      "c30a305f4ae8066e6b2d40937ee006b97f7b5d84db0677e957a8482809559ad1":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#knowledge" }],
+          "headings":
+            [{ "line": 0, "heading": "Scientia Incognita", "level": 1 }],
+        },
+      "cff1a6d4e6a6028891cb97526e6a8b9da1935f1f926a859099f3d11238b5985b":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#js" }, { "line": 1, "tag": "#tools" }],
+          "headings": [{ "line": 0, "heading": "Servor", "level": 1 }],
+        },
+      "7b5162cfb65dad80d7bcdfbc20670be8392da85e2c105158afaa90a7100ec921":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [{ "line": 1, "tag": "#js" }, { "line": 1, "tag": "#service" }],
+          "headings": [{ "line": 0, "heading": "Unpkg CDN", "level": 1 }],
+        },
+      "d9187fe3a4aac120ade94291de220dc0c963a2c834ae25f360d230f9c61b3394":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 52, "tag": "#git" },
+              { "line": 52, "tag": "#pin" },
+              { "line": 97, "tag": "#git" },
+              { "line": 97, "tag": "#pin" },
+              { "line": 186, "tag": "#pin" },
+            ],
+          "headings":
+            [
+              { "line": 5, "heading": "Git Amend", "level": 1 },
+              { "line": 50, "heading": "Git Goodies", "level": 1 },
+              { "line": 95, "heading": "Git Goodies", "level": 1 },
+              { "line": 184, "heading": "Git bisect", "level": 1 },
+            ],
+        },
+      "2398bd3cbf014bd2d6495d80b0aa4d8d16e00787d8c523b57defa5e497f9643f":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [],
+          "headings":
+            [
+              { "line": 1, "heading": "title: OpenSSL", "level": 2 },
+              { "line": 4, "heading": "OpenSSL", "level": 1 },
+            ],
+        },
+      "1f83ebeb4b5b280674dfd703e41cf5ee772ef0059f8a2f363e649495fada2417":
+        {
+          "links":
+            [
+              {
+                "line": 3,
+                "link": "powershell_print_path",
+                "original": "[[powershell_print_path|Print Path]]",
+                "displayText": "Print Path",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 5,
+                "link": "powershell_global_variables",
+                "original": "[[powershell_global_variables|Global Variables]]",
+                "displayText": "Global Variables",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 7,
+                "link": "powershell_get_processes",
+                "original": "[[powershell_get_processes|Get list of processes]]",
+                "displayText": "Get list of processes",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 9,
+                "link": "powershell_port_check",
+                "original": "[[powershell_port_check|Port Check]]",
+                "displayText": "Port Check",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#powershell" }],
+          "headings": [{ "line": 0, "heading": "Powershell", "level": 1 }],
+        },
+      "be1dc53286df0d593a699be432febebed0a582487ec27bfcde1a5e3d396da613":
+        {
+          "links":
+            [
+              {
+                "line": 5,
+                "link": "paralel-vectors",
+                "original": "[[paralel-vectors]]",
+                "displayText": "",
+                "beforeContext": "What is a vector?What is a vector?",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#knowledge" }],
+          "headings":
+            [{ "line": 0, "heading": "Knowledge vectors", "level": 1 }],
+        },
+      "03055b10a47c46acdadc925f49653abedb6c308c1b9ccb8bc1e41de8a3728f11":
+        {
+          "links":
+            [
+              {
+                "line": 5,
+                "link": "scientia-incognita",
+                "original": "[[scientia-incognita]]",
+                "displayText": "",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#knowledge" }],
+          "headings":
+            [{ "line": 0, "heading": "Parallel vectors", "level": 1 }],
+        },
+      "4ace6bd6da74d4e9a701ab5655b7711328465313ef0a8ec705ea7457a2af14d7":
+        {
+          "links":
+            [
+              {
+                "line": 18,
+                "link": "dll-resolution",
+                "original": "[[dll-resolution]]",
+                "displayText": "",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags": [],
+          "headings":
+            [{ "line": 6, "heading": "Windows shortcuts", "level": 1 }],
+        },
+      "75eef0ce02acdaf6ba964cae090ba6424a098e67290a103430aff7b275da05b0":
+        {
+          "links":
+            [
+              {
+                "line": 0,
+                "link": "linux-term-triples",
+                "original": "[[linux-term-triples]]",
+                "displayText": "",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags": [],
+          "headings": [],
+        },
+      "fb0abc5525f63ae3d8c2980d3e2fdd5e03b2231fffd0c9e80a339fa2c4d06e0b":
+        {
+          "links":
+            [
+              {
+                "line": 4,
+                "link": "aspcore",
+                "original": "[[aspcore|ASP.Net Core]]",
+                "displayText": "ASP.Net Core",
+                "beforeContext": "",
+                "afterContext": "Entity Framework Core",
+              },
+              {
+                "line": 4,
+                "link": "efcore",
+                "original": "[[efcore|Entity Framework Core]]",
+                "displayText": "Entity Framework Core",
+                "beforeContext": "ASP.Net Core",
+                "afterContext": "",
+              },
+              {
+                "line": 9,
+                "link": "csharp_delegates_in_di",
+                "original": "[[csharp_delegates_in_di|Delegates instead of static methods]]",
+                "displayText": "Delegates instead of static methods",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 11,
+                "link": "csharp_generate_random_string",
+                "original": "[[csharp_generate_random_string|Generate a true random string]]",
+                "displayText": "Generate a true random string",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 13,
+                "link": "csharp_function_chains",
+                "original": "[[csharp_function_chains|Function Chains]]",
+                "displayText": "Function Chains",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 15,
+                "link": "csharp_indices",
+                "original": "[[csharp_indices|Indices]]",
+                "displayText": "Indices",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 17,
+                "link": "csharp_linq_join",
+                "original": "[[csharp_linq_join|LINQ Join]]",
+                "displayText": "LINQ Join",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 19,
+                "link": "csharp_enums",
+                "original": "[[csharp_enums|Enums]]",
+                "displayText": "Enums",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 21,
+                "link": "csharp_datetimeoffset",
+                "original": "[[csharp_datetimeoffset|DateTimeOffset]]",
+                "displayText": "DateTimeOffset",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 23,
+                "link": "csharp_uri_builder",
+                "original": "[[csharp_uri_builder|UriBuilder]]",
+                "displayText": "UriBuilder",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 25,
+                "link": "csharp_parse_query_string",
+                "original": "[[csharp_parse_query_string|ParseQueryString]]",
+                "displayText": "ParseQueryString",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 27,
+                "link": "csharp_buffer_blockcopy",
+                "original": "[[csharp_buffer_blockcopy|Buffer.BlockCopy]]",
+                "displayText": "Buffer.BlockCopy",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 29,
+                "link": "csharp_collection_initial_capacity",
+                "original": "[[csharp_collection_initial_capacity|Colelction Initial capacity]]",
+                "displayText": "Colelction Initial capacity",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 31,
+                "link": "csharp_mdim_arrays_length",
+                "original": "[[csharp_mdim_arrays_length|Multidimensonal arrays length]]",
+                "displayText": "Multidimensonal arrays length",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 36,
+                "link": "csharp_array_clear",
+                "original": "[[csharp_array_clear|Array Clear]]",
+                "displayText": "Array Clear",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 38,
+                "link": "csharp_array_copy",
+                "original": "[[csharp_array_copy|Array Copy]]",
+                "displayText": "Array Copy",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 42,
+                "link": "csharp_string",
+                "original": "[[csharp_string]]",
+                "displayText": "",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 46,
+                "link": "csharp_debugger",
+                "original": "[[csharp_debugger]]",
+                "displayText": "",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#csharp" },
+              { "line": 1, "tag": "#refsheet" },
+            ],
+          "headings":
+            [
+              { "line": 0, "heading": "C# Ref Sheet", "level": 1 },
+              { "line": 3, "heading": "Main Pages", "level": 1 },
+              { "line": 7, "heading": "General", "level": 2 },
+              { "line": 35, "heading": "Array", "level": 2 },
+              { "line": 40, "heading": "String", "level": 2 },
+              { "line": 44, "heading": "Debugger", "level": 2 },
+            ],
+        },
+      "e3d3f987841081b85880213d4195df2fb1accb87f2ccc0f2abc43618399e586e":
+        {
+          "links":
+            [
+              {
+                "line": 2,
+                "link": "fisher-yates",
+                "original": "[[fisher-yates]]",
+                "displayText": "",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 6,
+                "link": "csharp",
+                "original": "[[csharp]]",
+                "displayText": "",
+                "beforeContext": "",
+                "afterContext": "gitpowershelljavascriptwindowslinux",
+              },
+              {
+                "line": 6,
+                "link": "git",
+                "original": "[[git]]",
+                "displayText": "",
+                "beforeContext": "csharp",
+                "afterContext": "powershelljavascriptwindowslinux",
+              },
+              {
+                "line": 6,
+                "link": "powershell",
+                "original": "[[powershell]]",
+                "displayText": "",
+                "beforeContext": "csharpgit",
+                "afterContext": "javascriptwindowslinux",
+              },
+              {
+                "line": 6,
+                "link": "javascript",
+                "original": "[[javascript]]",
+                "displayText": "",
+                "beforeContext": "csharpgitpowershell",
+                "afterContext": "windowslinux",
+              },
+              {
+                "line": 6,
+                "link": "windows",
+                "original": "[[windows]]",
+                "displayText": "",
+                "beforeContext": "csharpgitpowershelljavascript",
+                "afterContext": "linux",
+              },
+              {
+                "line": 6,
+                "link": "linux",
+                "original": "[[linux]]",
+                "displayText": "",
+                "beforeContext": "csharpgitpowershelljavascriptwindows",
+                "afterContext": "",
+              },
+              {
+                "line": 14,
+                "link": "code_quality",
+                "original": "[[code_quality]]",
+                "displayText": "",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 18,
+                "link": "openssl",
+                "original": "[[openssl]]",
+                "displayText": "",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags": [],
+          "headings":
+            [
+              { "line": 0, "heading": "Algorithms", "level": 2 },
+              { "line": 4, "heading": "Ref sheets", "level": 2 },
+              { "line": 12, "heading": "Code quality", "level": 2 },
+              { "line": 16, "heading": "other", "level": 2 },
+            ],
+        },
+      "4f63058413f8a94b7652ee2534e4ea675570d142e533219ab65d96c9c42d78ff":
+        {
+          "links":
+            [
+              {
+                "line": 0,
+                "link": "csharp_string_truncation",
+                "original": "[[csharp_string_truncation|String Truncation]]",
+                "displayText": "String Truncation",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 2,
+                "link": "csharp_string_interning",
+                "original": "[[csharp_string_interning|String Interning]]",
+                "displayText": "String Interning",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags": [],
+          "headings": [],
+        },
+      "3088b1fcc10d2e9fb06cfeb77eec60e8c89da0a4906b37246420140571a9a5c9":
+        {
+          "links":
+            [
+              {
+                "line": 5,
+                "link": "debugger_display",
+                "original": "[[debugger_display|Debugger Display]]",
+                "displayText": "Debugger Display",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 7,
+                "link": "debugger_formatters",
+                "original": "[[debugger_formatters|Debugger Formatters]]",
+                "displayText": "Debugger Formatters",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+              {
+                "line": 9,
+                "link": "debugger_browsable",
+                "original": "[[debugger_browsable|Debugger Browsable]]",
+                "displayText": "Debugger Browsable",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags": [],
+          "headings": [{ "line": 0, "heading": ".Net Debugger", "level": 1 }],
+        },
+      "0c354874fa90057622dbb724adf2fddd328789fb15fc986e94d375530b07e917":
+        {
+          "links":
+            [
+              {
+                "line": 10,
+                "link": "servor",
+                "original": "[[servor]]",
+                "displayText": "",
+                "beforeContext": "",
+                "afterContext": "preactunpkgflexsearch",
+              },
+              {
+                "line": 10,
+                "link": "preact",
+                "original": "[[preact]]",
+                "displayText": "",
+                "beforeContext": "servor",
+                "afterContext": "unpkgflexsearch",
+              },
+              {
+                "line": 10,
+                "link": "unpkg",
+                "original": "[[unpkg]]",
+                "displayText": "",
+                "beforeContext": "servorpreact",
+                "afterContext": "flexsearch",
+              },
+              {
+                "line": 10,
+                "link": "flexsearch",
+                "original": "[[flexsearch]]",
+                "displayText": "",
+                "beforeContext": "servorpreactunpkg",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags": [{ "line": 2, "tag": "#js" }],
+          "headings":
+            [{ "line": 0, "heading": "Number.isNan() vs isNan()", "level": 1 }],
+        },
+      "2063ec74fd3d7bfada52280910616a34f79db811236f203be4f984414c7b3a71":
+        {
+          "links":
+            [
+              {
+                "line": 3,
+                "link": "nobody-reads",
+                "original": "[[nobody-reads|actual content]]",
+                "displayText": "actual content",
+                "beforeContext": "Things have names, and need to be verbed. Defining the names and the verbs is the most important part of UX.When you fail to grapple directly with the ",
+                "afterContext": ", but focus on designing boxes for whatever the content will be, what you’re actually doing is putting pretty boxes between the user and their goals. Design the content, and you’ll probably be just about done.",
+              },
+              {
+                "line": 3,
+                "link": "colour-is-meaningless",
+                "original": "[[colour-is-meaningless|pretty boxes]]",
+                "displayText": "pretty boxes",
+                "beforeContext": "Things have names, and need to be verbed. Defining the names and the verbs is the most important part of UX.When you fail to grapple directly with the actual content, but focus on designing boxes for whatever the content will be, what you’re actually doing is putting ",
+                "afterContext": " between the user and their goals. Design the content, and you’ll probably be just about done.",
+              },
+              {
+                "line": 10,
+                "link": "the-job-is-helping",
+                "original": "[[the-job-is-helping | The user goal drives the content, which drives the design ]]",
+                "displayText": "The user goal drives the content, which drives the design",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#design" }],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "Content has purpose, around which design has to happen",
+                "level": 1,
+              },
+            ],
+        },
+      "7565018a290b0199c70a212590c5fff744d81712567b461989f4f1149489f60f":
+        {
+          "links":
+            [
+              {
+                "line": 3,
+                "link": "dont-move-shit-around",
+                "original": "[[dont-move-shit-around|never the user’s goal]]",
+                "displayText": "never the user’s goal",
+                "beforeContext": "Your job is to help the user achieve their goal. Navigating an interface is ",
+                "afterContext": ". If you’d done your job right, the app would only do one thing, and would do it very well, and would do it all on one screen.",
+              },
+              {
+                "line": 8,
+                "link": "content-has-purpose",
+                "original": "[[content-has-purpose | The user goal drives the content, which drives the design]]",
+                "displayText": "The user goal drives the content, which drives the design",
+                "beforeContext": "",
+                "afterContext": "",
+              },
+            ],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#design" }],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "The job is to help the user achieve his goal",
+                "level": 1,
+              },
+            ],
+        },
+      "19e57b936664c6ee96c0a8d6983e73c4a2372ff81660203845b71405bde54396":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#csharp" },
+              { "line": 1, "tag": "#aspcore" },
+              { "line": 1, "tag": "#DI" },
+              { "line": 1, "tag": "#enum" },
+            ],
+          "headings":
+            [
+              {
+                "line": 0,
+                "heading": "Use enum string values on API return",
+                "level": 1,
+              },
+            ],
+        },
+      "18a97efcadbfd5939400f39ca107a6d230edb3083b9af771f459f93beee9db52":
+        {
+          "links": [],
+          "embeds": [],
+          "tags":
+            [
+              { "line": 1, "tag": "#csharp" },
+              { "line": 1, "tag": "#aspcore" },
+              { "line": 1, "tag": "#DI" },
+              { "line": 1, "tag": "#validation" },
+            ],
+          "headings":
+            [{ "line": 0, "heading": "Fluent Valdiations", "level": 1 }],
+        },
+      "546a6df000fce37e19af535739594d315ee62391093904419a46cb28580a3fbd":
+        {
+          "links":
+            [
+              {
+                "line": 5,
+                "link": "10_to_1",
+                "original": "[[10_to_1|code iterations ]]",
+                "displayText": "code iterations",
+                "beforeContext": "It can cover ",
+                "afterContext": ", repository structure and maintenance, and testing best practices.",
+              },
+              {
+                "line": 5,
+                "link": "convention-scripts",
+                "original": "[[convention-scripts|structure]]",
+                "displayText": "structure",
+                "beforeContext": "It can cover code iterations, repository ",
+                "afterContext": " and maintenance, and testing best practices.",
+              },
+              {
+                "line": 5,
+                "link": "boyscouting",
+                "original": "[[boyscouting|maintenance]]",
+                "displayText": "maintenance",
+                "beforeContext": "It can cover code iterations, repository structure and ",
+                "afterContext": ", and testing best practices.",
+              },
+              {
+                "line": 5,
+                "link": "phantom-test",
+                "original": "[[phantom-test|testing]]",
+                "displayText": "testing",
+                "beforeContext": "It can cover code iterations, repository structure and maintenance, and ",
+                "afterContext": " best practices.",
+              },
+            ],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#code-quality" }],
+          "headings": [{ "line": 0, "heading": "Code quality", "level": 1 }],
+        },
+      "03471c194f15f34d2006c559679ee53ab311cd381a4333f9b3cc0fb0054e5707":
+        {
+          "links":
+            [
+              {
+                "line": 13,
+                "link": "duct_tape",
+                "original": "[[duct_tape|duct tape]]",
+                "displayText": "duct tape",
+                "beforeContext": "During boyscouting, looking for ",
+                "afterContext": " and marking it is useful.",
+              },
+            ],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#code-quality" }],
+          "headings": [{ "line": 0, "heading": "Boyscouting", "level": 1 }],
+        },
+      "6fceb63e8d29ac7fb7fd66d649d0d41638c087d6acfd943e456f2a9f91599719":
+        {
+          "links": [],
+          "embeds": [],
+          "tags": [{ "line": 1, "tag": "#code-quality" }],
+          "headings":
+            [{ "line": 0, "heading": "Look for the duct tape", "level": 1 }],
+        },
+    },
+  "algorithmVersion": 9,
+}

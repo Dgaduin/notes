@@ -1,1 +1,0 @@
-https://github.com/viraptor/reverse-interview/blob/master/README.md?utm_source=programmingdigest&utm_medium=email&utm_campaign=featured

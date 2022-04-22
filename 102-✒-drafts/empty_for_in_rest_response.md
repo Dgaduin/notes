@@ -1,1 +1,0 @@
-Some big companies use valid js syntax in the begging of api responces to prevent constructor hijacking scripts from siphoning data out. Before serilising the responce they do a shift left on the stream.

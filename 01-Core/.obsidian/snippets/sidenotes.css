@@ -1,0 +1,49 @@
+.cm-comment-start,
+.cm-comment-end,
+.cm-inline-footnote-start,
+.cm-inline-footnote-end {
+  color: transparent !important;
+  font-size: 0.1em;
+  letter-spacing: -1em;
+}
+
+.cm-comment-end::after,
+.cm-inline-footnote-end::after {
+  content: "💬";
+  font-size: 16px;
+  text-shadow: 0 0 0 var(--text-accent);
+  position: relative;
+  bottom: 3px;
+}
+
+.cm-comment:not(.cm-comment-end):not(.cm-comment-start),
+.cm-inline-footnote:not(.cm-inline-footnote-end):not(.cm-inline-footnote-start) {
+  position: relative;
+  z-index: 100 !important;
+  display: block;
+  margin-left: 10px;
+  margin-right: -265px;
+  margin-top: -25px;
+  float: right;
+  width: 250px;
+  font-size: 0.75em;
+  padding: 10px;
+  color: var(--text-normal);
+  border-left: 1px solid var(--text-accent);
+}
+
+/* The following is optional to keep comments & inline footnotes syntax editable inline */
+
+.cm-active .cm-comment-start,
+.cm-active .cm-comment-end,
+.cm-active .cm-inline-footnote-start,
+.cm-active .cm-inline-footnote-end {
+  color: var(--text-faint) !important;
+  font-size: 1em;
+  letter-spacing: initial;
+}
+
+.cm-active .cm-comment-end::after,
+.cm-active .cm-inline-footnote-end::after {
+  display: none;
+}

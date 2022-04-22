@@ -1,0 +1,3 @@
+- he drinks and has regrets about the thing
+- is partner with [[Georgi]]
+- was partnered with [[Gyote]]

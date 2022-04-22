@@ -1,0 +1,2 @@
+- is partner with [[harry|Harry]]
+- was partnered with [[Gyote]]

@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 28,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "width-override",
+    "sidenotes"
+  ],
+  "theme": "obsidian",
+  "translucency": false
+}

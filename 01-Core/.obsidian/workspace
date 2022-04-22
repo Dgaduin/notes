@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "a8275553da494534",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c2458c1d10870e9",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/Drawing 2022-04-15 00.37.30.excalidraw.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72bfc1eac6952947",
+    "type": "split",
+    "children": [
+      {
+        "id": "10f837c73dea121d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e2476c3fdd1e720",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6478f43d88caae7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65702a9322157ae6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca3ca5db5613cb55",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "fa46c97bdcb830d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ea97045803b667",
+        "type": "tabs",
+        "dimension": 24.776119402985074,
+        "children": [
+          {
+            "id": "2b2aad4082cd0191",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-04-15 00.37.30.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "1be7299b07d4432c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-04-15 00.37.30.excalidraw.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -1.3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.36288736930121185,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "21326da2375d6129",
+        "type": "tabs",
+        "dimension": 36.268656716417915,
+        "children": [
+          {
+            "id": "f5fa5eb0262a6820",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-04-15 00.37.30.excalidraw.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1e5fe75c7ecdc883",
+        "type": "tabs",
+        "dimension": 38.95522388059702,
+        "children": [
+          {
+            "id": "a33d0e99c64b1e22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-04-15 00.37.30.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "active": "4c2458c1d10870e9",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-04-15 00.37.30.excalidraw.md",
+    "001-📓-notes/003-📚-knowledge/knowledge-vectors.md",
+    "006-🌱-pins/oauth_client.md",
+    "001-📓-notes/001-⚙-tech/identity-server.md",
+    "009-🎲-rpg/campagins/krasis/notes/quest_log.md",
+    "009-🎲-rpg/campagins/krasis/notes/timeline.md",
+    "009-🎲-rpg/campagins/krasis/characters/bhguy1.md",
+    "009-🎲-rpg/campagins/krasis/characters/beg.md",
+    "009-🎲-rpg/campagins/krasis/characters/georgi.md",
+    "009-🎲-rpg/campagins/krasis/notes/the_theft.md"
+  ]
+}

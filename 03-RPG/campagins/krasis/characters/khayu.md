@@ -1,0 +1,9 @@
+- has been to [[../places/the_tower_of_knowledge|the tower]] before
+	- when?
+- [[kasim|the keeper]] fixed his letter
+	- why?
+- his letter was faked
+- killed the previous owner of his letter
+	- who were they?
+- has an affinity to body parts
+	- has a REAL affinity to [[Enyo]]

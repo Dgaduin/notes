@@ -1,1 +1,0 @@
-Users are humans using a registered [[102-✒-drafts/oauth_client|client]] to access a [[102-✒-drafts/idnetity-server_resource|secured resources]].

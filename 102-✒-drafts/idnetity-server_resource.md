@@ -1,1 +1,0 @@
-IdentityServer resources can be either [[oauth_claim|user claims]] or [[oauth_claim|API access claims]].

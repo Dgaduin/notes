@@ -1,0 +1,5 @@
+- half-elf
+- though
+- farmer
+- stubborn
+- remembers the old wars

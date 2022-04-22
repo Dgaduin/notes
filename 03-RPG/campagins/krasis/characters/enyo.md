@@ -1,0 +1,2 @@
+- assistant of [[priscila|Priscila]]
+- bruised - incompetence or abuse?

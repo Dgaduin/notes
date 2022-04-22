@@ -1,0 +1,7 @@
+- Joey
+- [[characters/kelly|Kelly]]'s brother
+- was part of [[notes/the_theft|the theft]] and works for [[../orgs/brothers_of_harm|BH]]
+	- he was the one who got stabbed
+	- MIA, maybe dead
+- he said they can maybe escape with his sister
+- had drug issues

@@ -1,0 +1,3 @@
+- was sent by a friend of [[kasim|the keeper]]
+- loses humanity to something 
+- wants to hunt the [[owlbear]] very bad

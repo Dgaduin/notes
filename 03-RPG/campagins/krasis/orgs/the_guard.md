@@ -1,0 +1,5 @@
+- ~~potentially~~ definitely corrupt in [[buckville|Buckville]] in connection to [[brothers_of_harm|BH]]
+	- how deep?
+		- the [[../characters/vincent|sheriff]] seems to be involved for sure
+		- [[../characters/captain_kaloyan|the captain]] not as much, probably the opposite
+	- is it top down or bottom up?

@@ -1,0 +1,4 @@
+- so the giant roaming bear is an owlbear 
+- [[characters/azshar|Azshar]] is very interested in that
+- has murdered at least 1 person
+- it's valued for it's magical parts

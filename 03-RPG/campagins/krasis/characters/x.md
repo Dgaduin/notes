@@ -1,0 +1,11 @@
+- is this [[x|X]]?
+	- he is literally called Mr. X
+- was in [[../places/oconnells|O'Connell's]] on our first morning
+- has visited the [[places/the_special_section|section]] 1 hour after [[../notes/the_theft|the theft]]
+- was at [[../places/the_tower_of_knowledge|the tower]] when we visited
+- old friends with [[Kasim]]
+- seems to be made of multiple creatures?
+	- or does it just bend wierdly
+- seems to be very capable
+- left us a ring of storing
+	- also suggested to investigate the cemetery for the grave of [[gyote|the dead guard]]

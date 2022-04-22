@@ -1,1 +1,0 @@
-Cable car city like https://www.theatlantic.com/photo/2013/08/stalins-rope-roads/100577/

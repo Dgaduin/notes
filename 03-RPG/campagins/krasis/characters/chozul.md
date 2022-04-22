@@ -1,0 +1,3 @@
+- large Ork monk
+- he is the martial art master at [[places/the_tower_of_knowledge|the tower]]
+- 

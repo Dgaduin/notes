@@ -1,1 +1,58 @@
-{"collapse-filter":false,"search":"#tech","showTags":false,"showAttachments":false,"hideUnresolved":false,"showOrphans":true,"collapse-color-groups":true,"colorGroups":[{"query":"tag:#tech","color":{"a":1,"rgb":5404128}},{"query":"tag:#food","color":{"a":1,"rgb":1417759}},{"query":"tag:#self/todo","color":{"a":1,"rgb":16711680}},{"query":"tag:#rpg","color":{"a":1,"rgb":10506976}}],"collapse-display":true,"showArrow":true,"textFadeMultiplier":-3,"nodeSizeMultiplier":1.35106382978723,"lineSizeMultiplier":1.74202127659574,"collapse-forces":true,"centerStrength":0.313829787234043,"repelStrength":20,"linkStrength":0.436170212765957,"linkDistance":500,"scale":0.3326971134371135,"close":false}
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:characters",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:places",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:orgs",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:notes",
+      "color": {
+        "a": 1,
+        "rgb": 5431008
+      }
+    },
+    {
+      "query": "path:things",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.3875,
+  "lineSizeMultiplier": 1.7625,
+  "collapse-forces": true,
+  "centerStrength": 0.482142857142857,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.4134539608754666,
+  "close": false
+}

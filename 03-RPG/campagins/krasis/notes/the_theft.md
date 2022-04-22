@@ -1,0 +1,39 @@
+---
+aliases: [the theft]
+---
+* the missing thing is [[../things/carwiles_codex_of_unthinkable_spells|Carwile's codex of unthinkable spells]]
+- some restricted scrolls have gone missing from [[../places/the_tower_of_knowledge|the tower]]
+- investigation doesn't have high priority from above
+- there is a [[../characters/gyote|dead guard]]
+	- his name was [[../characters/gyote|Gyote]]
+		- the other two are called [[../characters/harry|Harry]]  and [[../characters/georgi|Georgi]]
+			- they were told to sit and play cards and not be there 
+				- forgot to tell the dead guy
+			- they were hired last week?
+- people climbed to the roof and entered from the roof window
+	- building is tall - probably strong
+		- medium humanoids most likely
+	- there were 2 people
+		- one was wounded, probably serious
+- a lot of mud on the botts and on the scene
+	- later tracked to the forest in the rough direction of the [[../orgs/brothers_of_harm|BH]] camp
+- wood chips present around the rope
+	- similar found at [[../orgs/brothers_of_harm|BH]] camp
+- broken vial of black sap found on the scene
+	- thief's or guard's?
+	- it's a small remote village, who supplies it?
+		- [[../orgs/brothers_of_harm|BH]]?
+- rope present on the roof
+	- looks to be left there ahead of time
+		- [[../characters/priscila|Priscila]] and [[../characters/beg|BEG]] left it?
+- rooms are locked past 5
+	- 3 key - [[../characters/kasim|Kasim]], [[../characters/joseph|Joseph]], guard on duty
+		- Guard's key was left on the body
+			- thieves escaped via the rope - they didn't know about the keys
+- roof has one way magic windows
+	- necromancy is exempt
+	- you might be able to see someone on the roof
+	- how do you know where to break the roof?
+- we might have a witness: [[../characters/petyo|Petyo]]
+- [[../characters/captain_kaloyan|Captain Kaloyan]] has conducted an investigation already
+- the guard rota was changed the week before

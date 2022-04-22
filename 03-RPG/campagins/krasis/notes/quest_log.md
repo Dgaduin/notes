@@ -1,0 +1,16 @@
+![[timeline]]
+- [x] Inspect [[../places/the_special_section|the special section]]
+- [x]  Talk with [[../characters/rosie|Rosie]] about the [[../orgs/brothers_of_harm|BH]] extortion
+	- [x] Make sure [[../places/oconnells|the inn]] is protected during the night
+- [ ] Talk with [[../characters/beg|BEG]]
+- [x] Talk with [[../characters/kasim|Kasim]]
+	- [x] Who was [[../characters/x|X]]
+	- [x] Who was [[../characters/genadij|the old assistant]]
+- [ ] Talk with the [[../characters/vincent|sheriff]]
+- [ ] Meet [[../characters/captain_kaloyan|the captain]]
+- [x] Find out what happened to the [[../characters/gyote|dead guard]]
+- [ ] What is going on with [[../characters/azshar|Azshar]] 
+	- [ ] Kill the damn [[owlbear]] (and talk with [[../characters/priscila|Priscila]] about it)
+- [ ] [[../characters/oleary|O'Leary]] needs help the community 
+- [ ] Investigate graveyard
+- [x] Investigate hidden shelf

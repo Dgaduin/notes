@@ -1,0 +1,16 @@
+{
+  "pluginList": [
+    "nothingislost/obsidian-bartender",
+    "nothingislost/obsidian-cooklang-importer",
+    "konodyuk/obsidian-typing"
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "ribbonIconEnabled": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true,
+  "notificationsEnabled": true
+}

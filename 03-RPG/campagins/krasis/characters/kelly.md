@@ -1,0 +1,4 @@
+- Kelly-Sue
+- waitress at [[../places/oconnells|the inn]] 
+- has a lost brother
+- has been drinking lately

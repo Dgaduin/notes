@@ -1,0 +1,16 @@
+---
+date_created: +002020-09-15T11:24:57.000
+date_modified: +002021-10-05T11:16:17.000
+---
+
+# IIS Express Limited Ssl Ports
+
+#self/todo/pin
+
+Please, for the love of g\*d, try this, before you get mired in some unnecessary craziness!
+
+(Apparently IIS Express has reserved port range of 44300 - 44399 for simulating SSL)
+
+Change to port 44300 (https://localhost:44300/)
+
+From <https://stackoverflow.com/questions/28869246/iisexpress-cannot-find-ssl-page-running-localhost-with-visual-studio-2013>

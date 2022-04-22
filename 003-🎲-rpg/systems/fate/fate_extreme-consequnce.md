@@ -1,2 +1,0 @@
-# Extreme Consequences
-Extreme consequences are 8 value consequence, that can be taken at the cost of an existing character aspect. They can't be replaced, but on the next breakthrough can be amended to reflect the characters embrace of the change. 

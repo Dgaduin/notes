@@ -1,1 +1,0 @@
-https://talk.hyvor.com/blog/on-page-seo-checklist/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-73

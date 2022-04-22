@@ -1,1 +1,0 @@
-Software grows until it outgrows our capacity to understand it
